@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "75b151ce2380139d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1465161b24f01830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c37197978a897e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2557a034518e808",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1f1a74b720f2b4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b12b97c246a430",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6180b3048e79b5b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fd629195275c97a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd19a8c27c07a838",
+    "type": "split",
+    "children": [
+      {
+        "id": "62bc0dea32e671ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d02e449d9903be65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84656ad9133a9fdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88823b91318d8b93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "778d848e12bd0200",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03c37197978a897e",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.canvas",
+    "Main Canvas.canvas",
+    "Story/Los descendientes de Ymir migran.md",
+    "Story/Los descendientes de Ymir huyen.md",
+    "Story/Nacen Ask y Embla.md",
+    "Story/Odín, Vili y Vé se instalan en Asgard.md",
+    "Story/Formación de la Amalgama Primordial.md",
+    "Story/Creación de los 9 mundos.md",
+    "Story/Muere Thrudgelmir.md",
+    "Story/Final de la Guerra Primordial.md",
+    "Story/Muere Bor.md",
+    "Story/Comienza la Guerra Primordial.md",
+    "Story/Muere Ymir.md",
+    "Story/Nace Bergelmir.md",
+    "Story/Muere el hijo de Bolthor.md",
+    "Story/Muere Buri.md",
+    "Story/Nace Thrudgelmir.md",
+    "Story/Nace Buri.md",
+    "Story/Nacen Bestla, Mímir y su hermano.md",
+    "Story/Nacen Bolthor y su hermana.md",
+    "Story/Ymir devora a Audumbla.md",
+    "Story/Nace Audumbla.md",
+    "Story/Nacen Odín, Vili y Vé.md",
+    "Story/Bor y Bestla se unen.md",
+    "Story/Nace Bor.md",
+    "Story/Audumbla crea 4 ríos de leche.md"
+  ]
+}
