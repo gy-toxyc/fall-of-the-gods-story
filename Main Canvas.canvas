@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"326303befbdec4ce","type":"file","file":"Primera Era/Formación de la Amalgama Primordial.md","x":-180,"y":-773,"width":400,"height":293},
+		{"id":"33509dc0a0a00c29","type":"file","file":"Primera Era/Nace Ymir.md","x":-180,"y":-360,"width":400,"height":293}
+	],
+	"edges":[
+		{"id":"21ca7a498889b06e","fromNode":"326303befbdec4ce","fromSide":"bottom","toNode":"33509dc0a0a00c29","toSide":"top"}
+	]
+}
