@@ -1,4 +1,14 @@
 {
   "spellcheck": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "showLineNumber": false
 }

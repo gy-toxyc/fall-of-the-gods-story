@@ -4,15 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "1465161b24f01830",
+        "id": "9d764219057fb9b4",
         "type": "tabs",
+        "dimension": 50.25380710659898,
         "children": [
           {
-            "id": "03c37197978a897e",
+            "id": "8b0c8be92e2174db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Nacen Sól y Máni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09f82c45ce830786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Ciclo Día y Noche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1930c872d3fa690d",
+        "type": "tabs",
+        "dimension": 49.746192893401016,
+        "children": [
+          {
+            "id": "6c3bd83e96cb4747",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main Canvas.canvas",
+                "viewState": {
+                  "x": 506.6142074647715,
+                  "y": 2131.4090688972983,
+                  "zoom": -0.6666666666666667
+                }
+              }
             }
           }
         ]
@@ -81,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story/Nacen Odín, Vili y Vé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Story/Nacen Odín, Vili y Vé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Story/Nacen Odín, Vili y Vé.md"
+              }
             }
           }
         ]
@@ -138,34 +182,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03c37197978a897e",
+  "active": "6c3bd83e96cb4747",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled.canvas",
+    "Story/Ciclo Día y Noche.md",
+    "Story/Nacen Sól y Máni.md",
     "Main Canvas.canvas",
-    "Story/Los descendientes de Ymir migran.md",
-    "Story/Los descendientes de Ymir huyen.md",
-    "Story/Nacen Ask y Embla.md",
-    "Story/Odín, Vili y Vé se instalan en Asgard.md",
-    "Story/Formación de la Amalgama Primordial.md",
+    "Story/Migración de gigantes a Asgard.md",
+    "Story/Nace Glaur.md",
+    "Story/Nacimiento de los primeros dioses AEsir.md",
+    "Story/Comienzo de la Guerra de los Dos Mundos.md",
+    "Story/Nacimiento de la raza de los enanos.md",
+    "Story/Final de la Guerra de los Dos Mundos.md",
+    "Story/Creación de las cuevas de Svartalfheim.md",
+    "Story/Mótsognir y Durin huyen.md",
+    "Story/Nacimiento de la raza de los Gigantes de Fuego.md",
+    "Story/Migración de gigantes a Muspelheim.md",
+    "Story/Nacimiento de la raza de los Gigantes de Hielo.md",
+    "Untitled.md",
+    "Story/Migración de gigantes a Jötunheim.md",
+    "Story/Nacimiento de la raza de los elfos.md",
+    "Story/Migración de gigantes a Alfheim.md",
+    "Story/La raza de los humanos crece.md",
+    "Story/Nace Thrym.md",
+    "Story/La raza de los gigantes crece.md",
+    "Story/Audumbla crea 4 ríos de leche.md",
+    "Story/Vé migra a Vanaheim.md",
     "Story/Creación de los 9 mundos.md",
-    "Story/Muere Thrudgelmir.md",
-    "Story/Final de la Guerra Primordial.md",
-    "Story/Muere Bor.md",
-    "Story/Comienza la Guerra Primordial.md",
-    "Story/Muere Ymir.md",
-    "Story/Nace Bergelmir.md",
-    "Story/Muere el hijo de Bolthor.md",
-    "Story/Muere Buri.md",
-    "Story/Nace Thrudgelmir.md",
-    "Story/Nace Buri.md",
-    "Story/Nacen Bestla, Mímir y su hermano.md",
-    "Story/Nacen Bolthor y su hermana.md",
-    "Story/Ymir devora a Audumbla.md",
-    "Story/Nace Audumbla.md",
-    "Story/Nacen Odín, Vili y Vé.md",
-    "Story/Bor y Bestla se unen.md",
-    "Story/Nace Bor.md",
-    "Story/Audumbla crea 4 ríos de leche.md"
+    "Story/Nace Sinmara.md",
+    "Story/Nace Surt.md",
+    "Story/Odín, Vili y Vé se instalan en Asgard.md",
+    "Untitled.canvas"
   ]
 }
