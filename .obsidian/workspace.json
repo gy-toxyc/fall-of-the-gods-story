@@ -4,58 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "9d764219057fb9b4",
+        "id": "1930c872d3fa690d",
         "type": "tabs",
-        "dimension": 50.25380710659898,
+        "dimension": 48.66751269035533,
         "children": [
           {
-            "id": "8b0c8be92e2174db",
+            "id": "1f9a66c99144074a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Nacen Sól y Máni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09f82c45ce830786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Ciclo Día y Noche.md",
+                "file": "Story/Nace Völund, Agilaz y Slagfid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "1930c872d3fa690d",
+        "id": "9a72268b8e2374ab",
         "type": "tabs",
-        "dimension": 49.746192893401016,
+        "dimension": 51.33248730964467,
         "children": [
           {
-            "id": "6c3bd83e96cb4747",
+            "id": "6107588d33d36c79",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 506.6142074647715,
-                  "y": 2131.4090688972983,
-                  "zoom": -0.6666666666666667
+                  "x": -412.42813526260716,
+                  "y": 7882.459063342812,
+                  "zoom": -2.617084637816106
                 }
               }
             }
+          },
+          {
+            "id": "54a7e68a8f040eeb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Nacen Odín, Vili y Vé.md",
+                "file": "Main Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Nacen Odín, Vili y Vé.md",
+                "file": "Main Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Nacen Odín, Vili y Vé.md"
+                "file": "Main Canvas.canvas"
               }
             }
           }
@@ -182,11 +180,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c3bd83e96cb4747",
+  "active": "54a7e68a8f040eeb",
   "lastOpenFiles": [
+    "Story/Nace Völund, Agilaz y Slagfid.md",
+    "Main Canvas.canvas",
+    "Story/Nace Audumbla.md",
+    "Story/Final de la Guerra entre Humanos y Gigantes.md",
+    "Story/Muere Bergelmir.md",
+    "Story/Muere Bestla.md",
+    "Story/Los dioses AEsir intervienen en la guerra.md",
+    "Story/Comienza la Guerra entre Humanos y Gigantes.md",
     "Story/Ciclo Día y Noche.md",
     "Story/Nacen Sól y Máni.md",
-    "Main Canvas.canvas",
     "Story/Migración de gigantes a Asgard.md",
     "Story/Nace Glaur.md",
     "Story/Nacimiento de los primeros dioses AEsir.md",
@@ -203,14 +208,6 @@
     "Story/Nacimiento de la raza de los elfos.md",
     "Story/Migración de gigantes a Alfheim.md",
     "Story/La raza de los humanos crece.md",
-    "Story/Nace Thrym.md",
-    "Story/La raza de los gigantes crece.md",
-    "Story/Audumbla crea 4 ríos de leche.md",
-    "Story/Vé migra a Vanaheim.md",
-    "Story/Creación de los 9 mundos.md",
-    "Story/Nace Sinmara.md",
-    "Story/Nace Surt.md",
-    "Story/Odín, Vili y Vé se instalan en Asgard.md",
     "Untitled.canvas"
   ]
 }

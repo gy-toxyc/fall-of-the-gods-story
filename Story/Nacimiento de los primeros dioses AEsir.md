@@ -1,4 +1,4 @@
-> Año ???
+> Año 84
 
 Odín reina Asgard con Vili como su consejero tras la partida de Vé hacia Vanaheim.
 
