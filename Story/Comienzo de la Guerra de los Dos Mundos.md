@@ -1,4 +1,4 @@
-> Año ???
+> Año 540
 
 Tras varios conflictos entre elfos luminosos y elfos oscuros en Alfheim, estalla una brutal guerra entre estas dos subrazas.
 

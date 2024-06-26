@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1930c872d3fa690d",
+        "id": "2306c24235a58659",
         "type": "tabs",
-        "dimension": 48.66751269035533,
         "children": [
           {
-            "id": "1f9a66c99144074a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Nace Völund, Agilaz y Slagfid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9a72268b8e2374ab",
-        "type": "tabs",
-        "dimension": 51.33248730964467,
-        "children": [
-          {
-            "id": "6107588d33d36c79",
+            "id": "1fa1a27f9d9994fd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -412.42813526260716,
-                  "y": 7882.459063342812,
-                  "zoom": -2.617084637816106
+                  "x": -684.1139901982983,
+                  "y": 10782.468658032125,
+                  "zoom": -2.666666666666666
                 }
               }
             }
-          },
-          {
-            "id": "54a7e68a8f040eeb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,10 +149,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54a7e68a8f040eeb",
+  "active": "1fa1a27f9d9994fd",
   "lastOpenFiles": [
-    "Story/Nace Völund, Agilaz y Slagfid.md",
+    "Story/Se funda el Reino de Hunaland.md",
+    "README.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Main Canvas.canvas",
+    "Story/Se crea un asentamiento aislado de Jötun en el Bosque Járnvid.md",
+    "Story/Muere Bolthor.md",
+    "Story/Muere Vé.md",
+    "Story/Nace Lytir.md",
+    "Story/La raza de los dioses Vanir crece.md",
+    "Story/Se fundan los primeros reinos Jötun.md",
+    "Story/Muere Völund.md",
+    "Story/Se funda el Reino de Heorot.md",
+    "Story/Völund y sus hermanos son secuestrados.md",
+    "Story/Nacen Völund, Agilaz y Slagfid.md",
     "Story/Nace Audumbla.md",
     "Story/Final de la Guerra entre Humanos y Gigantes.md",
     "Story/Muere Bergelmir.md",
@@ -195,19 +178,6 @@
     "Story/Migración de gigantes a Asgard.md",
     "Story/Nace Glaur.md",
     "Story/Nacimiento de los primeros dioses AEsir.md",
-    "Story/Comienzo de la Guerra de los Dos Mundos.md",
-    "Story/Nacimiento de la raza de los enanos.md",
-    "Story/Final de la Guerra de los Dos Mundos.md",
-    "Story/Creación de las cuevas de Svartalfheim.md",
-    "Story/Mótsognir y Durin huyen.md",
-    "Story/Nacimiento de la raza de los Gigantes de Fuego.md",
-    "Story/Migración de gigantes a Muspelheim.md",
-    "Story/Nacimiento de la raza de los Gigantes de Hielo.md",
-    "Untitled.md",
-    "Story/Migración de gigantes a Jötunheim.md",
-    "Story/Nacimiento de la raza de los elfos.md",
-    "Story/Migración de gigantes a Alfheim.md",
-    "Story/La raza de los humanos crece.md",
     "Untitled.canvas"
   ]
 }
