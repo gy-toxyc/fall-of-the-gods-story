@@ -4,53 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2306c24235a58659",
+        "id": "ffa510504376e280",
         "type": "tabs",
         "children": [
           {
-            "id": "a4238e6d19d1af26",
+            "id": "ba2c8c1d017a93b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Gullveig comienza a tener pesadillas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1ff0eff694da0d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Gullveig escapa de casa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7b7191baa76ba6e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1fa1a27f9d9994fd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main Canvas.canvas",
-                "viewState": {
-                  "x": 1061.804506571298,
-                  "y": 16839.28610364371,
-                  "zoom": -2.666666666666666
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -119,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main Canvas.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,10 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fa1a27f9d9994fd",
+  "active": "ba2c8c1d017a93b7",
   "lastOpenFiles": [
-    "Story/Gullveig escapa de casa.md",
+    "Story/Gullveig vive en el pueblo de Vadstena.md",
+    "Story/Audumbla crea 4 ríos de leche.md",
+    "Story/Muere.md",
+    "Untitled.canvas",
+    "characters/Nanna.md",
+    "characters/Frey.md",
+    "Story/Ocurre el Desastre de Vadstena.md",
     "Main Canvas.canvas",
+    "characters",
+    "Story/Gullveig escapa de casa.md",
     "Story/Gullveig comienza a tener pesadillas.md",
     "Story/Gullveig ve a la Sombra del Bosque.md",
     "Story/Muere el padre de Gullveig.md",
@@ -202,12 +168,6 @@
     "Story/La raza de los dioses Vanir crece.md",
     "Story/Se fundan los primeros reinos Jötun.md",
     "Story/Muere Völund.md",
-    "Story/Se funda el Reino de Heorot.md",
-    "Story/Völund y sus hermanos son secuestrados.md",
-    "Story/Nacen Völund, Agilaz y Slagfid.md",
-    "Story/Nace Audumbla.md",
-    "Story/Final de la Guerra entre Humanos y Gigantes.md",
-    "Story/Muere Bergelmir.md",
-    "Untitled.canvas"
+    "Story/Se funda el Reino de Heorot.md"
   ]
 }
