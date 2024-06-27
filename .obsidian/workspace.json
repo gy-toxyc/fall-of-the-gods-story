@@ -8,6 +8,37 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a4238e6d19d1af26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Gullveig comienza a tener pesadillas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1ff0eff694da0d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Gullveig escapa de casa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7b7191baa76ba6e4",
+        "type": "tabs",
+        "children": [
+          {
             "id": "1fa1a27f9d9994fd",
             "type": "leaf",
             "state": {
@@ -15,8 +46,8 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -684.1139901982983,
-                  "y": 10782.468658032125,
+                  "x": 1061.804506571298,
+                  "y": 16839.28610364371,
                   "zoom": -2.666666666666666
                 }
               }
@@ -151,12 +182,19 @@
   },
   "active": "1fa1a27f9d9994fd",
   "lastOpenFiles": [
+    "Story/Gullveig escapa de casa.md",
+    "Main Canvas.canvas",
+    "Story/Gullveig comienza a tener pesadillas.md",
+    "Story/Gullveig ve a la Sombra del Bosque.md",
+    "Story/Muere el padre de Gullveig.md",
+    "Story/Nace Gullveig.md",
+    "Story/Nace Heid.md",
+    "Story/Nace Ivaldi.md",
+    "Story/Nace AEgir.md",
     "Story/Se funda el Reino de Hunaland.md",
     "README.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "Main Canvas.canvas",
     "Story/Se crea un asentamiento aislado de Jötun en el Bosque Járnvid.md",
     "Story/Muere Bolthor.md",
     "Story/Muere Vé.md",
@@ -170,14 +208,6 @@
     "Story/Nace Audumbla.md",
     "Story/Final de la Guerra entre Humanos y Gigantes.md",
     "Story/Muere Bergelmir.md",
-    "Story/Muere Bestla.md",
-    "Story/Los dioses AEsir intervienen en la guerra.md",
-    "Story/Comienza la Guerra entre Humanos y Gigantes.md",
-    "Story/Ciclo Día y Noche.md",
-    "Story/Nacen Sól y Máni.md",
-    "Story/Migración de gigantes a Asgard.md",
-    "Story/Nace Glaur.md",
-    "Story/Nacimiento de los primeros dioses AEsir.md",
     "Untitled.canvas"
   ]
 }
