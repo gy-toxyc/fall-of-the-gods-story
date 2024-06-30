@@ -8,35 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71371b28a150e13c",
+            "id": "bdcb7333b692b24d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Untitled.md",
+                "file": "Story/Nace Thor.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c33e3d3ef816885d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60ab6b01d9b7f92f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main Canvas.canvas",
-                "viewState": {
-                  "x": -2156.6462983652573,
-                  "y": 20802.649582110796,
-                  "zoom": -1.666666666666666
-                }
               }
             }
           }
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Story/Nace Thor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Story/Nace Thor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Canvas.canvas"
+                "file": "Story/Nace Thor.md"
               }
             }
           }
@@ -167,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60ab6b01d9b7f92f",
+  "active": "bdcb7333b692b24d",
   "lastOpenFiles": [
-    "Story/Untitled.md",
-    "Story/Nace Dváli.md",
     "Main Canvas.canvas",
+    "Story/Nace Thor.md",
+    "Story/Nacen los Vástagos del Caos.md",
+    "Story/Loki se casa con Angrboda.md",
+    "Story/Loki se marcha de Asgard.md",
+    "Untitled.canvas",
+    "Story/Untitled.md",
     "Story/Nace Narfi.md",
+    "Story/Nacen Dváli y Narfi.md",
     "Story/Loki se casa con Sigyn.md",
     "Story/Loki vive en Asgard.md",
     "Story/Loki conoce a Odín.md",
@@ -191,12 +175,6 @@
     "Story/Sveinn aprovecha la guerra para realizar importantes robos.md",
     "Story/Inicia la Guerra de los Dioses.md",
     "Story/Muere Gullveig.md",
-    "Story/Vilh se queda solo.md",
-    "Story/Freyja y Vilh se casan.md",
-    "Story/Gullveig funda una escuela de magia.md",
-    "Story/Gullveig se reencuentra con su madre.md",
-    "Story/Sveinn se convierte en ladrón maestro.md",
-    "Untitled.canvas",
     "characters"
   ]
 }
