@@ -8,11 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba2c8c1d017a93b7",
+            "id": "71371b28a150e13c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c33e3d3ef816885d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60ab6b01d9b7f92f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main Canvas.canvas",
+                "viewState": {
+                  "x": -2156.6462983652573,
+                  "y": 20802.649582110796,
+                  "zoom": -1.666666666666666
+                }
+              }
             }
           }
         ]
@@ -65,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Main Canvas.canvas"
+              }
             }
           }
         ]
@@ -138,36 +167,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba2c8c1d017a93b7",
+  "active": "60ab6b01d9b7f92f",
   "lastOpenFiles": [
-    "Story/Gullveig vive en el pueblo de Vadstena.md",
-    "Story/Audumbla crea 4 ríos de leche.md",
-    "Story/Muere.md",
-    "Untitled.canvas",
-    "characters/Nanna.md",
-    "characters/Frey.md",
-    "Story/Ocurre el Desastre de Vadstena.md",
+    "Story/Untitled.md",
+    "Story/Nace Dváli.md",
     "Main Canvas.canvas",
-    "characters",
-    "Story/Gullveig escapa de casa.md",
-    "Story/Gullveig comienza a tener pesadillas.md",
-    "Story/Gullveig ve a la Sombra del Bosque.md",
-    "Story/Muere el padre de Gullveig.md",
-    "Story/Nace Gullveig.md",
-    "Story/Nace Heid.md",
-    "Story/Nace Ivaldi.md",
-    "Story/Nace AEgir.md",
-    "Story/Se funda el Reino de Hunaland.md",
-    "README.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Story/Se crea un asentamiento aislado de Jötun en el Bosque Járnvid.md",
-    "Story/Muere Bolthor.md",
-    "Story/Muere Vé.md",
-    "Story/Nace Lytir.md",
-    "Story/La raza de los dioses Vanir crece.md",
-    "Story/Se fundan los primeros reinos Jötun.md",
-    "Story/Muere Völund.md",
-    "Story/Se funda el Reino de Heorot.md"
+    "Story/Nace Narfi.md",
+    "Story/Loki se casa con Sigyn.md",
+    "Story/Loki vive en Asgard.md",
+    "Story/Loki conoce a Odín.md",
+    "Story/Muere Laufey.md",
+    "Story/Nace Loki.md",
+    "Story/Holger pide permiso a Odín para ir a Vanaheim.md",
+    "Story/Odín realiza magia sobre Freyja.md",
+    "Story/Holger conoce a Freyja.md",
+    "Story/Freyja se ve obligada a vivir en Asgard.md",
+    "Story/Final de la Guerra de los Dioses.md",
+    "Story/Yves comienza una amistad con Hela.md",
+    "Story/Yves comienza a tener pesadillas.md",
+    "Story/Holger presencia el asesinato de Gullveig.md",
+    "Story/Holger migra a Asgard.md",
+    "Story/Holger comienza su interés por el conocimiento.md",
+    "Story/Sveinn aprovecha la guerra para realizar importantes robos.md",
+    "Story/Inicia la Guerra de los Dioses.md",
+    "Story/Muere Gullveig.md",
+    "Story/Vilh se queda solo.md",
+    "Story/Freyja y Vilh se casan.md",
+    "Story/Gullveig funda una escuela de magia.md",
+    "Story/Gullveig se reencuentra con su madre.md",
+    "Story/Sveinn se convierte en ladrón maestro.md",
+    "Untitled.canvas",
+    "characters"
   ]
 }
