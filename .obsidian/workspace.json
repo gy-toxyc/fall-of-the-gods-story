@@ -4,18 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "ffa510504376e280",
+        "id": "8129e6c456aefbd6",
         "type": "tabs",
+        "dimension": 40.288220551378444,
         "children": [
           {
-            "id": "bdcb7333b692b24d",
+            "id": "493079c7868a4ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Nace Thor.md",
+                "file": "Story/Frey y Gerd se casan.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1c509487e88f7abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Nace Fjölnir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "42ef67c050d73113",
+        "type": "tabs",
+        "dimension": 59.71177944862155,
+        "children": [
+          {
+            "id": "139782999744d7b5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main Canvas.canvas",
+                "viewState": {
+                  "x": 374.3530267009907,
+                  "y": 31371.39306634851,
+                  "zoom": -2.3333333333333326
+                }
               }
             }
           }
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Nace Thor.md",
+                "file": "Main Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Nace Thor.md",
+                "file": "Main Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Nace Thor.md"
+                "file": "Main Canvas.canvas"
               }
             }
           }
@@ -146,35 +182,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdcb7333b692b24d",
+  "active": "139782999744d7b5",
   "lastOpenFiles": [
+    "Story/Nace Fjölnir.md",
+    "Story/Frey y Gerd se casan.md",
     "Main Canvas.canvas",
-    "Story/Nace Thor.md",
-    "Story/Nacen los Vástagos del Caos.md",
-    "Story/Loki se casa con Angrboda.md",
-    "Story/Loki se marcha de Asgard.md",
-    "Untitled.canvas",
+    "Story/Muere Beli.md",
+    "Story/Nacen Gerd y Beli.md",
+    "Story/Nace Grid.md",
     "Story/Untitled.md",
-    "Story/Nace Narfi.md",
-    "Story/Nacen Dváli y Narfi.md",
-    "Story/Loki se casa con Sigyn.md",
-    "Story/Loki vive en Asgard.md",
-    "Story/Loki conoce a Odín.md",
-    "Story/Muere Laufey.md",
-    "Story/Nace Loki.md",
-    "Story/Holger pide permiso a Odín para ir a Vanaheim.md",
-    "Story/Odín realiza magia sobre Freyja.md",
-    "Story/Holger conoce a Freyja.md",
-    "Story/Freyja se ve obligada a vivir en Asgard.md",
-    "Story/Final de la Guerra de los Dioses.md",
-    "Story/Yves comienza una amistad con Hela.md",
-    "Story/Yves comienza a tener pesadillas.md",
-    "Story/Holger presencia el asesinato de Gullveig.md",
-    "Story/Holger migra a Asgard.md",
-    "Story/Holger comienza su interés por el conocimiento.md",
-    "Story/Sveinn aprovecha la guerra para realizar importantes robos.md",
-    "Story/Inicia la Guerra de los Dioses.md",
-    "Story/Muere Gullveig.md",
+    "Story/Nace Grim.md",
+    "Story/Nace Eisa y Eimyrja.md",
+    "Story/Glod se muda a Muspelheim.md",
+    "Story/Se funda Grimsgard.md",
+    "Story/Nace Glod.md",
+    "Story/AEgir y Aurboda se casan.md",
+    "Story/Muere Rán.md",
+    "Story/Nace Heimdall.md",
+    "Story/Logi se muda a Muspelheim.md",
+    "Story/Nace Fórnjot.md",
+    "Story/AEgir y Rán se casan.md",
+    "Story/Nacen las 9 hijas de AEgir y Rán.md",
+    "Story/Nace Aurboda.md",
+    "Story/Nace Rán.md",
+    "Story/Nace Geirrod.md",
+    "Story/Nacen Gjálp y Grelp.md",
+    "Story/Nace Vidar.md",
+    "Story/Nacen Fjalar y Galar.md",
+    "Story/Odín roba el hidromiel de Suttung.md",
+    "Story/Nace Baugi.md",
+    "Untitled.canvas",
     "characters"
   ]
 }
