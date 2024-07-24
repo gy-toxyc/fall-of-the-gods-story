@@ -6,39 +6,26 @@
       {
         "id": "8129e6c456aefbd6",
         "type": "tabs",
-        "dimension": 40.288220551378444,
+        "dimension": 38.86107634543179,
         "children": [
           {
-            "id": "493079c7868a4ce3",
+            "id": "ad36983be1195932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Frey y Gerd se casan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c509487e88f7abe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Nace Fjölnir.md",
+                "file": "Story/Nace Hoenir.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "42ef67c050d73113",
         "type": "tabs",
-        "dimension": 59.71177944862155,
+        "dimension": 61.13892365456821,
         "children": [
           {
             "id": "139782999744d7b5",
@@ -48,9 +35,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 374.3530267009907,
-                  "y": 31371.39306634851,
-                  "zoom": -2.3333333333333326
+                  "x": -74.51379390476069,
+                  "y": 23528.230527989905,
+                  "zoom": -1.9999999999999993
                 }
               }
             }
@@ -184,33 +171,34 @@
   },
   "active": "139782999744d7b5",
   "lastOpenFiles": [
+    "Story/Nace Hoenir.md",
+    "Story/Nace Idunn.md",
+    "Main Canvas.canvas",
+    "Story/Nacen Thjazi, Idi y Gang.md",
+    "Story/Pasted image 20240724155239.png",
+    "Story/Nace Skadi.md",
+    "Story/Holger, Vilh y Sveinn se conocen.md",
+    "Story/Balder y Nanna se casan.md",
+    "Story/Nace Forseti.md",
+    "Story/Nace Nepr.md",
+    "Story/Nace Nanna.md",
+    "Story/Nace Hermod.md",
+    "Story/Nacen Balder y Hoder.md",
+    "Story/Nace Tyr.md",
+    "Story/Odín vuelve a visitar a las nornas.md",
+    "Story/Frigg y Odín buscan la respuesta y solución a las pesadillas de Balder.md",
+    "Story/Comienzan las pesadillas de Balder.md",
+    "Story/Yves le cuenta a Surt el plan del Ragnarök.md",
+    "Story/Surt hace un altar a Sinmara en Muspelheim.md",
+    "Story/Yves debe marcharse.md",
+    "Story/Muere Sinmara.md",
+    "Story/Surt y Sinmara reciben a un desconocido.md",
+    "Story/Yves escapa de Helheim.md",
+    "Story/AEgir y Aurboda se casan.md",
     "Story/Nace Fjölnir.md",
     "Story/Frey y Gerd se casan.md",
-    "Main Canvas.canvas",
     "Story/Muere Beli.md",
     "Story/Nacen Gerd y Beli.md",
-    "Story/Nace Grid.md",
-    "Story/Untitled.md",
-    "Story/Nace Grim.md",
-    "Story/Nace Eisa y Eimyrja.md",
-    "Story/Glod se muda a Muspelheim.md",
-    "Story/Se funda Grimsgard.md",
-    "Story/Nace Glod.md",
-    "Story/AEgir y Aurboda se casan.md",
-    "Story/Muere Rán.md",
-    "Story/Nace Heimdall.md",
-    "Story/Logi se muda a Muspelheim.md",
-    "Story/Nace Fórnjot.md",
-    "Story/AEgir y Rán se casan.md",
-    "Story/Nacen las 9 hijas de AEgir y Rán.md",
-    "Story/Nace Aurboda.md",
-    "Story/Nace Rán.md",
-    "Story/Nace Geirrod.md",
-    "Story/Nacen Gjálp y Grelp.md",
-    "Story/Nace Vidar.md",
-    "Story/Nacen Fjalar y Galar.md",
-    "Story/Odín roba el hidromiel de Suttung.md",
-    "Story/Nace Baugi.md",
     "Untitled.canvas",
     "characters"
   ]
