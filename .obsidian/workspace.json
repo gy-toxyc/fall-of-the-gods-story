@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8129e6c456aefbd6",
+        "id": "912c71183f28ee47",
         "type": "tabs",
-        "dimension": 38.86107634543179,
         "children": [
           {
-            "id": "ad36983be1195932",
+            "id": "00ba7f7915f3a85d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Nace Hoenir.md",
+                "file": "Story/Mímir se muda a Asgard.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "42ef67c050d73113",
-        "type": "tabs",
-        "dimension": 61.13892365456821,
-        "children": [
-          {
-            "id": "139782999744d7b5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main Canvas.canvas",
-                "viewState": {
-                  "x": -74.51379390476069,
-                  "y": 23528.230527989905,
-                  "zoom": -1.9999999999999993
-                }
               }
             }
           }
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Story/Mímir se muda a Asgard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Story/Mímir se muda a Asgard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Canvas.canvas"
+                "file": "Story/Mímir se muda a Asgard.md"
               }
             }
           }
@@ -169,11 +146,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "139782999744d7b5",
+  "floating": {
+    "id": "b242f726f5560f61",
+    "type": "floating",
+    "children": [
+      {
+        "id": "45ff30c434ba10e1",
+        "type": "window",
+        "children": [
+          {
+            "id": "fcee341449c0cd13",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0d5d3d908c0ffaf7",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Main Canvas.canvas",
+                    "viewState": {
+                      "x": 561.9505568148879,
+                      "y": 25008.547673973146,
+                      "zoom": -2.666666666666666
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1064,
+        "y": 0,
+        "width": 856,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "00ba7f7915f3a85d",
   "lastOpenFiles": [
-    "Story/Nace Hoenir.md",
-    "Story/Nace Idunn.md",
     "Main Canvas.canvas",
+    "Story/Mímir se muda a Asgard.md",
+    "Story/Untitled 1.md",
+    "Untitled 1.canvas",
+    "Story/Final de la Guerra de los Dioses.md",
+    "Story/Ni Vilh ni Freyja participan en la guerra.md",
+    "Story/Nace Hoenir.md",
+    "Untitled 1.md",
+    "Story/Nace Idunn.md",
     "Story/Nacen Thjazi, Idi y Gang.md",
     "Story/Pasted image 20240724155239.png",
     "Story/Nace Skadi.md",
@@ -193,12 +216,6 @@
     "Story/Yves debe marcharse.md",
     "Story/Muere Sinmara.md",
     "Story/Surt y Sinmara reciben a un desconocido.md",
-    "Story/Yves escapa de Helheim.md",
-    "Story/AEgir y Aurboda se casan.md",
-    "Story/Nace Fjölnir.md",
-    "Story/Frey y Gerd se casan.md",
-    "Story/Muere Beli.md",
-    "Story/Nacen Gerd y Beli.md",
     "Untitled.canvas",
     "characters"
   ]
