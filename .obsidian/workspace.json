@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00ba7f7915f3a85d",
+            "id": "b3c215f3fb8c2d51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Mímir se muda a Asgard.md",
+                "file": "Story/Nace Skrýmir.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Mímir se muda a Asgard.md",
+                "file": "Story/Nace Skrýmir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Mímir se muda a Asgard.md",
+                "file": "Story/Nace Skrýmir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Mímir se muda a Asgard.md"
+                "file": "Story/Nace Skrýmir.md"
               }
             }
           }
@@ -146,56 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "b242f726f5560f61",
-    "type": "floating",
-    "children": [
-      {
-        "id": "45ff30c434ba10e1",
-        "type": "window",
-        "children": [
-          {
-            "id": "fcee341449c0cd13",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0d5d3d908c0ffaf7",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Main Canvas.canvas",
-                    "viewState": {
-                      "x": 561.9505568148879,
-                      "y": 25008.547673973146,
-                      "zoom": -2.666666666666666
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1064,
-        "y": 0,
-        "width": 856,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "00ba7f7915f3a85d",
+  "active": "b3c215f3fb8c2d51",
   "lastOpenFiles": [
     "Main Canvas.canvas",
+    "Story/Nace Skrýmir.md",
+    "Story/Nace Elli.md",
+    "Story/Holger vive la guerra desde Asgard, sin participar.md",
+    "Story/La cabeza de Mímir vuelve a ser de Odín.md",
+    "Story/Muere Hoenir.md",
+    "Story/Odín cede la cabeza de Mímir a Hoenir.md",
+    "Untitled.md",
+    "Story/Mímir es decapitado.md",
+    "Story/Odín se reencuentra con Mímir.md",
     "Story/Mímir se muda a Asgard.md",
     "Story/Untitled 1.md",
     "Untitled 1.canvas",
     "Story/Final de la Guerra de los Dioses.md",
     "Story/Ni Vilh ni Freyja participan en la guerra.md",
     "Story/Nace Hoenir.md",
-    "Untitled 1.md",
     "Story/Nace Idunn.md",
     "Story/Nacen Thjazi, Idi y Gang.md",
     "Story/Pasted image 20240724155239.png",
@@ -208,14 +176,6 @@
     "Story/Nace Hermod.md",
     "Story/Nacen Balder y Hoder.md",
     "Story/Nace Tyr.md",
-    "Story/Odín vuelve a visitar a las nornas.md",
-    "Story/Frigg y Odín buscan la respuesta y solución a las pesadillas de Balder.md",
-    "Story/Comienzan las pesadillas de Balder.md",
-    "Story/Yves le cuenta a Surt el plan del Ragnarök.md",
-    "Story/Surt hace un altar a Sinmara en Muspelheim.md",
-    "Story/Yves debe marcharse.md",
-    "Story/Muere Sinmara.md",
-    "Story/Surt y Sinmara reciben a un desconocido.md",
     "Untitled.canvas",
     "characters"
   ]
