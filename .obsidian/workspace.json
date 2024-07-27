@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "912c71183f28ee47",
+        "id": "0dce25ecba99ace0",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c215f3fb8c2d51",
+            "id": "9f3dec94138ee40c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Nace Skrýmir.md",
+                "file": "Story/Los humanos se recomponen de la guerra.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 248.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Nace Skrýmir.md",
+                "file": "Story/Los humanos se recomponen de la guerra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Nace Skrýmir.md",
+                "file": "Story/Los humanos se recomponen de la guerra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Nace Skrýmir.md"
+                "file": "Story/Los humanos se recomponen de la guerra.md"
               }
             }
           }
@@ -146,36 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3c215f3fb8c2d51",
+  "active": "9f3dec94138ee40c",
   "lastOpenFiles": [
     "Main Canvas.canvas",
-    "Story/Nace Skrýmir.md",
-    "Story/Nace Elli.md",
-    "Story/Holger vive la guerra desde Asgard, sin participar.md",
-    "Story/La cabeza de Mímir vuelve a ser de Odín.md",
-    "Story/Muere Hoenir.md",
-    "Story/Odín cede la cabeza de Mímir a Hoenir.md",
-    "Untitled.md",
-    "Story/Mímir es decapitado.md",
-    "Story/Odín se reencuentra con Mímir.md",
-    "Story/Mímir se muda a Asgard.md",
-    "Story/Untitled 1.md",
+    "Story/Los humanos se recomponen de la guerra.md",
+    "Story/Nace Sigurd.md",
+    "Story/Sigmund expulsa a Sisibe.md",
+    "Story/Sigmund encuentra la espada Balmung.md",
+    "Story/Sigmund conquista Karlaug.md",
+    "Story/Nace Sigmund.md",
+    "Story/Muere Andvari.md",
+    "Story/Alberich migra a Midgard.md",
+    "Story/Holger conoce a Andvari.md",
+    "Story/Andvari se exilia a Alfheim.md",
+    "Story/Nace Alberich.md",
+    "Story/Mueren Sigurd y Brynhild.md",
+    "Untitled 2.md",
+    "Story/Sigurd mata a Fafnir.md",
+    "Story/Regin forja una espada a Sigurd.md",
+    "Story/Regin habla con Sigurd.md",
+    "Story/Muere Hreidmar.md",
+    "Story/Loki entrega el Anillo de Andvari a Hreidmar.md",
+    "Story/Loki roba el Anillo de Andvari.md",
+    "Story/Andvari forja su obra maestra, el Anillo de Andvari.md",
+    "Story/Nace Andvari.md",
+    "Story/Se forjan las armas y artilugios de los AEsir.md",
+    "Story/Loki engaña a Brokk y a Sindri.md",
+    "Story/Loki engaña a los Hijos de Ivaldi.md",
+    "Story/Loki le corta el pelo a Sif.md",
     "Untitled 1.canvas",
-    "Story/Final de la Guerra de los Dioses.md",
-    "Story/Ni Vilh ni Freyja participan en la guerra.md",
-    "Story/Nace Hoenir.md",
-    "Story/Nace Idunn.md",
-    "Story/Nacen Thjazi, Idi y Gang.md",
     "Story/Pasted image 20240724155239.png",
-    "Story/Nace Skadi.md",
-    "Story/Holger, Vilh y Sveinn se conocen.md",
-    "Story/Balder y Nanna se casan.md",
-    "Story/Nace Forseti.md",
-    "Story/Nace Nepr.md",
-    "Story/Nace Nanna.md",
-    "Story/Nace Hermod.md",
-    "Story/Nacen Balder y Hoder.md",
-    "Story/Nace Tyr.md",
     "Untitled.canvas",
     "characters"
   ]
