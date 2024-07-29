@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f3dec94138ee40c",
+            "id": "9238263e044d5824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Los humanos se recomponen de la guerra.md",
+                "file": "Story/Balder visita a los padres de Sveinn en su ausencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 245.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Los humanos se recomponen de la guerra.md",
+                "file": "Main Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Los humanos se recomponen de la guerra.md",
+                "file": "Main Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Los humanos se recomponen de la guerra.md"
+                "file": "Main Canvas.canvas"
               }
             }
           }
@@ -146,9 +146,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f3dec94138ee40c",
+  "floating": {
+    "id": "ae31cb1a905e1ad3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "20f626e80a8affa6",
+        "type": "window",
+        "children": [
+          {
+            "id": "67958abb553233d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "057d12198463b03c",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Main Canvas.canvas",
+                    "viewState": {
+                      "x": -9065.590548768523,
+                      "y": 61416.03272421805,
+                      "zoom": -4
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "057d12198463b03c",
   "lastOpenFiles": [
+    "Story/Balder visita a los padres de Sveinn en su ausencia.md",
     "Main Canvas.canvas",
+    "Story/AEgir y Aurboda se casan.md",
     "Story/Los humanos se recomponen de la guerra.md",
     "Story/Nace Sigurd.md",
     "Story/Sigmund expulsa a Sisibe.md",
@@ -172,8 +214,6 @@
     "Story/Nace Andvari.md",
     "Story/Se forjan las armas y artilugios de los AEsir.md",
     "Story/Loki engaña a Brokk y a Sindri.md",
-    "Story/Loki engaña a los Hijos de Ivaldi.md",
-    "Story/Loki le corta el pelo a Sif.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",
