@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7f5be5e7920f8f02",
-        "type": "tabs",
-        "dimension": 36.12862547288776,
-        "children": [
-          {
-            "id": "1b34a6624914439a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Holger escucha los asesinatos de Balder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "186d258f85cbecbe",
         "type": "tabs",
-        "dimension": 63.87137452711224,
         "children": [
           {
             "id": "d990f5d653baa1a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Canvas.canvas",
-                "viewState": {
-                  "x": 3579.554926372014,
-                  "y": 33763.16108707367,
-                  "zoom": 0.17018636067708293
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 270.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Canvas.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -171,8 +148,11 @@
   },
   "active": "d990f5d653baa1a5",
   "lastOpenFiles": [
-    "Story/Holger escucha los asesinatos de Balder.md",
     "Main Canvas.canvas",
+    "Story/Untitled.md",
+    "Story/Untitled 1.md",
+    "Untitled.md",
+    "Story/Holger escucha los asesinatos de Balder.md",
     "Story/Adils e Yrsa se casan.md",
     "Story/Muere Vili.md",
     "Story/Holger se queda en Vidblain.md",
@@ -180,7 +160,6 @@
     "Story/Sveinn y Vilh migran a Midgard.md",
     "Story/Se lleva a cabo el Consejo del Gimlé.md",
     "Story/Los dioses vuelven a sus antiguas tierras.md",
-    "Story/Untitled.md",
     "Story/Yves continúa en el letargo.md",
     "Story/Muere Rasvelg.md",
     "Story/Final del Ragnarök.md",
@@ -195,8 +174,6 @@
     "Story/Perece la raza de los Jötun.md",
     "Story/El ejército de Helheim parte hacia Vigrid..md",
     "Story/Da comienzo el Fimbulvinter.md",
-    "Story/Líf y Lifthrásir se esconden.md",
-    "Story/Perece la raza de los humanos.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",

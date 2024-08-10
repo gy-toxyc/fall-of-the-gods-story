@@ -10,5 +10,6 @@
   },
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "showInlineTitle": false
 }
