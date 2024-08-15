@@ -9,11 +9,15 @@
         "dimension": 37.452711223203025,
         "children": [
           {
-            "id": "d74716714b0b2c5a",
+            "id": "8cd5c03302cc9c8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Se descubre la verdad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -31,8 +35,8 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 1501.7281778074369,
-                  "y": 50367.0121940075,
+                  "x": -256.6000853567175,
+                  "y": 60978.77532902929,
                   "zoom": -3.6666666666666665
                 }
               }
@@ -104,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Story/Se descubre la verdad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Story/Se descubre la verdad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Canvas.canvas"
+                "file": "Story/Se descubre la verdad.md"
               }
             }
           }
@@ -165,11 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d990f5d653baa1a5",
+  "active": "8cd5c03302cc9c8e",
   "lastOpenFiles": [
+    "Main Canvas.canvas",
+    "Story/Se descubre la verdad.md",
+    "Story/Holger y Sveinn regresan a Vanaheim.md",
+    "Story/Holger y Sveinn pelean contra Odín y Thor.md",
+    "Untitled 1.md",
+    "Story/Holger y Sveinn van a Asgard.md",
     "Story/Vilh, Sveinn, Holger e Yves se reunen.md",
     "Story/Holger llega a Vanaheim.md",
-    "Main Canvas.canvas",
     "Story/Vilh e Yves hablan del Fjölkyng.md",
     "Story/Vilh y Sveinn conocen a Yves.md",
     "Story/Yves viaja a Vanaheim.md",
@@ -188,12 +197,6 @@
     "Story/Yves tiene su segundo sueño.md",
     "Story/Holger escucha los asesinatos de Balder.md",
     "Story/Adils e Yrsa se casan.md",
-    "Story/Muere Vili.md",
-    "Story/Holger se queda en Vidblain.md",
-    "Story/Hela se marcha a reinar Náströnd.md",
-    "Story/Sveinn y Vilh migran a Midgard.md",
-    "Story/Se lleva a cabo el Consejo del Gimlé.md",
-    "Story/Los dioses vuelven a sus antiguas tierras.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",
