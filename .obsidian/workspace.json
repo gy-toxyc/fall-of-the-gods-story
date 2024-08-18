@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f5be5e7920f8f02",
+        "id": "186d258f85cbecbe",
         "type": "tabs",
-        "dimension": 37.452711223203025,
+        "dimension": 31.399747793190414,
         "children": [
           {
-            "id": "8cd5c03302cc9c8e",
+            "id": "7ce3720d80da2da9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Se descubre la verdad.md",
+                "file": "Story/Loki y Sveinn se conocen.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,21 +23,21 @@
         ]
       },
       {
-        "id": "186d258f85cbecbe",
+        "id": "a55c88142194c3ed",
         "type": "tabs",
-        "dimension": 62.547288776796975,
+        "dimension": 68.60025220680959,
         "children": [
           {
-            "id": "d990f5d653baa1a5",
+            "id": "286bfc80c2d461ca",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -256.6000853567175,
-                  "y": 60978.77532902929,
-                  "zoom": -3.6666666666666665
+                  "x": 971.944049487023,
+                  "y": 28684.945232868216,
+                  "zoom": -1.3333333333333333
                 }
               }
             }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 278.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Se descubre la verdad.md",
+                "file": "Main Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Se descubre la verdad.md",
+                "file": "Main Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Se descubre la verdad.md"
+                "file": "Main Canvas.canvas"
               }
             }
           }
@@ -169,9 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cd5c03302cc9c8e",
+  "active": "286bfc80c2d461ca",
   "lastOpenFiles": [
+    "Story/Loki y Sveinn se conocen.md",
     "Main Canvas.canvas",
+    "Story/Nace Grafvitnir.md",
+    "Story/Desaparece Grafvitnir.md",
+    "Story/Nacen los Dragones de Helheim.md",
+    "Story/Comienza el plan del Ragnarök.md",
+    "Untitled.md",
+    "Story/Adils e Yrsa se casan.md",
     "Story/Se descubre la verdad.md",
     "Story/Holger y Sveinn regresan a Vanaheim.md",
     "Story/Holger y Sveinn pelean contra Odín y Thor.md",
@@ -190,13 +197,6 @@
     "Story/Yves tiene su noveno sueño.md",
     "Story/Yves tiene su octavo sueño.md",
     "Story/Yves tiene su séptimo sueño.md",
-    "Story/Yves tiene su sexto sueño.md",
-    "Story/Yves tiene su quinto sueño.md",
-    "Story/Yves tiene su cuarto sueño.md",
-    "Story/Yves tiene su tercer sueño.md",
-    "Story/Yves tiene su segundo sueño.md",
-    "Story/Holger escucha los asesinatos de Balder.md",
-    "Story/Adils e Yrsa se casan.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",
