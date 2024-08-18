@@ -1,5 +1,5 @@
 > Año ???
 
-Tras una dura conversación entre un Odín y un Loki con la amistad completamente rota, Loki accede a llevar a Hela a Helheim para protegerla de todo lo que está por venir. La posición en Helheim es clave para su seguridad, pero también la aleja de ser un posible peligro cercano para Odín.
+Loki llevará a Hela a Helheim una vez esta sea una adolescente. Allí, Loki le promete estar en contacto.
 
 Hela sorprendería a todos, pues pensaban que los dragones la devorarían, pero se hizo amiga de todos ellos.

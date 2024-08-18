@@ -9,12 +9,12 @@
         "dimension": 31.399747793190414,
         "children": [
           {
-            "id": "7ce3720d80da2da9",
+            "id": "061b4c03eb8fe442",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Loki y Sveinn se conocen.md",
+                "file": "Story/Loki vive una vida aparentemente tranquila.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,9 +35,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 971.944049487023,
-                  "y": 28684.945232868216,
-                  "zoom": -1.3333333333333333
+                  "x": 318.7600244568094,
+                  "y": 31805.728383187095,
+                  "zoom": -2.333333333333333
                 }
               }
             }
@@ -171,8 +171,9 @@
   },
   "active": "286bfc80c2d461ca",
   "lastOpenFiles": [
-    "Story/Loki y Sveinn se conocen.md",
+    "Story/Loki vive una vida aparentemente tranquila.md",
     "Main Canvas.canvas",
+    "Story/Loki y Sveinn se conocen.md",
     "Story/Nace Grafvitnir.md",
     "Story/Desaparece Grafvitnir.md",
     "Story/Nacen los Dragones de Helheim.md",
@@ -196,7 +197,6 @@
     "Story/Holger viaja a Helheim.md",
     "Story/Yves tiene su noveno sueño.md",
     "Story/Yves tiene su octavo sueño.md",
-    "Story/Yves tiene su séptimo sueño.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",
