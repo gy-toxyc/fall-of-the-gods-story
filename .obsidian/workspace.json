@@ -6,15 +6,15 @@
       {
         "id": "a55c88142194c3ed",
         "type": "tabs",
-        "dimension": 31.989708404802744,
+        "dimension": 39.851150202976996,
         "children": [
           {
-            "id": "53aa343ebe05d3d0",
+            "id": "69d6a67cc92113e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Llega a Asgard un jötun desconocido.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,9 @@
         ]
       },
       {
-        "id": "e2877e01f3bbd3a9",
+        "id": "de712a3deee54284",
         "type": "tabs",
-        "dimension": 68.01029159519724,
+        "dimension": 60.148849797023004,
         "children": [
           {
             "id": "286bfc80c2d461ca",
@@ -35,9 +35,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -2390.3515473318266,
-                  "y": 43041.742462697555,
-                  "zoom": -0.16095056250691409
+                  "x": 1023.5505474300985,
+                  "y": 49198.722699350306,
+                  "zoom": -1.666666666666666
                 }
               }
             }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 397.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Canvas.canvas"
+                "file": "Index.md"
               }
             }
           }
@@ -169,11 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "286bfc80c2d461ca",
+  "active": "69d6a67cc92113e0",
   "lastOpenFiles": [
+    "Main Canvas.canvas",
+    "Index.md",
+    "Untitled 1.md",
+    "Story/Fenrir es secuestrado por los AEsir.md",
     "Story/Llega a Asgard un jötun desconocido.md",
     "Story/Sól y Glen tienen un hijo.md",
-    "Main Canvas.canvas",
     "Story/Odín reta a Valfthrúdnir.md",
     "Story/Adils e Yrsa se casan.md",
     "Story/AEgir y Aurboda se casan.md",
@@ -183,11 +186,9 @@
     "Story/Desaparece Grafvitnir.md",
     "Story/Nacen los Dragones de Helheim.md",
     "Story/Comienza el plan del Ragnarök.md",
-    "Untitled.md",
     "Story/Se descubre la verdad.md",
     "Story/Holger y Sveinn regresan a Vanaheim.md",
     "Story/Holger y Sveinn pelean contra Odín y Thor.md",
-    "Untitled 1.md",
     "Story/Holger y Sveinn van a Asgard.md",
     "Story/Vilh, Sveinn, Holger e Yves se reunen.md",
     "Story/Holger llega a Vanaheim.md",
@@ -196,8 +197,6 @@
     "Story/Yves viaja a Vanaheim.md",
     "Story/Vilh oye sobre la sombra que se escapó de Helheim.md",
     "Story/Odín y Holger tienen su última conversación.md",
-    "Story/Holger descubre cosas.md",
-    "Story/Holger investiga en las bibliotecas ocultas de Asgard.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",
