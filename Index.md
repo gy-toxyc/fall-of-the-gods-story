@@ -17,3 +17,7 @@ Esto es un índice general de la obra global.
 13. Batalla en Muspelheim donde muere Sinmara - Holger alcanza a Hela, preguntándole sobre Yves.
 14. Yves llega al bosque de Vilh - Yves cuenta sus sueños.
 15. Holger llega a Vanaheim, con información que se junta con la de Yves.
+16. Holger y Sveinn van a Asgard.
+17. Holger y Sveinn luchan contra Odín y Thor.
+
+#REVIEW La perspectiva de los AEsir debe existir de igual manera. Las pesadillas de Balder, y cuestiones de Odín.
