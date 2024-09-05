@@ -6,10 +6,10 @@
       {
         "id": "a55c88142194c3ed",
         "type": "tabs",
-        "dimension": 39.851150202976996,
+        "dimension": 45.56795797767565,
         "children": [
           {
-            "id": "69d6a67cc92113e0",
+            "id": "d4f292fb5336c5da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,7 +25,7 @@
       {
         "id": "de712a3deee54284",
         "type": "tabs",
-        "dimension": 60.148849797023004,
+        "dimension": 54.43204202232436,
         "children": [
           {
             "id": "286bfc80c2d461ca",
@@ -35,9 +35,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 454.74626729798075,
-                  "y": 54121.3777686535,
-                  "zoom": -1.9999999999999993
+                  "x": -484,
+                  "y": 37540,
+                  "zoom": -4
                 }
               }
             }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 353.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -169,16 +169,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69d6a67cc92113e0",
+  "active": "d4f292fb5336c5da",
   "lastOpenFiles": [
+    "Story/Muere Lytir.md",
     "Main Canvas.canvas",
     "Index.md",
+    "Story/Adils e Yrsa se casan.md",
+    "Story/Holger y Sveinn van a Asgard.md",
+    "Story/Untitled.md",
+    "Story/Holger y Sveinn pelean contra Odín y Thor.md",
+    "README.md",
     "Untitled 1.md",
     "Story/Fenrir es secuestrado por los AEsir.md",
     "Story/Llega a Asgard un jötun desconocido.md",
     "Story/Sól y Glen tienen un hijo.md",
     "Story/Odín reta a Valfthrúdnir.md",
-    "Story/Adils e Yrsa se casan.md",
     "Story/AEgir y Aurboda se casan.md",
     "Story/Loki vive una vida aparentemente tranquila.md",
     "Story/Loki y Sveinn se conocen.md",
@@ -188,15 +193,10 @@
     "Story/Comienza el plan del Ragnarök.md",
     "Story/Se descubre la verdad.md",
     "Story/Holger y Sveinn regresan a Vanaheim.md",
-    "Story/Holger y Sveinn pelean contra Odín y Thor.md",
-    "Story/Holger y Sveinn van a Asgard.md",
     "Story/Vilh, Sveinn, Holger e Yves se reunen.md",
     "Story/Holger llega a Vanaheim.md",
     "Story/Vilh e Yves hablan del Fjölkyng.md",
     "Story/Vilh y Sveinn conocen a Yves.md",
-    "Story/Yves viaja a Vanaheim.md",
-    "Story/Vilh oye sobre la sombra que se escapó de Helheim.md",
-    "Story/Odín y Holger tienen su última conversación.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",

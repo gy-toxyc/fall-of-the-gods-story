@@ -29,3 +29,19 @@ Por otra parte, Sveinn y Thor dialogaban también en su batalla.
 Sveinn, enfurecido, usó por primera vez las runas que unían su ser al hacha. Thor se ilusionó al ver aquello, pues le ponían las cosas difíciles, y los retos le gustaban al dios del trueno. Sveinn atacó con fuerza, reprimiendo enormemente a Thor. Ganándole la batalla, pero no matándole, pues Thor huiría.
 
 Odín no podría terminar con Holger, pues Sveinn, viendo su debilidad, se lo llevaría corriendo, ya que Thor había huido. Odín no fue capaz de pillarles, ni Heimdall, consiguieron huir.
+
+***
+
+Durante las lecturas rápidas de Holger, y mientras Sveinn vigilaba, Holger divisó uno de los cuervos de Odín, apoyado en una alta ventana, advirtiendo entonces de que Odín estaba al tanto de suvisita (Heimdall fue quien lo descubrió, por mucho sigilo que Sveinn tratase de llevar, no pudo no ser descubierto).
+
+En su huida, Sveinn es asaltado por Thor, enzarzándose en una desmesurada batalla entre los dos. Holger huiría, no pudiendo realmente ayudar a Sveinn en la pelea, incluso el propio Sveinn le dijo que huyese. Entonces, Holger se toparía con Odín y su lanza Gungnir. Holger no pelearía, pero esquivaría todos los ataques de un Odín aparentemente tranquilo.
+
+"No eres capaz de entenderlo, Holger", dijo Odín.
+"La vi morir", dijo, entre un leve llanto, Holger. "La vi morir sin saber que ella fue mi madre."
+"Imagina un universo, moldeado por ti mismo, construido con el mimo de quien engendra a su primer hijo, pero un universo que por su propia naturaleza quiere destruirte.", explicó Odín. "Tu madre no lo entendió jamás."
+"No puedes destruir al destino mismo, te estrellarás contra él." replicó Holger.
+Odín se sorprendió, fueron palabras similares a las que Gullveig le dedicó previa su muerte.
+"Toda mi vida he pensado que los vástagos del caos iban a ser los engendrados por Loki, pero aquel día me di cuenta, cuando vi aquello que destruyó Vadstena y parte del Bosque de los Grilletes engullir la piel de mi hijo, cuando miré a la oscuridad misma en el rostro de un niño mío." dijo finalmente Odín. "Esto que haces, Holger, destruirá todo."
+"Estoy dispuesto a ello, padre, si eso significa liberarlo todo.", dijo Holger.
+"Yo creé todo.", dijo Odín.
+"Y todo te destruirá.", respondió Holger finalmente, 
