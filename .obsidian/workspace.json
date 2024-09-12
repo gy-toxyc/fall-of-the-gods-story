@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0a4d2342d3109a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Algunos humanos huyen a otros mundos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "de712a3deee54284",
@@ -35,9 +48,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -484,
-                  "y": 37540,
-                  "zoom": -4
+                  "x": -498.1661041725479,
+                  "y": 58134.936304651506,
+                  "zoom": -2.9999999999999996
                 }
               }
             }
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Main Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Main Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Main Canvas.canvas"
               }
             }
           },
@@ -165,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,12 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4f292fb5336c5da",
+  "active": "286bfc80c2d461ca",
   "lastOpenFiles": [
-    "Story/Muere Lytir.md",
-    "Main Canvas.canvas",
+    "Story/Algunos humanos huyen a otros mundos.md",
     "Index.md",
+    "Main Canvas.canvas",
     "Story/Adils e Yrsa se casan.md",
+    "Story/Muere Lytir.md",
     "Story/Holger y Sveinn van a Asgard.md",
     "Story/Untitled.md",
     "Story/Holger y Sveinn pelean contra Odín y Thor.md",
@@ -205,7 +219,6 @@
     "Story/Vilh, Sveinn, Holger e Yves se reunen.md",
     "Story/Holger llega a Vanaheim.md",
     "Story/Vilh e Yves hablan del Fjölkyng.md",
-    "Story/Vilh y Sveinn conocen a Yves.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",

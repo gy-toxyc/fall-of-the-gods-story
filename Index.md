@@ -25,7 +25,7 @@ Esto es un índice general de la obra global.
 21. Sveinn y Holger vuelven, malherido Sveinn. - Todos conocen la verdad, pero no comprenden los motivos de Odín.
 22. Balder muere.
 23. Vilh, Sveinn, Holger e Yves van a ver a las nornas - Estas le cuentan la profecía del Ragnarök y los temores de Odín.
-24. Llega el Fimbulwinter, muere la raza humana al tiempo que Vilh cobija a Líf y Lifthrásir viajando a Midgard para ello. (se menciona que algunos enanos y otras razas sí que habitan Midgard tras el Fimbulwinter, pues el frío no les afecta de tan mala forma).
+24. Llega el Fimbulwinter, el largo invierno, muere la raza humana al tiempo que Vilh cobija a Líf y Lifthrásir viajando a Midgard para ello. (se menciona que algunos enanos y otras razas sí que habitan Midgard tras el Fimbulwinter, pues el frío no les afecta de tan mala forma).
 25. Yves viaja a Muspelheim a convencer a Surt y prometerle el Naglfar.
 26. 
 
