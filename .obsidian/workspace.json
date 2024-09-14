@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "de712a3deee54284",
@@ -48,8 +47,8 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 137.50720668091253,
-                  "y": 25326.580409551025,
+                  "x": -818.4927933190872,
+                  "y": 57302.580409551025,
                   "zoom": -1.9999999999999993
                 }
               }
@@ -105,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 299.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Canvas.canvas"
+                "file": "Index.md"
               }
             }
           },
@@ -178,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "286bfc80c2d461ca",
+  "active": "d4f292fb5336c5da",
   "lastOpenFiles": [
-    "Story/Algunos humanos huyen a otros mundos.md",
-    "Index.md",
     "Main Canvas.canvas",
+    "Index.md",
+    "Story/Algunos humanos huyen a otros mundos.md",
     "Story/Adils e Yrsa se casan.md",
     "Story/Muere Lytir.md",
     "Story/Holger y Sveinn van a Asgard.md",
