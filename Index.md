@@ -20,7 +20,7 @@ Esto es un índice general de la obra global.
 16. Holger llega a Vanaheim, con información que se junta con la de Yves.
 17. Holger y Sveinn van a Asgard guiados por los sueños de Yves.
 18. Holger y Sveinn luchan contra Odín y Thor. #REVIEW
-19. Vilh e Yves investigan sobre el Fjölkyng en Vanaheim, guiados por la naturaleza de Yves y sus sueños. - Pasan por Vadstena y el Bosque de los Grilletes, una anciana les cuenta una historia sobre Gullveig.
+19. Vilh e Yves investigan sobre el Fjölkyng en Vanaheim, guiados por la naturaleza de Yves y sus sueños. - Pasan por Vadstena y el Bosque de los Grilletes, una anciana les cuenta una historia sobre Gullveig. (pueden ser varios capítulos, pues la investigación acarrea, visiones, historias pasadas y demás)
 20. Vilh e Yves viajan a Svíthjod, donde una anciana les cuenta la historia de Gullveig y Lytir.
 21. Sveinn y Holger vuelven, malherido Sveinn. - Todos conocen la verdad, pero no comprenden los motivos de Odín.
 22. Balder muere.
