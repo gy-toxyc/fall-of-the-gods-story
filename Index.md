@@ -23,10 +23,10 @@ Esto es un índice general de la obra global.
 19. Vilh e Yves investigan sobre el Fjölkyng en Vanaheim, guiados por la naturaleza de Yves y sus sueños. - Pasan por Vadstena y el Bosque de los Grilletes, una anciana les cuenta una historia sobre Gullveig. (pueden ser varios capítulos, pues la investigación acarrea, visiones, historias pasadas y demás)
 20. Vilh e Yves viajan a Svíthjod, donde una anciana les cuenta la historia de Gullveig y Lytir.
 21. Sveinn y Holger vuelven, malherido Sveinn. - Todos conocen la verdad, pero no comprenden los motivos de Odín.
-22. Balder muere.
+22. Balder muere - Loki es enviado a Helheim, castigado hasta que comience el Ragnarök.
 23. Vilh, Sveinn, Holger e Yves van a ver a las nornas - Estas le cuentan la profecía del Ragnarök y los temores de Odín.
 24. Llega el Fimbulwinter, el largo invierno, muere la raza humana al tiempo que Vilh cobija a Líf y Lifthrásir viajando a Midgard para ello. (se menciona que algunos enanos y otras razas sí que habitan Midgard tras el Fimbulwinter, pues el frío no les afecta de tan mala forma).
-25. Yves viaja a Muspelheim a convencer a Surt y prometerle el Naglfar.
+25. Yves viaja a Muspelheim a contar a Surt la profecía de las nornas y prometerle el Naglfar.
 26. 
 
 #REVIEW Perspectivas y viajes de Loki.

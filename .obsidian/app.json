@@ -10,5 +10,8 @@
   },
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "tabSize": 4,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true
 }

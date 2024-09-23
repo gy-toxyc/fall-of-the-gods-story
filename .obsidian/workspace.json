@@ -6,10 +6,10 @@
       {
         "id": "a55c88142194c3ed",
         "type": "tabs",
-        "dimension": 30.68450039339103,
+        "dimension": 34.66866342193935,
         "children": [
           {
-            "id": "d4f292fb5336c5da",
+            "id": "379e7f88e783064e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "701af6906eb56556",
+            "id": "56f8adb39d3536d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Despiertan los supervivientes del Ragnarök.md",
+                "file": "Story/Vilh, Sveinn, Holger e Yves visitan a las nornas.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "de712a3deee54284",
         "type": "tabs",
-        "dimension": 69.31549960660897,
+        "dimension": 65.33133657806064,
         "children": [
           {
             "id": "286bfc80c2d461ca",
@@ -48,9 +48,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -490.42881589939384,
-                  "y": 60467.519039790095,
-                  "zoom": -2.9999999999999996
+                  "x": 1559.0547671197196,
+                  "y": 58822.84041833466,
+                  "zoom": -2.333333333333333
                 }
               }
             }
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 373.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +194,13 @@
   },
   "active": "286bfc80c2d461ca",
   "lastOpenFiles": [
-    "Story/Despiertan los supervivientes del Ragnarök.md",
+    "Story/Vilh, Sveinn, Holger e Yves visitan a las nornas.md",
     "Main Canvas.canvas",
-    "Story/Algunos humanos huyen a otros mundos.md",
+    "Story/Ciclo Día y Noche.md",
     "Index.md",
+    "2024-09-21.md",
+    "Story/Algunos humanos huyen a otros mundos.md",
+    "Story/Despiertan los supervivientes del Ragnarök.md",
     "Story/Adils e Yrsa se casan.md",
     "Story/Muere Lytir.md",
     "Story/Holger y Sveinn van a Asgard.md",
@@ -217,10 +220,6 @@
     "Story/Nacen los Dragones de Helheim.md",
     "Story/Comienza el plan del Ragnarök.md",
     "Story/Se descubre la verdad.md",
-    "Story/Holger y Sveinn regresan a Vanaheim.md",
-    "Story/Vilh, Sveinn, Holger e Yves se reunen.md",
-    "Story/Holger llega a Vanaheim.md",
-    "Story/Vilh e Yves hablan del Fjölkyng.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",
