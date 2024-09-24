@@ -1,4 +1,4 @@
-> Año ???
+> Año 640
 
 De ascendencia y paradero desconocido, nace Farbauti, un jötun que navegaba los mares de Jötunheim.
 

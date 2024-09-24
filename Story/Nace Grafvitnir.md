@@ -1,4 +1,4 @@
-> Año ???
+> Año 69 - 75
 
 Se desconoce cuándo nació el dragón Grafvitnir, pero se tiene certeza de que fue el primer dragón que existió en los 9 mundos.
 

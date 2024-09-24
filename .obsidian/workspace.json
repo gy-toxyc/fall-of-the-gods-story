@@ -6,7 +6,7 @@
       {
         "id": "a55c88142194c3ed",
         "type": "tabs",
-        "dimension": 34.66866342193935,
+        "dimension": 33.433508640120216,
         "children": [
           {
             "id": "379e7f88e783064e",
@@ -14,19 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Story/AEgir y Aurboda se casan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "253b6a20f3c85f72",
+            "id": "5b3dff89c6346edc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Muere Sveinn.md",
+                "file": "Story/Fjalar y Galar se mudan a Svartalfheim.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,21 +36,21 @@
         "currentTab": 1
       },
       {
-        "id": "de712a3deee54284",
+        "id": "e530bc2b7ef808de",
         "type": "tabs",
-        "dimension": 65.33133657806064,
+        "dimension": 66.56649135987979,
         "children": [
           {
-            "id": "286bfc80c2d461ca",
+            "id": "5fd47dd12b03a292",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 1365.8227267611298,
-                  "y": 2329.64901028464,
-                  "zoom": -4
+                  "x": -435.95905447576314,
+                  "y": 16640.5630852781,
+                  "zoom": -1.3333333333333333
                 }
               }
             }
@@ -192,10 +192,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "286bfc80c2d461ca",
+  "active": "5fd47dd12b03a292",
   "lastOpenFiles": [
-    "Story/Muere Sveinn.md",
+    "Story/Fjalar y Galar se mudan a Svartalfheim.md",
+    "Story/AEgir y Aurboda se casan.md",
+    "Index.md",
     "Main Canvas.canvas",
+    "Story/Muere Sveinn.md",
+    "Story/().md",
     "Story/Muere Vilh.md",
     "Story/Muere Sigyn.md",
     "Story/Yves despierta.md",
@@ -211,15 +215,12 @@
     "Story/Vilh, Sveinn y Holger huyen a Helheim.md",
     "Story/Vilh, Sveinn, Holger e Yves visitan a las nornas.md",
     "Story/Ciclo Día y Noche.md",
-    "Index.md",
     "2024-09-21.md",
     "Story/Algunos humanos huyen a otros mundos.md",
     "Story/Despiertan los supervivientes del Ragnarök.md",
     "Story/Adils e Yrsa se casan.md",
     "Story/Muere Lytir.md",
     "Story/Holger y Sveinn van a Asgard.md",
-    "Story/Holger y Sveinn pelean contra Odín y Thor.md",
-    "README.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",
