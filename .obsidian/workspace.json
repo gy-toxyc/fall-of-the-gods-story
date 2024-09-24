@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "56f8adb39d3536d5",
+            "id": "253b6a20f3c85f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Vilh, Sveinn, Holger e Yves visitan a las nornas.md",
+                "file": "Story/Muere Sveinn.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,9 +48,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 1559.0547671197196,
-                  "y": 58822.84041833466,
-                  "zoom": -2.333333333333333
+                  "x": 1365.8227267611298,
+                  "y": 2329.64901028464,
+                  "zoom": -4
                 }
               }
             }
@@ -194,8 +194,22 @@
   },
   "active": "286bfc80c2d461ca",
   "lastOpenFiles": [
-    "Story/Vilh, Sveinn, Holger e Yves visitan a las nornas.md",
+    "Story/Muere Sveinn.md",
     "Main Canvas.canvas",
+    "Story/Muere Vilh.md",
+    "Story/Muere Sigyn.md",
+    "Story/Yves despierta.md",
+    "Story/Muere Gefjun.md",
+    "Story/Frigg es herida de muerte.md",
+    "Story/Muere Freyja.md",
+    "Untitled.md",
+    "Story/Perece casi toda la raza de los dragones.md",
+    "Story/Hela realiza una expedición al Nidafjoll.md",
+    "Story/Nace Gefjun.md",
+    "Story/Yves regresa a Helheim.md",
+    "Story/Yves va a Muspelheim.md",
+    "Story/Vilh, Sveinn y Holger huyen a Helheim.md",
+    "Story/Vilh, Sveinn, Holger e Yves visitan a las nornas.md",
     "Story/Ciclo Día y Noche.md",
     "Index.md",
     "2024-09-21.md",
@@ -204,22 +218,8 @@
     "Story/Adils e Yrsa se casan.md",
     "Story/Muere Lytir.md",
     "Story/Holger y Sveinn van a Asgard.md",
-    "Story/Untitled.md",
     "Story/Holger y Sveinn pelean contra Odín y Thor.md",
     "README.md",
-    "Untitled 1.md",
-    "Story/Fenrir es secuestrado por los AEsir.md",
-    "Story/Llega a Asgard un jötun desconocido.md",
-    "Story/Sól y Glen tienen un hijo.md",
-    "Story/Odín reta a Valfthrúdnir.md",
-    "Story/AEgir y Aurboda se casan.md",
-    "Story/Loki vive una vida aparentemente tranquila.md",
-    "Story/Loki y Sveinn se conocen.md",
-    "Story/Nace Grafvitnir.md",
-    "Story/Desaparece Grafvitnir.md",
-    "Story/Nacen los Dragones de Helheim.md",
-    "Story/Comienza el plan del Ragnarök.md",
-    "Story/Se descubre la verdad.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",

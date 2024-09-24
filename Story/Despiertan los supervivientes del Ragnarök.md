@@ -6,6 +6,9 @@ Poco a poco, los supervivientes del Ragnarök despertarán de un extraño letarg
 
 - Vili
 - Nótt
+- Frigg / Freyja
+- Gefjun
+- Sigyn
 
 ## Contrarios
 
@@ -15,6 +18,7 @@ Poco a poco, los supervivientes del Ragnarök despertarán de un extraño letarg
 - Yves
 - Hela
 - Loki
+- Nidhogg
 
 ## Humanos
 
