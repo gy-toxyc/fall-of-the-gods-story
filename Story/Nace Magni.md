@@ -1,4 +1,4 @@
-> Año ???
+> Año 870
 
 Hijo de Thor y Járnsaxa, nace Magni, el heredero del trueno y de Thrudheim.
 

@@ -1,4 +1,4 @@
-> Año ???
+> Año 856
 
 Las pesadillas de Gullveig se acrecentan, generándola ataques de ira fuertes. 
 

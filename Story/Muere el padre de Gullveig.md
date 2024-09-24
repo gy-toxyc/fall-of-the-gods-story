@@ -1,4 +1,4 @@
-> Año ???
+> Año 852
 
 Una noche, el padre de Gullveig es secuestrado y llevado a un bosque cercano, donde lo inmovilizaron con grilletes y lo asesinaron. Tras este suceso, aquel bosque fue llamado "Bosque de los Grilletes".
 

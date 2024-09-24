@@ -1,4 +1,4 @@
-> Año ???
+> Año 956
 
 Un día, Loki, Thor y Hoenir se encontraban de aventura por las montañas de Jötunheim. Intentaron cocinar un buey, pero éste no se cocinaba, entonces escucharon un águila que hablaba dirigirse hacia ellos y explicarles que el motivo de que el buey ni ningún animal se cocinase era por una magia que solamente conocía él (realmente era una magia muy leve, pero ni Thor, ni Loki ni Hoenir podían contradecir aquello). Para que deshiciese aquella magia, le tenían que dejar comer.
 

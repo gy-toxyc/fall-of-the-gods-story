@@ -1,4 +1,4 @@
-> Año ???
+> Año 874
 
 Se forjan las armas y artilugios legendarios de los AEsir, forjados en 2 tandas, unos por los enanos Brokk y Sindri, y otros por los enanos Hijos de Ivaldi.
 

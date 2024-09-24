@@ -1,4 +1,4 @@
-> Año ???
+> Año 890
 
 Thor va a ver a una maga cercana y de gran renombre, Gróa, la maga jötun, para que le quite con su magia los fragmentos de piedra incrustados en su cráneo.
 

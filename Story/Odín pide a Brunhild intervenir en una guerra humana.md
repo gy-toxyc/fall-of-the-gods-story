@@ -1,4 +1,4 @@
-> Año ???
+> Año 857
 
 Odín pide a Brunhild intervenir en una guerra humana entre los reyes Gunnar y Agnar, pidiéndole que favorezca a Gunnar.
 

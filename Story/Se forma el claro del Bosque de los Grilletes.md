@@ -1,4 +1,4 @@
-> Año ???
+> Año 859
 
 Tras formarse la leyenda en torno al Bosque de los Grilletes, nadie se atrevió a entrar en él, por lo que su estado era idéntico al de la vez que mataron al padre de Gullveig.
 

@@ -1,4 +1,4 @@
-> Año ???
+> Año 854
 
 Gullveig, tras escapar de casa, vivirá unos años en el pueblo de Vadstena.
 

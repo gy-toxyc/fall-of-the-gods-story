@@ -1,4 +1,4 @@
-> Año ???
+> Año 853
 
 Gullveig entra en el bosque que rodea su aldea de forma clandestina y, al tocar una planta venenosa, comienza a perder el conocimiento. En el umbral de desmayarse, divisa una sombra a caballo que se acerca a ella y comienza a realizar unos cánticos que no alcanza a entender. 
 

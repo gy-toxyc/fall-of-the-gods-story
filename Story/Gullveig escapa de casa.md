@@ -1,4 +1,4 @@
-> Año ???
+> Año 854
 
 En una de las pesadillas, Gullveig descubre la verdad sobre la muerte de su padre, algo que su madre ha tratado de ocultarle hasta que considerase que estaba preparada para saberlo.
 

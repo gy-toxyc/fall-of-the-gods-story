@@ -1,4 +1,4 @@
-> Año ???
+> Año 791
 
 Odín, deseoso de poseer más conocimiento, y conocedor de la ubicación de los calderos de hidromiel de la poesía, decide ir al que protege Suttung. Allí, pasará un verano trabajando para Baugi para convencerlo y poder hacer un trato con él por un mero sorbo del hidromiel, engañándolo.
 

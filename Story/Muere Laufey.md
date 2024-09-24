@@ -1,4 +1,4 @@
-> Año ???
+> Año 845
 
 A temprana edad de Loki y sus hermanos, Laufey muere, debido a la extrema pena que sentía, apenas comía ni hacía ningún tipo de actividad, lo que causó su rápida muerte.
 

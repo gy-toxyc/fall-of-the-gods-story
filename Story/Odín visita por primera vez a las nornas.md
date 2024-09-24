@@ -1,4 +1,4 @@
-> Año ???
+> Año 860
 
 Odín, en su búsqueda por el conocimiento y la sabiduría máxima, visita a las nornas, pensando que ellas le podría proporcionar si no sabiduría, indícios de cómo y dónde encontrarla. Sobre todo, la premisa de la consulta es el futuro.
 

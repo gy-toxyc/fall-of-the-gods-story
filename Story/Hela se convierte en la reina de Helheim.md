@@ -1,4 +1,4 @@
-> Año ???
+> Año 962
 
 Loki llevará a Hela a Helheim una vez esta sea una adolescente. Allí, Loki le promete estar en contacto.
 

@@ -1,4 +1,4 @@
-> Año ???
+> Año 890
 
 Thor, junto a su sirviente Thjalfi (Röskva se desconoce dónde estaba en aquella misión, se asume que se quedó en Asgard haciendo alguna otra cosa), desafían al jötun Hrungnir.
 

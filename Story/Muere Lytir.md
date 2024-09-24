@@ -1,4 +1,4 @@
-> Año ???
+> Año 858
 
 Gullveig, vagando por Vanaheim, acaba en la región norteña de Vanaheim, Svíthjod. Allí, se encuentra con Lytir, que recuerda por sus pesadillas, siendo el asesino del padre de Gullveig.
 

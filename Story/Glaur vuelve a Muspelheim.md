@@ -1,4 +1,4 @@
-> Año ???
+> Año 972
 
 Glaur vuelve a Muspelheim al ver lo que Odín ha hecho con sus hijos, poniéndolos en un grave peligro.
 

@@ -1,4 +1,4 @@
-> Año ???
+> Año 849
 
 Tras más de un milenio, Odín y Mímir se reencuentran en Jötunheim, ya que el rey de los AEsir quiso visitar el Pozo de Mímir en busca de sabiduría y conocimiento. Allí, Odín perdió uno de sus ojos como sacrificio por poder beber del pozo.
 

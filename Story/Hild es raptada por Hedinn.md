@@ -1,4 +1,4 @@
-> Año ???
+> Año 921
 
 Hild, hija del rey humano Högni, es raptada en ausencia de su padre por Hedinn, un príncipe humano hijo del rey de otro reino, Hjarrandi.
 

@@ -1,4 +1,4 @@
-> Año ???
+> Año 946
 
 Aurvandil morirá tras bastantes años desde la muerte de su amada Gróa. Unos asumen que fue por la pena que esto le trajo, otros por un accidente fatal.
 

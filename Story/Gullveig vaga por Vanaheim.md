@@ -1,4 +1,4 @@
-> Año ???
+> Año 856
 
 Gullveig, tras provocar el desastre de Vadstena, vaga por Vanaheim en busca de un buen sitio donde poder continuar sus investigaciones.
 

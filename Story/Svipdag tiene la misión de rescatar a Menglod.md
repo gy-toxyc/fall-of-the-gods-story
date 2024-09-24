@@ -1,4 +1,4 @@
-> Año ???
+> Año 953
 
 Por orden de su madrastra (de nombre desconocido, se conoce que es la figura materna de su familia adoptiva tras la muerte de Aurvandil y Gróa), Svípdag es encomendado el rescate de la giganta llamada Menglod del castillo hubicado en lo alto del pico más elevado de Jötunheim, el monte Lyfjaberg. Todo esto tiene un motivo, y es que la madrastra le dice a Svípdag que Menglod es la mujer con la que está destinado a casarse.
 
