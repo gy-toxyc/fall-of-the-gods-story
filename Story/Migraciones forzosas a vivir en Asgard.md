@@ -1,4 +1,4 @@
-> Año ???
+> Año 1074
 
 Una de las diosas Vanir obligada a vivir en Asgard por culpa del tratado que firmaron su hermano y su padre, era Freyja, viéndose obligada a abandonar a su esposo y su mundo.
 

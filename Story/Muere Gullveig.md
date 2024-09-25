@@ -1,4 +1,4 @@
-> Año ???
+> Año 996
 
 Un día, sin esperárselo nadie, los dioses AEsir irrumpieron en la aldea de Gullveig, secuestrándola y llevándosela a Asgard.
 

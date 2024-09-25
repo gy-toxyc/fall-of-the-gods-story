@@ -1,4 +1,4 @@
-> Año ???
+> Año 1085
 
 Llega a Asgard un jötun desconocido, que propone a los dioses construirles una muralla alrededor de la Ciudad de Asgard, arreglando la derruida por la Guerra de los Dioses. A cambio, pide una cita con la hermosa Frigg y a Sól y a Máni.
 

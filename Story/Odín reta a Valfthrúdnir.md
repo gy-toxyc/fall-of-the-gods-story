@@ -1,4 +1,4 @@
-> Año ???
+> Año 1096
 
 Odín desea probar su sabiduría retando a Valfthrúdnir, pese a que su esposa, Frigg, no se lo aconseje.
 

@@ -1,4 +1,4 @@
-> Año ???
+> Año 1074
 
 Tras acordarse un tratado de paz entre los dioses AEsir y Vanir, propuesto por Njörd y Frey, la guerra llega a su fin.
 

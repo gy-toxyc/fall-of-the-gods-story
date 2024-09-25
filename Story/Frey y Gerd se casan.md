@@ -1,4 +1,4 @@
-> Año ???
+> Año 983
 
 Tras varios intentos de cortejo, Frey y Gerd se terminan casando bajo los árboles del Bosque de Barri en Vanaheim
 

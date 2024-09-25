@@ -1,4 +1,4 @@
-> Año ???
+> Año 964
 
 Con intención de aportar por fin algo a su aldea, funda una escuela de magia para los jóvenes habitantes de la aldea, véase Frey, Freyja o Vilh.
 

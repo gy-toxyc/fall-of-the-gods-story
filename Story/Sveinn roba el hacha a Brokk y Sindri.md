@@ -1,6 +1,4 @@
-> Año ???
-
-???
+> Año 1124
 
 Los padrastros de Sveinn le ofrecen un robo sin precedentes. Han oido un soplo en Utgard sobre la forja de unas herramientas y armas para los AEsir en Svartalfheim, fabricado todo por los renombrados hermanos vegar Brokk y Sindri.
 

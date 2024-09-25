@@ -1,4 +1,4 @@
-> Año ???
+> Año 1074
 
 Tras la partida de Freyja a Asgard, Vilh se queda solo en el bosque, donde vivirá 100 años en pura soledad.
 

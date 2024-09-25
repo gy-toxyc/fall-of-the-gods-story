@@ -1,4 +1,4 @@
-> Año ???
+> Año 989
 
 Un día, en busca de más conocimiento, Holger fue a Asgard decidido a hacerse aprendiz de Odín, en busca de la sabiduría que albergarían las bibliotecas de los AEsir.
 
