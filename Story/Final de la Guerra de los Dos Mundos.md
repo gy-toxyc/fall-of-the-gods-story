@@ -1,4 +1,4 @@
-> Año 810
+> Año 659
 
 La huida de los generales Mótsognir y Durin de Alfheim, junto con la rendición de muchos elfos oscuros, supuso el final de la guerra entre las dos subrazas de elfos en Alfheim.
 

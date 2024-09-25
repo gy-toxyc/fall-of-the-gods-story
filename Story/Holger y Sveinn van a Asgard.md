@@ -1,4 +1,4 @@
-> Año ???
+> Año 1165
 
 Holger y Sveinn deciden adentrarse a escondidas en Asgard, con ayuda de los conocimientos de este mundo de Holger y de las habilidades de hurto y escondite de Sveinn. Allí, pretenden entrar en la bilbioteca secreta de Asgard, con la idea de encontrar más información sobre aquel Episodio Oscuro, sobre la encarcelación de Yves, sobre los motivos tras la persecución intencionada a Sveinn.
 

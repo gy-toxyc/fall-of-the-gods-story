@@ -1,4 +1,4 @@
-> Año ???
+> Año 1152
 
 Ya en su marcha de Heorot, con la idea de volver a Asgard, Holger escucha por el camino a un grupo de elfos hablar sobre una noticia reciente. Una sombra, veloz y tenebrosa, ha escapado del Náströnd, la cueva de mayor penitencia de Helheim.
 

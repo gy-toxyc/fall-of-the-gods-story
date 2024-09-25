@@ -1,4 +1,4 @@
-> Año ???
+> Año 1153
 
 Cuando llega a los oidos de los AEsir la huida de Yves de su penitencia en Helheim, saltan las alarmas, y tras cierta investigación, descubren que su partida acabó en Muspelheim, por lo que mandan a una guarnición pequeña (pues Muspelheim es un mundo que no se presta a grandes ejércitos) liderada por Thor.
 

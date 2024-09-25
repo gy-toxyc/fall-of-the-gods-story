@@ -1,4 +1,4 @@
-> Año ???
+> Año 1146
 
 En el viaje que Odín permite a Holger hacer a Vanaheim con fines científicos, Holger acaba en un bosque, concretamente el Bosque de Vilh. Sveinn y Vilh van en su busca al enterarse de que un intruso con altos poderes (detectado por las runas de los árboles, como pasó con Sveinn) había entrado en el bosque.
 

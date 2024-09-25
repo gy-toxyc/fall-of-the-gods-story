@@ -1,4 +1,4 @@
-> Año ???
+> Año 1152
 
 Vilh y Sveinn escuchan historias en un pueblo cercano al Bosque de Vilh sobre la sombra que se ha escapado de las profundidades de Helheim, lo cual suscita en Vilh un interés peculiar, ya que le recuerda a algo.
 

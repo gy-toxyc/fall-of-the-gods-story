@@ -1,4 +1,4 @@
-> Año 861
+> Año 720
 
 Tras no muchas generaciones, la raza de los enanos se comenzó a diferenciar genéticamente de los elfos oscuros, sus primogénitos. Algunas diferencias giran en torno a su tamaño y sus propiedades físicas, adaptados a las cavernas y a condiciones duras, pero la principal de todas es la imposibilidad de los enanos de recibir luz de Sól, ya que esta quema su piel por tosca que sea.
 

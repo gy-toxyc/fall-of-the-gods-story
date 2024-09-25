@@ -1,4 +1,4 @@
-> Año ???
+> Año 1130
 
 Un día, Vilh no vio a Sveinn en ninguno de los sitios donde solía estar, cazando, pescando, tallando algo. Se encontraba en un río cercano al bosque de Vilh, mirando el cauce.
 

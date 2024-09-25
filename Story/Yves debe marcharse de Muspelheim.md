@@ -1,4 +1,4 @@
-> Año ???
+> Año 1153
 
 Tras la batalla en Muspelheim, Yves sale del palacio y ve la imagen de Surt sosteniendo a una moribunda Sinmara.
 

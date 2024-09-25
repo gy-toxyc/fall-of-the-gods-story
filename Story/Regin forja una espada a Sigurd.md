@@ -1,4 +1,4 @@
-> Año ???
+> Año 975
 
 Regin trata de forjar una espada a Sigurd, pero sale muy mal, pues Regin nunca ha forjado nada. Es entonces cuando Sigurd, un día, encuentra en su antiguo hogar la espada que portó su padre, Sigmund, otro gran guerrero. Una espada que algunos llamaban Espada de Gram y otros Balmung.
 

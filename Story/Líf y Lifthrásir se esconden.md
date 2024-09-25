@@ -1,4 +1,4 @@
-> Año ???
+> Año 1201
 
 Líf y Lifthrásir son escondidos en un tronco de árbol del Bosque de Hodmímir, cerca del Bosque de Vilh, por el mismo.
 

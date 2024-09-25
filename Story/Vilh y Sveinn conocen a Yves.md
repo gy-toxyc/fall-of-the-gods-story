@@ -1,4 +1,4 @@
-> Año ???
+> Año 1154
 
 Tras una larga búsqueda por distintos pueblos que fueron relativamente hostiles con Yves, finalmente consigue dar con aquel bosque tanto buscaba. Vilh percibe un fuerte poder que acaba de entrar al bosque, y, pensando que podría ser Holger, se dirige a recibirlo. Sveinn decide ir con más cautela.
 

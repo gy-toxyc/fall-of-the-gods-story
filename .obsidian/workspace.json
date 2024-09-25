@@ -4,53 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "a55c88142194c3ed",
+        "id": "e530bc2b7ef808de",
         "type": "tabs",
-        "dimension": 33.433508640120216,
+        "dimension": 43.10477657935285,
         "children": [
           {
-            "id": "379e7f88e783064e",
+            "id": "ff1ab4000d9504a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/AEgir y Aurboda se casan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b3dff89c6346edc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Fjalar y Galar se mudan a Svartalfheim.md",
+                "file": "Story/Muere Óter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "e530bc2b7ef808de",
+        "id": "be3158a96d1f941e",
         "type": "tabs",
-        "dimension": 66.56649135987979,
+        "dimension": 56.89522342064715,
         "children": [
           {
-            "id": "5fd47dd12b03a292",
+            "id": "1ae0b8e6b0d6c5b8",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 800,
-                  "y": 35878,
-                  "zoom": -2.6666666666666665
+                  "x": 460.61827191940756,
+                  "y": 62399.54263290915,
+                  "zoom": -1.666666666666666
                 }
               }
             }
@@ -105,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 470.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -178,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fd47dd12b03a292",
+  "active": "1ae0b8e6b0d6c5b8",
   "lastOpenFiles": [
+    "Story/Muere Óter.md",
+    "Story/Nacen Óter, Regin y Fafnir.md",
+    "Main Canvas.canvas",
+    "Story/Nace Hreidmar.md",
+    "Story/Adils e Yrsa se casan.md",
     "Story/Fenrir es secuestrado por los AEsir.md",
     "Story/Fjalar y Galar se mudan a Svartalfheim.md",
     "Story/AEgir y Aurboda se casan.md",
     "Index.md",
-    "Main Canvas.canvas",
     "Story/Muere Sveinn.md",
     "Story/().md",
     "Story/Muere Vilh.md",
@@ -217,10 +208,6 @@
     "Story/Vilh, Sveinn, Holger e Yves visitan a las nornas.md",
     "Story/Ciclo Día y Noche.md",
     "2024-09-21.md",
-    "Story/Algunos humanos huyen a otros mundos.md",
-    "Story/Despiertan los supervivientes del Ragnarök.md",
-    "Story/Adils e Yrsa se casan.md",
-    "Story/Muere Lytir.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "Untitled.canvas",

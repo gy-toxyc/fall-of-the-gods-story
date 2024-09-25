@@ -1,4 +1,4 @@
-> Año ???
+> Año 1183
 
 Un día, Loki observa a Hoder practicar con el arco, pues pese a su cegera, Hoder busca ser el mejor arquero de los 9 mundos. Loki engaña a Hoder haciéndose pasar por un hermano suyo, poniéndole en las manos una flecha, con punta de muérdago, y apuntando a Hoder hacia una ventana del Palacio Breidablik a través se vislumbraba a un taciturno Balder sentado en el trono de su palacio.
 

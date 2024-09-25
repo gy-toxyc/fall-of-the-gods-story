@@ -1,4 +1,4 @@
-> Año ???
+> Año 1126
 
 Vilh presencia un notable poder entrando en su bosque a través de las runas pintadas en cada uno de los árboles del mismo y de la magia que los unen entre ellos y a sí mismo. Al observar detenidamente utilizando una poderosa magia, Vilh ve a un hombre portando un ostentoso hacha, demacrado, extremadamente cansado, y huyendo. Poco después, nota más poderes entrando al bosque, de similar poder al del aparente fugitivo, pero más familiar para Vilh.
 

@@ -1,4 +1,4 @@
-> Año ???
+> Año 1154
 
 Tras los sucesos en Muspelheim, ver el Lavatine en manos de Sinmara, Yves confía en que sus sueños durante su penitencia en Helheim no fueron mera casualidad, significaban algo.
 

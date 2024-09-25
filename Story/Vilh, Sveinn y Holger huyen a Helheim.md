@@ -1,4 +1,4 @@
-> Año ???
+> Año 1192
 
 Tras la muerte de Balder y el reciente inicio del Fimbulwinter, los dioses AEsir y muchos dioses Vanir que simpatizan con ellos aún comienzan a moverse. Conociendo la ubicación del Bosque de Vilh, los asaltan.
 

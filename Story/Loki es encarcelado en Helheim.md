@@ -1,4 +1,4 @@
-> Año ???
+> Año 1184
 
 Loki es capturado por Heimdall en la salida de Asgard, y con efecto inmediato lo envían a Helheim, propiciándole un castigo inusual. Loki estaría atado a una roca, con veneno de serpiente cayéndole sobre la cabeza.
 

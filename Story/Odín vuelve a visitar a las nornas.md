@@ -1,6 +1,6 @@
-> Año ???
+> Año 1153
 
-En busca de respuestas por las pesadillas de Balder, Odín vuelve a acudir a las nornas.
+En busca de respuestas por las continuas pesadillas de Balder, Odín vuelve a acudir a las nornas.
 
 "Una voz del pasado emanó sus últimas palabras." dijo Urd.
 "No puedes huir del destino." dijo Verdandi.

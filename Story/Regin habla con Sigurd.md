@@ -1,4 +1,4 @@
-> Año ???
+> Año 973
 
 Regin, tras algo de investigación, conoce que el paradero de Fafnir es el Brezal de Gnita, en Midgard, atravesado por el río Rhin. Cuando llega a Midgard, pasa un tiempo buscando un guerrero lo suficientemente valiente y habilidoso como para enfrentarse al dragón y entregarle el tesoro, porque Regin seguía bajo los efectos de la maldición.
 

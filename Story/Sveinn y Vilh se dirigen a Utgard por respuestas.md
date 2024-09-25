@@ -1,4 +1,4 @@
-> Año ???
+> Año 1135
 
 Al ver que su casa no contenía ningún tipo de información relevante, Sveinn y Vilh se dirigen a Utgard, el reino más cercano, con la idea de encontrar respuestas o a gente conocida por Sveinn que sepa algo.
 

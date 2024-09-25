@@ -1,4 +1,4 @@
-> Año ???
+> Año 1168
 
 Los 4 vástagos de Odín y Gullveig, ya conociendo su pasado, deciden visitar a las nornas con la premisa de obtener más información acerca de los motivos que llevaron a Odín a ejecutar a Gullveig, a desterrar a sus hijos, y a tratar de encerrarlos o mermar sus vidas.
 

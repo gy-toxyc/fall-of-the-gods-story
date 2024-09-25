@@ -1,4 +1,4 @@
-> Año ???
+> Año 1126
 
 Tras todo lo ocurrido, Sveinn despierta, y ve a Vilh sentado cerca de él. Este le pregunta, pero no consigue terminar de hablar porque se queda anonadado con la casa, la cual no era para nada la que vio al llegar exhausto buscando escondite.
 

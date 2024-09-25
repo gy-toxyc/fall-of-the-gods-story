@@ -1,4 +1,4 @@
-> Año ???
+> Año 1147
 
 Holger regresa a Asgard y conversa con Odín sobre sus investigaciones, mencionándole que es posible que el siguiente lugar que desee visitar sea Alfheim. Odín le pregunta el motivo, pues Holger ya pasó toda su infancia allí, y Holger le confiesa de forma sincera que no busca nada botánico ni alquímico, sino rebuscar en las bibliotecas de Heorot.
 

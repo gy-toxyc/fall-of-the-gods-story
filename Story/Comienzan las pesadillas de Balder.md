@@ -1,4 +1,4 @@
-> Año ???
+> Año 1150
 
 De alguna manera, la huida de Yves de Helheim acabó con sus sueños, pero a su vez, comenzó con las pesadillas de Balder.
 

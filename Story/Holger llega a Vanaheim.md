@@ -1,4 +1,4 @@
-> Año ???
+> Año 1156
 
 Holger llega a Vanaheim tras todos sus viajes. Tras bastantes años, vuelve a ver a Vilh y a Sveinn, junto con una nueva compañía, Yves, la sombra que escapó de Helheim.
 

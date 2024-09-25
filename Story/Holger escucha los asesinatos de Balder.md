@@ -1,4 +1,4 @@
-> Año ???
+> Año 1126
 
 Holger, sin saberlo, escucha a Balder hablar con Odín y Thor sobre el plan de traer a un tal Sveinn a Asgard y encarcelarlo junto al lobo (refiriéndose a Fenrir).
 
