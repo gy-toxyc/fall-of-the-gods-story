@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e530bc2b7ef808de",
-        "type": "tabs",
-        "dimension": 43.10477657935285,
-        "children": [
-          {
-            "id": "ff1ab4000d9504a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Muere Óter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "be3158a96d1f941e",
         "type": "tabs",
-        "dimension": 56.89522342064715,
         "children": [
           {
             "id": "1ae0b8e6b0d6c5b8",
@@ -35,9 +15,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 460.61827191940756,
-                  "y": 62399.54263290915,
-                  "zoom": -1.666666666666666
+                  "x": -2972.503732311463,
+                  "y": 19008.389275303278,
+                  "zoom": -4
                 }
               }
             }
