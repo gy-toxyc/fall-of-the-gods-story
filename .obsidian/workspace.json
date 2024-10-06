@@ -6,6 +6,7 @@
       {
         "id": "be3158a96d1f941e",
         "type": "tabs",
+        "dimension": 53.77503852080123,
         "children": [
           {
             "id": "1ae0b8e6b0d6c5b8",
@@ -13,11 +14,33 @@
             "state": {
               "type": "canvas",
               "state": {
+                "file": "Family Tree Canvas.canvas",
+                "viewState": {
+                  "x": 6291.345065977936,
+                  "y": 5366.34202198804,
+                  "zoom": -0.6666666666666667
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a235362b7d790752",
+        "type": "tabs",
+        "dimension": 46.22496147919877,
+        "children": [
+          {
+            "id": "573df334d62dcdb4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -2972.503732311463,
-                  "y": 19008.389275303278,
-                  "zoom": -4
+                  "x": 104.47012782683953,
+                  "y": 25006.514485733693,
+                  "zoom": -0.6666666666666663
                 }
               }
             }
@@ -72,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 351.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -88,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Family Tree Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Family Tree Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Canvas.canvas"
+                "file": "Family Tree Canvas.canvas"
               }
             }
           },
@@ -161,9 +184,12 @@
   },
   "active": "1ae0b8e6b0d6c5b8",
   "lastOpenFiles": [
+    "Main Canvas.canvas",
+    "Family Tree Canvas.canvas",
+    "Untitled.md",
+    "Family Trees",
     "Story/Muere Óter.md",
     "Story/Nacen Óter, Regin y Fafnir.md",
-    "Main Canvas.canvas",
     "Story/Nace Hreidmar.md",
     "Story/Adils e Yrsa se casan.md",
     "Story/Fenrir es secuestrado por los AEsir.md",
@@ -178,7 +204,6 @@
     "Story/Muere Gefjun.md",
     "Story/Frigg es herida de muerte.md",
     "Story/Muere Freyja.md",
-    "Untitled.md",
     "Story/Perece casi toda la raza de los dragones.md",
     "Story/Hela realiza una expedición al Nidafjoll.md",
     "Story/Nace Gefjun.md",
@@ -187,10 +212,8 @@
     "Story/Vilh, Sveinn y Holger huyen a Helheim.md",
     "Story/Vilh, Sveinn, Holger e Yves visitan a las nornas.md",
     "Story/Ciclo Día y Noche.md",
-    "2024-09-21.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
-    "Untitled.canvas",
     "characters"
   ]
 }
