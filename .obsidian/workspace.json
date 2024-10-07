@@ -6,7 +6,6 @@
       {
         "id": "be3158a96d1f941e",
         "type": "tabs",
-        "dimension": 68.99588960657664,
         "children": [
           {
             "id": "1ae0b8e6b0d6c5b8",
@@ -16,31 +15,9 @@
               "state": {
                 "file": "Family Tree Canvas.canvas",
                 "viewState": {
-                  "x": -3910.644181220813,
-                  "y": 11026.968730653707,
-                  "zoom": -0.6666666666666663
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a235362b7d790752",
-        "type": "tabs",
-        "dimension": 31.004110393423375,
-        "children": [
-          {
-            "id": "573df334d62dcdb4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main Canvas.canvas",
-                "viewState": {
-                  "x": -1102.3147718447424,
-                  "y": 26003.3478425388,
-                  "zoom": -1.3333333333333328
+                  "x": -5530.07687604993,
+                  "y": 4038.1429548528968,
+                  "zoom": -4
                 }
               }
             }
@@ -95,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 261.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -168,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
