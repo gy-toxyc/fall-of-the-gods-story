@@ -4,19 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "be3158a96d1f941e",
+        "id": "badb2bcf5eadb50f",
         "type": "tabs",
+        "dimension": 33.09475119291071,
         "children": [
           {
-            "id": "1ae0b8e6b0d6c5b8",
+            "id": "f7a4e0d7efd8c2b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7dfee6b091ce0e40",
+        "type": "tabs",
+        "dimension": 66.90524880708931,
+        "children": [
+          {
+            "id": "aacbd52efa6f8b19",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Family Tree Canvas.canvas",
+                "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -5530.07687604993,
-                  "y": 4038.1429548528968,
+                  "x": 662.1814919905837,
+                  "y": 62303.91733968523,
                   "zoom": -4
                 }
               }
@@ -72,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 391.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -82,35 +102,6 @@
         "id": "62bc0dea32e671ee",
         "type": "tabs",
         "children": [
-          {
-            "id": "d02e449d9903be65",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Family Tree Canvas.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "84656ad9133a9fdb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Family Tree Canvas.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "88823b91318d8b93",
             "type": "leaf",
@@ -123,17 +114,7 @@
             }
           },
           {
-            "id": "778d848e12bd0200",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Family Tree Canvas.canvas"
-              }
-            }
-          },
-          {
-            "id": "5189193cca327cbc",
+            "id": "2537447a9c7f689d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -141,11 +122,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 525.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,20 +140,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ae0b8e6b0d6c5b8",
+  "active": "88823b91318d8b93",
   "lastOpenFiles": [
+    "Index Ideas.md",
     "Main Canvas.canvas",
+    "Mueren Dváli y Narfi.md",
+    "Loki y Odín se reencuentran.md",
+    "Consideraciones.md",
+    "Index.md",
+    "README.md",
+    "Story/AEgir y Rán se casan.md",
+    "Story/Alberich migra a Midgard.md",
+    "Story/Florece la primera flor tras el Ragnarök.md",
+    "Story/Despiertan Nótt y Dagr.md",
+    "Story/AEgir y Aurboda se casan.md",
+    "Story/Adils e Yrsa se casan.md",
     "Family Tree Canvas.canvas",
-    "Untitled.md",
     "Family Trees",
     "Story/Muere Óter.md",
     "Story/Nacen Óter, Regin y Fafnir.md",
     "Story/Nace Hreidmar.md",
-    "Story/Adils e Yrsa se casan.md",
     "Story/Fenrir es secuestrado por los AEsir.md",
     "Story/Fjalar y Galar se mudan a Svartalfheim.md",
-    "Story/AEgir y Aurboda se casan.md",
-    "Index.md",
     "Story/Muere Sveinn.md",
     "Story/().md",
     "Story/Muere Vilh.md",
@@ -181,14 +170,6 @@
     "Story/Muere Gefjun.md",
     "Story/Frigg es herida de muerte.md",
     "Story/Muere Freyja.md",
-    "Story/Perece casi toda la raza de los dragones.md",
-    "Story/Hela realiza una expedición al Nidafjoll.md",
-    "Story/Nace Gefjun.md",
-    "Story/Yves regresa a Helheim.md",
-    "Story/Yves va a Muspelheim.md",
-    "Story/Vilh, Sveinn y Holger huyen a Helheim.md",
-    "Story/Vilh, Sveinn, Holger e Yves visitan a las nornas.md",
-    "Story/Ciclo Día y Noche.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "characters"

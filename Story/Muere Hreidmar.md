@@ -1,4 +1,4 @@
-> Año 912
+> Año 915
 
 Completamente consumidos por la maldición del anillo, los hijos restantes del rey Hreidmar de los nibelungos, Fafnir y Regin, lo asesinan para quedarse con el anillo.
 
