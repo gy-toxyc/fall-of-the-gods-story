@@ -6,21 +6,34 @@
       {
         "id": "badb2bcf5eadb50f",
         "type": "tabs",
-        "dimension": 33.09475119291071,
+        "dimension": 33.0947511929107,
         "children": [
           {
-            "id": "f7a4e0d7efd8c2b6",
+            "id": "5d38db815518b114",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index Ideas.md",
+                "file": "Story/Brimir funda Ókólnir, de nuevo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee52c53d64f2ae2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Holger y Sveinn pelean contra Odín y Thor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7dfee6b091ce0e40",
@@ -35,9 +48,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 662.1814919905837,
-                  "y": 62303.91733968523,
-                  "zoom": -4
+                  "x": 801.9603418850354,
+                  "y": 53429.082481843834,
+                  "zoom": -1.3333333333333328
                 }
               }
             }
@@ -140,10 +153,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88823b91318d8b93",
+  "active": "2537447a9c7f689d",
   "lastOpenFiles": [
-    "Index Ideas.md",
+    "Story/Holger y Sveinn pelean contra Odín y Thor.md",
     "Main Canvas.canvas",
+    "Story/Brimir funda Ókólnir, de nuevo.md",
+    "Story/Brimir migra a Midgard.md",
+    "Story/Muere Njörd.md",
+    "Story/Sindri salva la vida a Hela.md",
+    "Story/Muere Vidar.md",
+    "Story/Muere Glaur.md",
+    "Story/AEgir y Aurboda se casan.md",
+    "Index Ideas.md",
+    "Family Tree Canvas.canvas",
     "Mueren Dváli y Narfi.md",
     "Loki y Odín se reencuentran.md",
     "Consideraciones.md",
@@ -153,9 +175,7 @@
     "Story/Alberich migra a Midgard.md",
     "Story/Florece la primera flor tras el Ragnarök.md",
     "Story/Despiertan Nótt y Dagr.md",
-    "Story/AEgir y Aurboda se casan.md",
     "Story/Adils e Yrsa se casan.md",
-    "Family Tree Canvas.canvas",
     "Family Trees",
     "Story/Muere Óter.md",
     "Story/Nacen Óter, Regin y Fafnir.md",
@@ -164,12 +184,6 @@
     "Story/Fjalar y Galar se mudan a Svartalfheim.md",
     "Story/Muere Sveinn.md",
     "Story/().md",
-    "Story/Muere Vilh.md",
-    "Story/Muere Sigyn.md",
-    "Story/Yves despierta.md",
-    "Story/Muere Gefjun.md",
-    "Story/Frigg es herida de muerte.md",
-    "Story/Muere Freyja.md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "characters"

@@ -4,7 +4,7 @@ El Yggdrasil, el universo que conocíamos, la creación de Odín, ha sido comple
 
 Debido a la destrucción del universo conocido, un nuevo orden universal se ha formado.
 
-Lo que anteriormente fue Asgard, Alfheim y Vanaheim se convertiría en un nuevo mundo, dividido en 3 capas geográficas ordenadas por su altura.
+Lo que anteriormente fue Asgard, Alfheim y Vanaheim se convertiría en un nuevo mundo, dividido en 3 regiones geográficas.
 - Vidblain
 - Andlang
 - Gimlé
