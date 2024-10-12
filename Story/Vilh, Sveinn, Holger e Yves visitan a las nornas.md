@@ -1,12 +1,9 @@
-> Año 1168
+> Año 1158
 
-Los 4 vástagos de Odín y Gullveig, ya conociendo su pasado, deciden visitar a las nornas con la premisa de obtener más información acerca de los motivos que llevaron a Odín a ejecutar a Gullveig, a desterrar a sus hijos, y a tratar de encerrarlos o mermar sus vidas.
+Los 4 deciden visitar a las nornas como recurso para conocer su pasado, y la relación de eso con Gullveig y los sueños de Yves.
 
-Urd dijo: 
-"Fuisteis fruto de un amor verdadero, pero insólito. Una oscuridad ya había mermado los ojos de la luz en el pasado, pero apareció el destino, caprichoso dirían algunos, y otra aparente oscuridad iluminó al que en los inicios creó el universo que conocemos."
+Cuando llegan al Pozo de Urd en Midgard, las nornas les cuentan su pasado, su presente y su futuro.
 
-Verdandi añadió:
-"El miedo es la voz, los oscuros susurros que a menudo crean senderos hacia un final inevitable. ¿No es normal la búsqueda incesante por salir de ese sendero, una vez conoces la oscuridad que te aguarda?"
+Vilh, Holger, Sveinn e Yves son hijos de Odín y Gullveig, de un amor que fue verdadero, pero que supuso el engendro de los 4 verdaderos vástagos del caos, herederos de la sabiduría y fuerza de Odín, pero también de la magia y la oscuridad de Gullveig. Odín se dio cuenta de aquello, y quiso desterrarlos, para más adelante tratar de controlarlos o mermar sus vidas.
 
-Skuld concluyó:
-"Cuando el heredero haya perecido, el sol y la luna hayan desaparecido, y el eterno invierno llegue, cubrirá entonces los valles y montañas, los ríos, llanuras y las mismísimas raíces del Yggdrasil, el sonido de la llegada del caos, el sonido del ocaso de los dioses. Una llameante espada primigenia, seguido por aquellos cuya sangre aún tiene sabor de naturaleza, se alzará sobre la oscuridad y el frío eternos, sobre la creación del heredero de Buri, sobre el ejército de los dioses. Los vástagos de la conjunción entre luz y oscuridad no serán quienes anuncien el comienzo, pero serán la chispa del fin."
+Odín está predestinado a morir bajo las fauces de un enorme lobo, cabalgado por uno de sus propios hijos.

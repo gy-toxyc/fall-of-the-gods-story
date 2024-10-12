@@ -1,4 +1,4 @@
-> Año 1193
+> Año 1185
 
 Debido a los ataques en Vanaheim hacia los vástagos de Odín y Gullveig, todos se ven obligados a huir.
 

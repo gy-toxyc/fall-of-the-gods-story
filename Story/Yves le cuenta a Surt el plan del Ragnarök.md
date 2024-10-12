@@ -1,4 +1,4 @@
-> Año 1193
+> Año 1185
 
 En vista de que el Fimbulwinter ha comenzado, los vástagos de Odín y Gullveig comienzan su campaña.
 

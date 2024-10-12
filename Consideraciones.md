@@ -15,3 +15,9 @@ En cierto punto, Sveinn confiesa a Vilh su miedo a morir. Pese a su valentía y 
 7. De igual manera, esos hijos los separa en 3 mundos diferentes, con la finalidad de que sea difícil capturarlos, de hecho, solo consiguen capturar a Fenrir.
 8. La profecía siempre le ronda la cabeza, y tras escaparse la sombra de Helheim (Yves) y enterarse de las pesadillas de Balder, recuerda que el primero de los pasos del inicio del Ragnarök es la muerte de Balder.
 9. Loki vuelve a Asgard con un engaño, fingiendo saber ayudar a Balder y haber dejado atrás las mentiras de Odín del pasado, dice venir porque se avecinan tiempos oscuros y quiere estar en el bando de la luz.
+
+---
+
+Holger y Sveinn nunca van a Asgard ni se pelean con Odín y Thor, sino que van a ver a las nornas, todos, y éstas les cuentan la verdad y la profecía del Ragnarök. Tras eso, Yves y Vilh investigarán en la casa de Gullveig.
+
+Odín descubrirá que sus hijos saben su identidad gracias a Hugin y Munin, que lo escucharán en la cabaña de Vilh. Tras eso, comenzará la caza de ellos, y tendrán que huir a Helheim.

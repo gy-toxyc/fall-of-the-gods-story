@@ -6,15 +6,15 @@
       {
         "id": "badb2bcf5eadb50f",
         "type": "tabs",
-        "dimension": 33.0947511929107,
+        "dimension": 33.642597821702296,
         "children": [
           {
-            "id": "5d38db815518b114",
+            "id": "237a4b0cb382ecfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Brimir funda Ókólnir, de nuevo.md",
+                "file": "Story/Hela construye el Palacio de Sindri.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,19 +26,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Holger y Sveinn pelean contra Odín y Thor.md",
+                "file": "Consideraciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7dfee6b091ce0e40",
         "type": "tabs",
-        "dimension": 66.90524880708931,
+        "dimension": 66.3574021782977,
         "children": [
           {
             "id": "aacbd52efa6f8b19",
@@ -48,9 +47,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 801.9603418850354,
-                  "y": 53429.082481843834,
-                  "zoom": -1.3333333333333328
+                  "x": 668.4939845149624,
+                  "y": 71706.64860545663,
+                  "zoom": -2.9999999999999996
                 }
               }
             }
@@ -133,6 +132,45 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "27483cc4cedf3854",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f889eb75db5cf035",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01cd6b4d005075ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main Canvas.canvas"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -153,11 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2537447a9c7f689d",
+  "active": "aacbd52efa6f8b19",
   "lastOpenFiles": [
-    "Story/Holger y Sveinn pelean contra Odín y Thor.md",
+    "Story/Hela construye el Palacio de Sindri.md",
     "Main Canvas.canvas",
+    "Story/Se llevan a cabo los preparativos del Ragnarök.md",
     "Story/Brimir funda Ókólnir, de nuevo.md",
+    "Consideraciones.md",
+    "Story/Holger y Sveinn pelean contra Odín y Thor.md",
     "Story/Brimir migra a Midgard.md",
     "Story/Muere Njörd.md",
     "Story/Sindri salva la vida a Hela.md",
@@ -168,7 +209,6 @@
     "Family Tree Canvas.canvas",
     "Mueren Dváli y Narfi.md",
     "Loki y Odín se reencuentran.md",
-    "Consideraciones.md",
     "Index.md",
     "README.md",
     "Story/AEgir y Rán se casan.md",
@@ -181,9 +221,6 @@
     "Story/Nacen Óter, Regin y Fafnir.md",
     "Story/Nace Hreidmar.md",
     "Story/Fenrir es secuestrado por los AEsir.md",
-    "Story/Fjalar y Galar se mudan a Svartalfheim.md",
-    "Story/Muere Sveinn.md",
-    "Story/().md",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
     "characters"
