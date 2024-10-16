@@ -48,9 +48,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -139.45402017889262,
-                  "y": 10264.6434123239,
-                  "zoom": -1.6666666666666665
+                  "x": -1361.895544096927,
+                  "y": 16719.871328595338,
+                  "zoom": -0.3333333333333334
                 }
               }
             }
@@ -200,11 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2537447a9c7f689d",
+  "active": "ee52c53d64f2ae2b",
   "lastOpenFiles": [
+    "Main Canvas.canvas",
+    "Consideraciones.md",
     "Story/Reino de Grimsgard pasa a ser Grimsgard.md",
     "Story/Muere Grim.md",
-    "Main Canvas.canvas",
     "Story/Se funda el Reino de Odinsaker.md",
     "Story/Thrym marcha hacia el Ragnarök.md",
     "Story/Nace Helgi.md",
@@ -215,7 +216,6 @@
     "Family Tree Canvas.canvas",
     "Story/Se llevan a cabo los preparativos del Ragnarök.md",
     "Story/Brimir funda Ókólnir, de nuevo.md",
-    "Consideraciones.md",
     "Story/Holger y Sveinn pelean contra Odín y Thor.md",
     "Story/Brimir migra a Midgard.md",
     "Story/Muere Njörd.md",
@@ -229,7 +229,6 @@
     "Index.md",
     "README.md",
     "Story/AEgir y Rán se casan.md",
-    "Story/Alberich migra a Midgard.md",
     "Family Trees",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",

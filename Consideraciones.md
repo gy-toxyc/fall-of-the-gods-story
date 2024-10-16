@@ -29,3 +29,29 @@ El Pozo de Urd, ubicado en Midgard, extrae agua realmente de un río Élivágar,
 Cuando Odín y sus hermanos crearon el Yggdrasil para sostener los 8 mundos, el propio árbol de la vida comenzó a absorber el infinito vacío susurrante. La fuente de Hvergelmir de Niflheim es eso, vacío susurrante condensado en forma de agua, que fluye por los 9 mundos hasta desembocar en algún lago u océano.
 
 Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pueden verlo, incluidos los humanos, ya que está ubicado en Midgard, pero las nornas no recibirán a nadie si no lo admiten ellas mismas, por lo que generalmente parece un sitio abandonado, a no ser que las nornas permitan el acceso a alguien. Su estructura es prácticamente irrompible, similar a la de las torres de Bifröst, pero no pertenece a las ramas del Yggdrasil, como sí que lo hacen las torres de Bifröst.
+
+---
+
+Renio de Närke - Hasta la guerra entre Humanos y Gigantes
+Reino de Götaland - Fundado por Snaer.
+Reino de Kveland - Fundado por alguien de nombre desconocido y conquistado por Thorri.
+
+Unificación de Midgard completa bajo el nombre de "Reino de Götaland".
+
+Reino de Solor - Rebelión contra el Reino de Götaland, llevándolo a la desaparición. Fundado por Sölvi
+Reino de Ringerike - 4 generaciones después, fundado por Ring, bisnieto de Sölvi.
+Reino de Skjold - Fundado por alguien desconocido, surgió durante la rebelión de Solor.
+Reino de Karlaug - Fundado por alguien desconocido, surgió durante la rebelión de Solor.
+
+Unificación de Ringerike y Skjold tras la conquista de Halfdan.
+
+Sigmund toma el Reino de Karlaug, autoproclamándose su rey y casándose con la hija del antigüo rey, Sisibe.
+
+Sigmund nace en el Bosque de Suabia.
+
+Reino de Högni - Reino joven fundado por Högni.
+Reino de Hjarrandi - Reino joven fundado por Hjarrandi.
+Reino de Adils - Reino joven fundado por Adils. (al este)
+Reino de Onela - Reino joven fundado por Onela. (al este)
+El Lago Vänern también está al este.
+
