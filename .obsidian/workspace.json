@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7dfee6b091ce0e40",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Consideraciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Canvas.canvas",
+                "file": "Consideraciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +169,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Canvas.canvas"
+                "file": "Consideraciones.md"
               }
+            }
+          },
+          {
+            "id": "63ae5d74c04f794e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
             }
           }
         ],

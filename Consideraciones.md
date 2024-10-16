@@ -21,3 +21,11 @@ En cierto punto, Sveinn confiesa a Vilh su miedo a morir. Pese a su valentía y 
 Holger y Sveinn nunca van a Asgard ni se pelean con Odín y Thor, sino que van a ver a las nornas, todos, y éstas les cuentan la verdad y la profecía del Ragnarök. Tras eso, Yves y Vilh investigarán en la casa de Gullveig.
 
 Odín descubrirá que sus hijos saben su identidad gracias a Hugin y Munin, que lo escucharán en la cabaña de Vilh. Tras eso, comenzará la caza de ellos, y tendrán que huir a Helheim.
+
+---
+
+El Pozo de Urd, ubicado en Midgard, extrae agua realmente de un río Élivágar, el río ???. Esto se debe a que los ríos Élivágar realmente son el único agua que no proviene de la sangre de Ymir, sino del propio vacío susurrante.
+
+Cuando Odín y sus hermanos crearon el Yggdrasil para sostener los 8 mundos, el propio árbol de la vida comenzó a absorber el infinito vacío susurrante. La fuente de Hvergelmir de Niflheim es eso, vacío susurrante condensado en forma de agua, que fluye por los 9 mundos hasta desembocar en algún lago u océano.
+
+Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pueden verlo, incluidos los humanos, ya que está ubicado en Midgard, pero las nornas no recibirán a nadie si no lo admiten ellas mismas, por lo que generalmente parece un sitio abandonado, a no ser que las nornas permitan el acceso a alguien. Su estructura es prácticamente irrompible, similar a la de las torres de Bifröst, pero no pertenece a las ramas del Yggdrasil, como sí que lo hacen las torres de Bifröst.
