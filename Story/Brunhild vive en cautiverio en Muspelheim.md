@@ -1,3 +1,3 @@
-> Año 857
+> Año 911
 
-Tras el castigo de Odín, la valkyria Brunhild vivirá en cautiverio en un castillo de Muspelheim que estaba abandonado.
+Tras el castigo de Odín, la valkyria Brynhild vivirá en cautiverio en un castillo de Muspelheim que estaba abandonado.

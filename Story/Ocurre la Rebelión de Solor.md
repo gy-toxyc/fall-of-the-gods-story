@@ -7,4 +7,4 @@ Esta rebelión derrotó las fuerzas de Götaland en muchos puntos, surgiendo nue
 * Reino de Skjold, al suroeste de Midgard, fundado por Finnalf.
 * Reino de Solor, al este, en el antiguo territorio original del Reino de Upsal, fundado por Hadding.
 
-Los demás hijos, Ring, Gudröd, Godbrand y Jotunbjörn quedarían como consejeros de algunos de esos reinos.
+Los demás hijos, Ring, Godbrand y Jotunbjörn quedarían como consejeros de algunos de esos reinos, mientras que Gudröd se mantendría fiel a Götaland.

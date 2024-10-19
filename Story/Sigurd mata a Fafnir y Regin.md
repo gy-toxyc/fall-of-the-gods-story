@@ -1,4 +1,4 @@
-> Año 920
+> Año 934
 
 Sigurd, con su espada Balmung, asesina al dragón Fafnir con su esposa, Brynhild, observando la batalla escondida en un brezo.
 

@@ -1,3 +1,3 @@
-> Año 876
+> Año 880
 
-Nace Hjarrandi, rey de un reino humano.
+Nace Hjarrandi, hijo de Budli y heredero del Reino unificado de Ringerike y Skjold.

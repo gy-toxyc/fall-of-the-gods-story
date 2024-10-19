@@ -1,3 +1,3 @@
-> Año 877
+> Año 882
 
-Nace Högni, reconocido rey humano.
+Nace Högni, hijo de Agnar y heredero del trono del Reino de Solor.

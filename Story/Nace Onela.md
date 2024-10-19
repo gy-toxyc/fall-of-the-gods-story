@@ -1,3 +1,3 @@
-> Año 957
+> Año 933
 
-Nace Onela, rey humano.
+Nace Onela, hijo de Hedinn y heredero al trono del Reino unificado de Ringerike y Skjold.

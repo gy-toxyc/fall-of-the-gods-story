@@ -1,3 +1,3 @@
-> Año 970
+> Año 960
 
 Adils e Yrsa se casan, siendo el fruto de este matrimonio Hrodulf el Tenebroso, su futuro hijo.

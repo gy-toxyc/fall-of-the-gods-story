@@ -1,3 +1,3 @@
-> Año 898
+> Año 901
 
-Nace Adils, rey humano y legendario guerrero que salió victorioso de la mayor batalla de Midgard después de la guerra entre hombres y gigantes.
+Nace Adils, hijo de Högni y heredero del Reino de Solor y legendario guerrero que salió victorioso de la mayor batalla de Midgard después de la guerra entre hombres y gigantes.
