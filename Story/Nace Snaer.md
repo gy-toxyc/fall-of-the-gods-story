@@ -1,3 +1,3 @@
-> Año 659
+> Año 483
 
-Nace Snaer, hijo perdido de Kári que nace y vive en Midgard, posiblemente porque su madre fue humana y Snaer fue engendrado en un viaje de Kári por las tierras humanas. De hecho, es la raíz de la mayor dinastía y linaje de toda la historia de los humanos.
+Nace Snaer, hijo de Jökul. Es la raíz de la mayor dinastía y linaje de toda la historia de los humanos. Es medio jötun medio humano, lo que le permite vivir muchos más años que un humano promedio.

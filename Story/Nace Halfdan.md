@@ -1,4 +1,4 @@
-> Año 782
+> Año 665
 
 Nace Halfdan, apodado "El Viejo" como muchos en su linaje. Es hijo del rey Ring de Ringerike, y heredero de su trono.
 

@@ -33,25 +33,55 @@ Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pu
 ---
 
 Renio de Närke - Hasta la guerra entre Humanos y Gigantes
-Reino de Götaland - Fundado por Snaer.
-Reino de Kveland - Fundado por alguien de nombre desconocido y conquistado por Thorri.
+Reino de Upsal - Fundado por la Swegde.
+Reino de Turkland - Fundado por alguien de nombre desconocido.
+Reino de Götaland (en él se ubica un pueblo llamado Varva y el "Puerto de Skajden) - Fundado por Snaer.
+Reino de Kvenland - Fundado por alguien de nombre desconocido y conquistado por Thorri.
+Reino de Halogaland - Fundado por alguien de nombre desconocido.
+Reino de Fin - Fundado por alguien de nombre desconocido.
+Reino de lymfjord - fundado por ???.
 
 Unificación de Midgard completa bajo el nombre de "Reino de Götaland".
 
-Reino de Solor - Rebelión contra el Reino de Götaland, llevándolo a la desaparición. Fundado por Sölvi
+Reino de Solor - Rebelión contra el Reino de Götaland, provocando múltiples independencias. Fundado por Sölvi.
 Reino de Ringerike - 4 generaciones después, fundado por Ring, bisnieto de Sölvi.
 Reino de Skjold - Fundado por alguien desconocido, surgió durante la rebelión de Solor.
 Reino de Karlaug - Fundado por alguien desconocido, surgió durante la rebelión de Solor.
 
 Unificación de Ringerike y Skjold tras la conquista de Halfdan.
 
-Sigmund toma el Reino de Karlaug, autoproclamándose su rey y casándose con la hija del antigüo rey, Sisibe.
+Sigmund, originario de Solor, toma el Reino de Karlaug, autoproclamándose su rey y casándose con la hija del antigüo rey, Sisibe.
 
 Sigmund nace en el Bosque de Suabia.
 
 Reino de Högni - Reino joven fundado por Högni.
 Reino de Hjarrandi - Reino joven fundado por Hjarrandi.
-Reino de Adils - Reino joven fundado por Adils. (al este)
-Reino de Onela - Reino joven fundado por Onela. (al este)
-El Lago Vänern también está al este.
+Reino de Adils - Reino joven fundado por Adils. (al oeste)
+Reino de Onela - Reino joven fundado por Onela. (al oeste)
+El Lago Vänern también está al oeste.
 
+---
+
+1. Swegde es el rey fundador del Reino de Upsal.
+2. Tiene un hijo, Vanladi, con una mujer llamada Vana.
+3. Vanladi reinará tras la muerte de su padre como un gran guerrero. Su mujer será Drífa, hija de Snaer, rey por entonces del reino de Götaland.
+4. Vanladi y Drífa tendrán un hijo, Visbur.
+5. Vanladi morirá bajo extrañas circunstancias en una de sus batallas.
+6. Visbur reinará Upsal.
+7. Visbur se casa con la hija de un aristócrata llamado Aude, y tendrá 2 hijos, Gisle y Ond.
+8. Visbur abandona a esa familia y toma otra esposa, de nombre desconocido, con quien tiene a su hijo Domald.
+9. Gisle y Ond, demandando su herencia, asesinan quemando vivo a Visbur.
+10. Domald reina Upsal, un reinado horrible de hambrunas y enfermedades. El pueblo lo asesinará finalmente.
+11. Domald tuvo un hijo, Domar, que reinará en Upsal pacíficamente. Su cuerpo sería enterrado en la planicie de Fyrisvold, al sur del Templo de Upsal en el reino homónimo, por el cual pasa el río Fyris.
+12. Su hijo, Dygve reinará, de forma pacífica y tranquila, muriendo en su lecho.
+13. El hijo de Dygve, Dag, se caracterizó por ser sabio. Declararía guerra al reino de Götaland aliado con el Reino de Fin, siendo esta fallida y muriendo en el intento, en el Puerto de Skjotan.
+14. Agne, hijo de Dag, reinará entonces Upsala. Declarará la guerra al reino de Fin, pues atribuyen a su incompetencia la derrota frente a Götaland, ganándola y tomando a la hija de su enemigo, Skjalv, hija de Froste. También va al reino su hermano, Loge.
+15. Skjalv pide a Agne un funeral digno a su padre. En dicho funeral, Agne se emborracha tanto que cae dormido con un ornamento dorado alrededor de su cuello, que se dice que es herencia de su antepasado Visbur. Skjalv lo asesina y lo entierra en aquel mismo lugar, que pasaría a llamarse "Agnefet".
+16. Por primera vez en Midgard, dos reyes gobernarían una misma tierra, Alric y Eric, hijos de Agne. Increíbles montadores de caballos, pero en una competición entre ellos los dos morirían aplastándose las cabezas en una caída.
+17. De igual forma a su padre y su tio, Yngve y Alf reinarán Upsal. Yngve es extrovertido, mientras que Alf es cerrado y tímido. La mujer de Alf, Bera, se siente atraída por su hermano, lo que pone celoso a Alf, hasta el punto de empalar un día con la espada a su propio hermano delante de los ojos de Bera. Pese a ello, Yngve consigue asesinar a Alf también en el momento. Los dos serían enterrados en Fyrisvold.
+18. Alf tuvo un único hijo, Hugleik, que heredaría Upsal. Otro rey lejano (de Vin), Hake, ataca Upsal, matándolo y tomando el reino. Los hijos de Yngve, Jorund y Eric, mientras tanto, se encuentran en batallas en el Reino de Halogaland, donde asesinarían a Gudlog, su rey, y lo colgarían en Stromones, un lugar de Halogaland. Al oir sobre la toma de Upsal, van hacia allí y consiguen tomarla de vuelta, con la pérdida de Eric. Jorund se convertiría en el nuevo rey de Upsal.
+19. Jorund reinará Upsal tomando además las tierras de Lymfjord y tratando de tomar el Reino de Oddesund, donde se encuentra con Gylog, un hijo de Gudlog. Gylog mataría a Jorund.
+20. El hijo de Jorund, On, reinaría Upsala hasta que Halfdan el Viejo, rey por entonces de Götaland, lo expulsase, reinando él Upsal. Tras la muerte de Halfdan, On regresa a Upsal. Tras mucho tiempo allí, 25 años, un sobrino de Halfdan, Ole, ataca el territorio. Ole sería asesinado más tarde por Starkad, pero On ya sería demasiado mayor para reinar. Durante este periodo, Upsal pierde las tierras de Lymfjord, que más tarde reinará Frode.
+21. Egil, el único hijo vivo de On, reina sobre Upsal entonces. Durante su reinado, conocedor de que On tenía un esclavo llamado Tunne que escondía secretos y tesoros del rey, lo bajó de rango a prácticamente nada, lo que ofendió a Tunne. Ocurrió entonces una rebelión de esclavos liderada por Tunne. Con ayuda del rey Frode, del reino de Lymfjord consigue ganar la apretada guerra civil.
+22. Ottar es el sucesor de Egil, rompiendo contactos con el rey Frode que en tiempos ayudó a su padre a conservar Upsal. Frode entonces, enfurecido, toma Upsal, mientras Ottar toma el reino de Lymfjord Pero, finalmente, al a vuelta de Frode a su reino, lo retoma y asesina a Ottar.
+23. Frode será el nombre del antiguo pequeño reino de Lymfjord, en honor al rey que llevó ese reino a la gloria. El Templo de Upsal conservaría su nombre hasta la guerra entre Götaland y Lymfjord.

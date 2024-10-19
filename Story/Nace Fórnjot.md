@@ -1,3 +1,3 @@
-> Año 629
+> Año 302
 
 Nace el legendario jötun Fornjót.
