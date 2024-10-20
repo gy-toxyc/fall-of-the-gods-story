@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ac197a6b13276e",
+  "active": "2537447a9c7f689d",
   "lastOpenFiles": [
     "Main Canvas.canvas",
     "Consideraciones.md",
