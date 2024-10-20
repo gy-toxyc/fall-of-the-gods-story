@@ -18,47 +18,11 @@ En cierto punto, Sveinn confiesa a Vilh su miedo a morir. Pese a su valentía y 
 
 ---
 
-Holger y Sveinn nunca van a Asgard ni se pelean con Odín y Thor, sino que van a ver a las nornas, todos, y éstas les cuentan la verdad y la profecía del Ragnarök. Tras eso, Yves y Vilh investigarán en la casa de Gullveig.
-
-Odín descubrirá que sus hijos saben su identidad gracias a Hugin y Munin, que lo escucharán en la cabaña de Vilh. Tras eso, comenzará la caza de ellos, y tendrán que huir a Helheim.
-
----
-
 El Pozo de Urd, ubicado en Midgard, extrae agua realmente de un río Élivágar, el río ???. Esto se debe a que los ríos Élivágar realmente son el único agua que no proviene de la sangre de Ymir, sino del propio vacío susurrante.
 
 Cuando Odín y sus hermanos crearon el Yggdrasil para sostener los 8 mundos, el propio árbol de la vida comenzó a absorber el infinito vacío susurrante. La fuente de Hvergelmir de Niflheim es eso, vacío susurrante condensado en forma de agua, que fluye por los 9 mundos hasta desembocar en algún lago u océano.
 
 Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pueden verlo, incluidos los humanos, ya que está ubicado en Midgard, pero las nornas no recibirán a nadie si no lo admiten ellas mismas, por lo que generalmente parece un sitio abandonado, a no ser que las nornas permitan el acceso a alguien. Su estructura es prácticamente irrompible, similar a la de las torres de Bifröst, pero no pertenece a las ramas del Yggdrasil, como sí que lo hacen las torres de Bifröst.
-
----
-
-Renio de Närke - Hasta la guerra entre Humanos y Gigantes
-Reino de Upsal - Fundado por la Swegde.
-Reino de Turkland - Fundado por alguien de nombre desconocido.
-Reino de Götaland (en él se ubica un pueblo llamado Varva y el "Puerto de Skajden) - Fundado por Snaer.
-Reino de Kvenland - Fundado por alguien de nombre desconocido y conquistado por Thorri.
-Reino de Halogaland - Fundado por alguien de nombre desconocido.
-Reino de Fin - Fundado por alguien de nombre desconocido.
-Reino de lymfjord - fundado por ???.
-
-Unificación de Midgard completa bajo el nombre de "Reino de Götaland".
-
-Reino de Solor - Rebelión contra el Reino de Götaland, provocando múltiples independencias. Fundado por Sölvi.
-Reino de Ringerike - 4 generaciones después, fundado por Ring, bisnieto de Sölvi.
-Reino de Skjold - Fundado por alguien desconocido, surgió durante la rebelión de Solor.
-Reino de Karlaug - Fundado por alguien desconocido, surgió durante la rebelión de Solor.
-
-Unificación de Ringerike y Skjold tras la conquista de Halfdan.
-
-Sigmund, originario de Solor, toma el Reino de Karlaug, autoproclamándose su rey y casándose con la hija del antigüo rey, Sisibe.
-
-Sigmund nace en el Bosque de Suabia.
-
-Reino de Högni - Reino joven fundado por Högni.
-Reino de Hjarrandi - Reino joven fundado por Hjarrandi.
-Reino de Adils - Reino joven fundado por Adils. (al oeste)
-Reino de Onela - Reino joven fundado por Onela. (al oeste)
-El Lago Vänern también está al oeste.
 
 ---
 
@@ -85,3 +49,12 @@ El Lago Vänern también está al oeste.
 21. Egil, el único hijo vivo de On, reina sobre Upsal entonces. Durante su reinado, conocedor de que On tenía un esclavo llamado Tunne que escondía secretos y tesoros del rey, lo bajó de rango a prácticamente nada, lo que ofendió a Tunne. Ocurrió entonces una rebelión de esclavos liderada por Tunne. Con ayuda del rey Frode, del reino de Lymfjord consigue ganar la apretada guerra civil.
 22. Ottar es el sucesor de Egil, rompiendo contactos con el rey Frode que en tiempos ayudó a su padre a conservar Upsal. Frode entonces, enfurecido, toma Upsal, mientras Ottar toma el reino de Lymfjord Pero, finalmente, al a vuelta de Frode a su reino, lo retoma y asesina a Ottar.
 23. Frode será el nombre del antiguo pequeño reino de Lymfjord, en honor al rey que llevó ese reino a la gloria. El Templo de Upsal conservaría su nombre hasta la guerra entre Götaland y Lymfjord.
+
+---
+
+#REVIEW 
+- ¿Cómo se mueven los dioses entre mundos cuando ya ha pasado el Ragnarök? Si en teoría el Yggdrasil ya no existe, las torres de Bifröst tampoco. 
+
+- ¿Son sencillamente mundos dispersos en el Vacío Susurrante (Ginnungagap)?
+
+- ¿Los humanos pueden llegar alguna vez a esas tierras (Vidblain, Andlang, Gimlé o Náströnd)?
