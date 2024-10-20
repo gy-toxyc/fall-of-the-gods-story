@@ -52,6 +52,29 @@ Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pu
 
 ---
 
+De la conjunción entre el frío eterno y el calor primordial nació la vida, así como la muerte. Mucho antes nacería el propio cómputo del tiempo, y con él, destino mismo.
+
+Ymir fue el primero en habitar el vacío susurrante, un ser pequeño, aunque se le conoce por su forma última, el padre de la raza de los Vætir, los nacidos de la naturaleza misma, compuestos por los actuales jötun, elfos, enanos y muspel.
+
+Audumbla fue la segunda, la vaca cósmica nacida del mismo Ginnungagap. De ella se dice que manaban 4 ríos de leche, de los cuales Ymir aprovechaba para nutrirse, creciendo hasta adquirir su colosal tamaño.
+
+Buri fue el tercero, fruto de la casualidad, quizá podríamos referirnos a él como hijo del destino, pero, ¿no lo somos todos?
+Nacido de la amalgama primordial formada por la unión del frío y del calor en el vacío, junto con uno de los ríos de leche de Audumbla y sudor de un creciente Ymir, nació el que sería padre de los dioses actuales.
+
+El destino parece caprichoso para quienes no lo entienden, pues le dotamos de personalidad, cuando no la tiene; le dotamos de moral, cuando no la posee. El destino es, y no estoy seguro de que esta afirmación sea siquiera correcta.
+
+' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+
+Tras la Guerra Primordial, el cadáver del legendario Ymir fue usado por la tríada de dioses para crear el los mundos. Odín, Vili y Ve crearon así los mundos que hoy conocemos. De su carne se creó la tierra, de su cabello los árboles, de sus huesos las montañas y de su sangre el agua.
+
+Durante aproximadamente un centenar de años, no existía fuente de luz alguna que no fuese el fuego. Sól y Máni, hijos de Mundalfari y Glaur serían encomendados para surcar el vacío primordial y dar así a los 9 mundos un día y una noche.
+
+Uno de los primeros recuerdos que aún perduran en mi memoria es ver al ancestral Bergelmir ser ejecutado y puesto sobre una rueda de molino.
+
+Del cuerpo de Ymir se formó la tierra, las montañas de sus huesos, con el cráneo del colosal, los cielos, el mar salado de su sangre vino.
+
+---
+
 #REVIEW 
 - ¿Cómo se mueven los dioses entre mundos cuando ya ha pasado el Ragnarök? Si en teoría el Yggdrasil ya no existe, las torres de Bifröst tampoco. 
 

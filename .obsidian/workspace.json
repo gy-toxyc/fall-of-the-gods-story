@@ -11,17 +11,14 @@
             "id": "15ac197a6b13276e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Canvas.canvas",
-                "viewState": {
-                  "x": -289.0896511370705,
-                  "y": 79189.332890977,
-                  "zoom": -4
-                }
+                "file": "Consideraciones.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Canvas"
+              "icon": "lucide-file",
+              "title": "Consideraciones"
             }
           }
         ]
@@ -189,11 +186,11 @@
   },
   "active": "15ac197a6b13276e",
   "lastOpenFiles": [
+    "Main Canvas.canvas",
     "Consideraciones.md",
     "nastrond 1.wonderdraft_map",
     "nastrond.wonderdraft_map",
     "Family Tree Canvas.canvas",
-    "Main Canvas.canvas",
     "Index Ideas.md",
     "Story/Vilh, Sveinn y Holger huyen a Helheim.md",
     "Index.md",
