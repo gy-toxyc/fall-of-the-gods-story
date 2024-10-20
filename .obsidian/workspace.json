@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7227661dc0160da5",
+        "id": "bc714f1c8e16ded0",
         "type": "tabs",
-        "dimension": 61.92910702113156,
         "children": [
           {
-            "id": "15ac197a6b13276e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Family Tree Canvas.canvas",
-                "viewState": {
-                  "x": -7585.031138527622,
-                  "y": 4250.472124814322,
-                  "zoom": -4
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Family Tree Canvas"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0fa6ac28868966ba",
-        "type": "tabs",
-        "dimension": 38.070892978868436,
-        "children": [
-          {
-            "id": "5ceb06b873814371",
+            "id": "6a75cc8dab447485",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -1583.7467366896492,
-                  "y": 28262.748118789026,
-                  "zoom": -1.8091098044697782
+                  "x": -1334.68148024947,
+                  "y": 4698.436624022837,
+                  "zoom": -3.2697032681565927
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -212,14 +187,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ac197a6b13276e",
+  "active": "6a75cc8dab447485",
   "lastOpenFiles": [
+    "Story/Andvari forja su obra maestra, el Anillo de Andvari.md",
+    "Story/Se forma la Fuente de Hvergelmir.md",
     "Main Canvas.canvas",
+    "README.md",
+    "Index Ideas.md",
     "Family Tree Canvas.canvas",
     "Consideraciones.md",
     "nastrond 1.wonderdraft_map",
     "nastrond.wonderdraft_map",
-    "Index Ideas.md",
     "Story/Vilh, Sveinn y Holger huyen a Helheim.md",
     "Index.md",
     "Untitled 1.md",
@@ -241,8 +219,6 @@
     "Story/Muere Hildur.md",
     "Story/Muere Raum.md",
     "Story/Nace Agnar.md",
-    "Story/Nace Gunnar.md",
-    "Story/Ocurre la Rebelión de Solor.md",
     "Family Trees",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
