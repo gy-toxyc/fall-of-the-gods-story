@@ -15,9 +15,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -1244.566278382272,
-                  "y": 31716.944748982438,
-                  "zoom": -0.7136647067046674
+                  "x": 1469.9091192890608,
+                  "y": 47992.87144073305,
+                  "zoom": -1.9211869273736282
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5110321044922
+    "width": 483.5110321044922
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -189,9 +189,11 @@
   },
   "active": "82cb19659d6b5e2e",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Main Canvas.canvas",
+    "Untitled.md",
     "Story/Muere Adils.md",
     "Consideraciones.md",
-    "Main Canvas.canvas",
     "Story/Solor domina Midgard.md",
     "Story/Solor toma Karlaug.md",
     "Story/Cae Götaland.md",
@@ -214,7 +216,6 @@
     "Story/Cae el Reino de Upsal.md",
     "Story/Nace Ottar.md",
     "Story/Ocurre la Rebelión de Tunne.md",
-    "Untitled 1.md",
     "Family Tree Canvas.canvas",
     "Family Trees",
     "Untitled 1.canvas",
