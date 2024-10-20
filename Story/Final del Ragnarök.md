@@ -4,12 +4,12 @@ El Yggdrasil, el universo que conocíamos, la creación de Odín, ha sido comple
 
 Debido a la destrucción del universo conocido, un nuevo orden universal se ha formado.
 
-Lo que anteriormente fue Asgard, Alfheim y Vanaheim se convertiría en un nuevo mundo, dividido en 3 regiones geográficas.
+Lo que anteriormente fue Asgard se convertiría en un nuevo mundo, dividido en 3 regiones geográficas.
 - Vidblain
 - Andlang
 - Gimlé
 
-La tierra que poblaron los descendientes de Líf y Lifthrásir será llamada igualmente Midgard, una amalgama de lo que en su día fue el antiguo Midgard, Jötunheim y Svartalfheim.
+La tierra que poblaron los descendientes de Líf y Lifthrásir será llamada igualmente Midgard, una amalgama de lo que en su día fue el antiguo Midgard, Jötunheim, Svartalfheim, Alfheim y Vanaheim.
 
 Lo que anteriormente sería Niflheim, Muspelheim y Helheim han convergido en un mundo nuevo, que se le llama a partir de ahora Náströnd.
 
