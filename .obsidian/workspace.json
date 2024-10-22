@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bc714f1c8e16ded0",
+        "id": "8260ee6ccd608b9f",
         "type": "tabs",
         "children": [
           {
@@ -15,9 +15,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -1334.68148024947,
-                  "y": 4698.436624022837,
-                  "zoom": -3.2697032681565927
+                  "x": -2149.6571318346873,
+                  "y": 8493.591911318974,
+                  "zoom": -0.8257418296085176
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,9 +189,15 @@
   },
   "active": "6a75cc8dab447485",
   "lastOpenFiles": [
-    "Story/Andvari forja su obra maestra, el Anillo de Andvari.md",
-    "Story/Se forma la Fuente de Hvergelmir.md",
+    "Story/Untitled.md",
     "Main Canvas.canvas",
+    "Story/Nace el Reino de Värmland.md",
+    "Story/().md",
+    "Story/Nace Nidud.md",
+    "Story/Nace el Reino de Närke.md",
+    "Story/Adils e Yrsa se casan.md",
+    "Story/Se forma la Fuente de Hvergelmir.md",
+    "Story/Andvari forja su obra maestra, el Anillo de Andvari.md",
     "README.md",
     "Index Ideas.md",
     "Family Tree Canvas.canvas",
@@ -212,13 +218,6 @@
     "Story/Muere Gunnar.md",
     "Story/Muere Agnar.md",
     "Story/Muere Budli.md",
-    "Story/Muere Halfdan.md",
-    "Story/Ringerike toma Skjold.md",
-    "Story/Muere Ring.md",
-    "Story/Nace el Reino de Ringerike.md",
-    "Story/Muere Hildur.md",
-    "Story/Muere Raum.md",
-    "Story/Nace Agnar.md",
     "Family Trees",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
