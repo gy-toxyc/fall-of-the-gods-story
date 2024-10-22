@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8260ee6ccd608b9f",
+        "id": "77a2a9af6e4065a7",
         "type": "tabs",
         "children": [
           {
-            "id": "6a75cc8dab447485",
+            "id": "e04d20b9b77e897c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": -2149.6571318346873,
-                  "y": 8493.591911318974,
-                  "zoom": -0.8257418296085176
+                  "x": -2125.803226574918,
+                  "y": 44489.89495375704,
+                  "zoom": -3.2697032681565927
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -187,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a75cc8dab447485",
+  "active": "e04d20b9b77e897c",
   "lastOpenFiles": [
-    "Story/Untitled.md",
     "Main Canvas.canvas",
+    "Story/AEgir y Aurboda se casan.md",
+    "Story/Nace Gná.md",
     "Story/Nace el Reino de Värmland.md",
     "Story/().md",
     "Story/Nace Nidud.md",
@@ -217,7 +218,6 @@
     "Story/Muere Högni.md",
     "Story/Muere Gunnar.md",
     "Story/Muere Agnar.md",
-    "Story/Muere Budli.md",
     "Family Trees",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",
