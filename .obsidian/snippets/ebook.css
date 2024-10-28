@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Sabon';
+    src: url('https://fonts.cdnfonts.com/css/sabon');
+}
+
+body {
+    --hr-line-offset: 25%;
+    --hr-color: #ffffff1f;
+}
+
+.ebook {
+    font-size: 1.2em;
+}
+
+.ebook .inline-title {
+    text-align: center;
+    font-family: 'Sabon' !important;
+}
+
+.ebook .metadata-container {
+    display: none !important;
+}
+
+.ebook .cm-line {
+    font-family: 'Sabon' !important;
+}
+
+.ebook .HyperMD-quote {
+    font-size: 0.9em;
+    text-align: center !important;
+}
+
+.ebook .HyperMD-quote::before {
+    display: none !important;
+}
+
+.ebook .hr hr {
+    border-image-slice: 1;
+    border-image-source: linear-gradient(
+        to right,
+        transparent,
+        var(--hr-color) calc(50% - var(--hr-line-offset)),
+        var(--hr-color) calc(50% + var(--hr-line-offset)),
+        transparent
+    );
+}
+
+:root hr {
+    border-image-slice: 1;
+    border-image-source: linear-gradient(
+        to right,
+        transparent,
+        var(--hr-color) calc(50% - var(--hr-line-offset)),
+        var(--hr-color) calc(50% + var(--hr-line-offset)),
+        transparent
+    );
+}

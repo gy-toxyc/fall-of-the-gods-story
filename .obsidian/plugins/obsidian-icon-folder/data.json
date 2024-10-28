@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlignLeft",
+      "LiBadge",
       "LiIndent"
     ],
     "recentlyUsedIconsSize": 5,
@@ -28,5 +30,8 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "Sons of Chaos/0. Index.md": "LiAlignLeft",
+  "Sons of Chaos/0. Index Ideas.md": "LiAlignLeft",
+  "Sons of Chaos/1. El Fugitivo.md": "LiBadge"
 }

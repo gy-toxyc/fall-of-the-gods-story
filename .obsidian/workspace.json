@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "77a2a9af6e4065a7",
+        "id": "4b792524e708bf46",
         "type": "tabs",
         "children": [
           {
-            "id": "e04d20b9b77e897c",
+            "id": "1ece9dc8c738f466",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Canvas.canvas",
-                "viewState": {
-                  "x": -2125.803226574918,
-                  "y": 44489.89495375704,
-                  "zoom": -3.2697032681565927
-                }
+                "file": "Sons of Chaos/1. El Fugitivo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Canvas"
+              "icon": "lucide-file",
+              "title": "1. El Fugitivo"
             }
           }
         ]
@@ -55,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Turk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5110321044922
+    "width": 339.5110321044922
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -157,23 +154,13 @@
               "icon": "lucide-list",
               "title": "Outline of Consideraciones"
             }
-          },
-          {
-            "id": "63ae5d74c04f794e",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,37 +174,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e04d20b9b77e897c",
+  "active": "1ece9dc8c738f466",
   "lastOpenFiles": [
     "Main Canvas.canvas",
+    "Sons of Chaos/1. El Fugitivo.md",
+    "Story/Adils e Yrsa se casan.md",
+    "Consideraciones.md",
+    "Story/Regin habla con Sigurd.md",
+    "Sons of Chaos/0. Index.md",
+    "Special Characters.md",
+    "Sons of Chaos",
+    "Sons of Chaos/0. Index Ideas.md",
     "Story/AEgir y Aurboda se casan.md",
+    "Story/Nace el Reino de Turk.md",
+    "Story/Nace Fulla.md",
+    "Story/Nace Hlín.md",
+    "Story/Nace Hrodulf.md",
+    "Story/Vin toma Upsal, Hugleik muere y se retoma el reino, muriendo Eric.md",
+    "Story/Upsal toma Lymfjord.md",
+    "Story/Nace Skírnir.md",
+    "Family Tree Canvas.canvas",
     "Story/Nace Gná.md",
     "Story/Nace el Reino de Värmland.md",
     "Story/().md",
     "Story/Nace Nidud.md",
     "Story/Nace el Reino de Närke.md",
-    "Story/Adils e Yrsa se casan.md",
     "Story/Se forma la Fuente de Hvergelmir.md",
     "Story/Andvari forja su obra maestra, el Anillo de Andvari.md",
     "README.md",
-    "Index Ideas.md",
-    "Family Tree Canvas.canvas",
-    "Consideraciones.md",
     "nastrond 1.wonderdraft_map",
     "nastrond.wonderdraft_map",
     "Story/Vilh, Sveinn y Holger huyen a Helheim.md",
-    "Index.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "Story/Muere Adils.md",
-    "Story/Solor domina Midgard.md",
-    "Story/Solor toma Karlaug.md",
-    "Story/Cae Götaland.md",
-    "Story/Nace el Reino de Turk.md",
-    "Story/Muere Hjarrandi.md",
-    "Story/Muere Högni.md",
-    "Story/Muere Gunnar.md",
-    "Story/Muere Agnar.md",
     "Family Trees",
     "Untitled 1.canvas",
     "Story/Pasted image 20240724155239.png",

@@ -1,4 +1,7 @@
 {
   "theme": "obsidian",
-  "accentColor": "#ffc800"
+  "accentColor": "#ffc800",
+  "enabledCssSnippets": [
+    "ebook"
+  ]
 }

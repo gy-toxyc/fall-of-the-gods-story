@@ -1,6 +1,3 @@
-> *"¿Estamos realmente destinados a combatir al destino eternamente, en vez de empujar los límites del conocimiento y la comprensión? El vacío susurrante en el que criamos nuestra batalla es desconocido aún para muchos, solo los entendedores de las runas son los que se acercan a conocerlo, y temo que están aún muy lejos de su comprensión completa."*
-
-Palabras de Valfthrudnir tras conocer las profecías del futuro y el final de todo lo conocido.
 
 En cierto punto, Sveinn confiesa a Vilh su miedo a morir. Pese a su valentía y al mundo en el que se crió, y tras la muerte de los que una vez lo cuidaron, pero luego lo traicionaron, no tiene otros motivos por los que tener miedo a la muerte.
 
@@ -43,7 +40,7 @@ Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pu
 15. Skjalv pide a Agne un funeral digno a su padre. En dicho funeral, Agne se emborracha tanto que cae dormido con un ornamento dorado alrededor de su cuello, que se dice que es herencia de su antepasado Visbur. Skjalv lo asesina y lo entierra en aquel mismo lugar, que pasaría a llamarse "Agnefet".
 16. Por primera vez en Midgard, dos reyes gobernarían una misma tierra, Alric y Eric, hijos de Agne. Increíbles montadores de caballos, pero en una competición entre ellos los dos morirían aplastándose las cabezas en una caída.
 17. De igual forma a su padre y su tio, Yngve y Alf reinarán Upsal. Yngve es extrovertido, mientras que Alf es cerrado y tímido. La mujer de Alf, Bera, se siente atraída por su hermano, lo que pone celoso a Alf, hasta el punto de empalar un día con la espada a su propio hermano delante de los ojos de Bera. Pese a ello, Yngve consigue asesinar a Alf también en el momento. Los dos serían enterrados en Fyrisvold.
-18. Alf tuvo un único hijo, Hugleik, que heredaría Upsal. Otro rey lejano (de Vin), Hake, ataca Upsal, matándolo y tomando el reino. Los hijos de Yngve, Jorund y Eric, mientras tanto, se encuentran en batallas en el Reino de Halogaland, donde asesinarían a Gudlog, su rey, y lo colgarían en Stromones, un lugar de Halogaland. Al oir sobre la toma de Upsal, van hacia allí y consiguen tomarla de vuelta, con la pérdida de Eric. Jorund se convertiría en el nuevo rey de Upsal.
+18. Alf tuvo un único hijo, Hugleik, que heredaría Upsal. Otro rey lejano (de Vin), Hake, ataca Upsal, matándolo y tomando el reino. Los hijos de Yngve, Jorund y Eric, mientras tanto, se encuentran en batallas en el Reino de Berthan, donde asesinarían a Gudlog, su rey, y lo colgarían en Stromones, un lugar de Berthan. Al oir sobre la toma de Upsal, van hacia allí y consiguen tomarla de vuelta, con la pérdida de Eric. Jorund se convertiría en el nuevo rey de Upsal.
 19. Jorund reinará Upsal tomando además las tierras de Lymfjord y tratando de tomar el Reino de Oddesund, donde se encuentra con Gylog, un hijo de Gudlog. Gylog mataría a Jorund.
 20. El hijo de Jorund, On, reinaría Upsala hasta que Halfdan el Viejo, rey por entonces de Götaland, lo expulsase, reinando él Upsal. Tras la muerte de Halfdan, On regresa a Upsal. Tras mucho tiempo allí, 25 años, un sobrino de Halfdan, Ole, ataca el territorio. Ole sería asesinado más tarde por Starkad, pero On ya sería demasiado mayor para reinar. Durante este periodo, Upsal pierde las tierras de Lymfjord, que más tarde reinará Frode.
 21. Egil, el único hijo vivo de On, reina sobre Upsal entonces. Durante su reinado, conocedor de que On tenía un esclavo llamado Tunne que escondía secretos y tesoros del rey, lo bajó de rango a prácticamente nada, lo que ofendió a Tunne. Ocurrió entonces una rebelión de esclavos liderada por Tunne. Con ayuda del rey Frode, del reino de Lymfjord consigue ganar la apretada guerra civil.
@@ -81,3 +78,15 @@ Del cuerpo de Ymir se formó la tierra, las montañas de sus huesos, con el crá
 - ¿Son sencillamente mundos dispersos en el Vacío Susurrante (Ginnungagap)?
 
 - ¿Los humanos pueden llegar alguna vez a esas tierras (Vidblain, Andlang, Gimlé o Náströnd)?
+
+---
+# Frases
+
+> *"¿Estamos realmente destinados a combatir al destino eternamente, en vez de empujar los límites del conocimiento y la comprensión? El vacío susurrante en el que criamos nuestra batalla es desconocido aún para muchos, solo los entendedores de las runas son los que se acercan a conocerlo, y temo que están aún muy lejos de su comprensión completa."*
+
+ Palabras de Valfthrudnir tras conocer las profecías del futuro y el final de todo lo conocido.
+
+> *"Donde acaban los sueños, la muerte respira."*
+
+Palabras del narrador tras el despertar de Yves.
+
