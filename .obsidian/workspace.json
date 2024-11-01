@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd1456ab9b1814f0",
+        "id": "53b7a7352e20573d",
         "type": "tabs",
         "children": [
           {
-            "id": "8fd3841d3f892dab",
+            "id": "c08832cc1bcd4c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sons of Chaos/1. El Fugitivo.md",
+                "file": "Heralds of Chaos/1. El Fugitivo.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,11 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fd3841d3f892dab",
+  "active": "c08832cc1bcd4c78",
   "lastOpenFiles": [
+    "Heralds of Chaos/0. Index Ideas.md",
+    "Heralds of Chaos/0. Index.md",
+    "Heralds of Chaos/1. El Fugitivo.md",
     "Tracking/28-10-2024.md",
     "Sons of Chaos/Untitled.md",
-    "Sons of Chaos/1. El Fugitivo.md",
     "Sons of Chaos/Untitled 3.md",
     "Sons of Chaos/Untitled 2.md",
     "Sons of Chaos/Untitled 1.md",
@@ -187,10 +189,8 @@
     "Story/Adils e Yrsa se casan.md",
     "Consideraciones.md",
     "Story/Regin habla con Sigurd.md",
-    "Sons of Chaos/0. Index.md",
     "Special Characters.md",
-    "Sons of Chaos",
-    "Sons of Chaos/0. Index Ideas.md",
+    "Heralds of Chaos",
     "Story/AEgir y Aurboda se casan.md",
     "Story/Nace el Reino de Turk.md",
     "Story/Nace Fulla.md",
