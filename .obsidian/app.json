@@ -13,5 +13,8 @@
   "showLineNumber": false,
   "tabSize": 4,
   "trashOption": "none",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "foldIndent": false,
+  "smartIndentList": true,
+  "useTab": true
 }
