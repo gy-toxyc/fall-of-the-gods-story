@@ -11,10 +11,14 @@
             "id": "bd018abfe18b4843",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. Tierra de Luz y Ambición"
             }
           }
         ]
@@ -178,12 +182,12 @@
   },
   "active": "bd018abfe18b4843",
   "lastOpenFiles": [
+    "Heralds of Chaos/1. El Fugitivo.md",
+    "Heralds of Chaos/0. Index Ideas.md",
     "Consideraciones.md",
     "README.md",
     "Main Canvas.canvas",
     "List of Stories.md",
-    "Heralds of Chaos/1. El Fugitivo.md",
-    "Heralds of Chaos/0. Index Ideas.md",
     "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
     "Heralds of Chaos/0. Index.md",
     "Tales of Gold and Darkness/0. Index.md",
