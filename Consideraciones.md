@@ -90,3 +90,12 @@ Del cuerpo de Ymir se formó la tierra, las montañas de sus huesos, con el crá
 
 Palabras del narrador tras el despertar de Yves.
 
+---
+
+En mitad del Ragnarök, Frigg y Vilh coinciden en un combate. Vilh grita "Freyja", pero Frigg no contesta, en cambio, continúa atacándole llegando a realizarle un corte en el torso.
+
+Poco más tarde, Frigg será herida de gravedad por un jötun.
+
+Holger también es herido de gravedad, esta vez por Forseti, que con su hacha llega a cortarle el brazo derecho de cuajo.
+
+Yves es herido también en repetidas ocasiones, cortes hechos por Vidar que lo debilitan y huesos rotos de la pierna.

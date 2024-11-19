@@ -44,14 +44,3 @@ body {
         transparent
     );
 }
-
-:root hr {
-    border-image-slice: 1;
-    border-image-source: linear-gradient(
-        to right,
-        transparent,
-        var(--hr-color) calc(50% - var(--hr-line-offset)),
-        var(--hr-color) calc(50% + var(--hr-line-offset)),
-        transparent
-    );
-}
