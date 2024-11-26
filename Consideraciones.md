@@ -73,11 +73,15 @@ Del cuerpo de Ymir se formó la tierra, las montañas de sus huesos, con el crá
 ---
 
 #REVIEW 
-- ¿Cómo se mueven los dioses entre mundos cuando ya ha pasado el Ragnarök? Si en teoría el Yggdrasil ya no existe, las torres de Bifröst tampoco. 
+- ¿Cómo se mueven los dioses entre mundos cuando ya ha pasado el Ragnarök? Si en teoría el Yggdrasil ya no existe, las torres de Bifröst tampoco, las cuales eran la única comunicación entre mundos antes del Ragnarök. 
 
 - ¿Son sencillamente mundos dispersos en el Vacío Susurrante (Ginnungagap)?
 
 - ¿Los humanos pueden llegar alguna vez a esas tierras (Vidblain, Andlang, Gimlé o Náströnd)?
+
+* ¿Cómo permiten a Gullveig vivir en Vanaheim tras desterrar a Vilh allí?
+
+- ¿Cómo se hace Surt tan sumamente descomunal previo al Ragnarök?
 
 ---
 # Frases
