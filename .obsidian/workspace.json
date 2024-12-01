@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5519f4b7b4d9d22f",
+        "id": "bd82b1673ed99aff",
         "type": "tabs",
         "children": [
           {
-            "id": "908d71afad645674",
+            "id": "1087749208fc5e73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Consideraciones.md",
-                "mode": "source",
-                "source": false
+                "file": "Main Canvas.canvas",
+                "viewState": {
+                  "x": 127.9375,
+                  "y": 16112.6875,
+                  "zoom": -4
+                }
               },
-              "icon": "lucide-file",
-              "title": "Consideraciones"
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Canvas"
             }
           }
         ]
@@ -52,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Heralds of Chaos/\" ",
+                "query": "Lavatine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 349.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -166,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,39 +183,40 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "908d71afad645674",
+  "active": "1087749208fc5e73",
   "lastOpenFiles": [
+    "Story/Yves viaja a Vanaheim.md",
+    "Story/Yves le cuenta a Surt el plan del Ragnarök.md",
+    "Story/Völund y sus hermanos son secuestrados.md",
+    "Story/Surt hace un altar a Sinmara en Muspelheim.md",
+    "Story/Muere Vidar.md",
     "Main Canvas.canvas",
-    "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
+    "AI/heralds-of-chaos.md",
+    "Story/Muere Ingeld.md",
+    "Story/Muere Hadding.md",
+    "Story/Muere Ortnit.md",
+    "Story/Muere Heime.md",
+    "Story/Muere Alberich.md",
+    "Story/Nace Heime.md",
+    "Story/Nace Ortnit.md",
+    "Story/Alberich forja la espada Nagelring.md",
+    "Story/Alberich forja la espada de Ortnit.md",
     "Family Tree Canvas.canvas",
+    "Story/Adils e Yrsa se casan.md",
+    "Story/Muere el padre de Gullveig.md",
+    "Story/Nace Ingeld.md",
     "Consideraciones.md",
+    "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
     "Heralds of Chaos/1. El Fugitivo.md",
     "Heralds of Chaos/0. Index Ideas.md",
     "README.md",
     "List of Stories.md",
     "Heralds of Chaos/0. Index.md",
     "Tales of Gold and Darkness/0. Index.md",
-    "Tales of Gold and Darkness/0. Index Ideas.md",
-    "Tales of Gold and Darkness/1. El Fugitivo.md",
     "Tales of Gold and Darkness",
-    "Heralds of Chaos - copia/1. El Fugitivo.md",
-    "Heralds of Chaos - copia/0. Index.md",
-    "Heralds of Chaos - copia/0. Index Ideas.md",
     "Heralds of Chaos - copia",
-    "Tracking/28-10-2024.md",
-    "Sons of Chaos/Untitled.md",
-    "Sons of Chaos/Untitled 3.md",
-    "Sons of Chaos/Untitled 2.md",
-    "Sons of Chaos/Untitled 1.md",
     "Tracking",
-    "Story/Adils e Yrsa se casan.md",
-    "Story/Regin habla con Sigurd.md",
-    "Special Characters.md",
     "Heralds of Chaos",
-    "Story/AEgir y Aurboda se casan.md",
-    "Story/Nace el Reino de Turk.md",
-    "Story/Nace Fulla.md",
-    "Story/Nace Hlín.md",
     "nastrond 1.wonderdraft_map",
     "nastrond.wonderdraft_map",
     "Family Trees",
