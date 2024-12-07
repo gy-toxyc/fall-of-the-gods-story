@@ -11,17 +11,14 @@
             "id": "1087749208fc5e73",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Canvas.canvas",
-                "viewState": {
-                  "x": 127.9375,
-                  "y": 16112.6875,
-                  "zoom": -4
-                }
+                "file": "Consideraciones.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Canvas"
+              "icon": "lucide-file",
+              "title": "Consideraciones"
             }
           }
         ]
@@ -169,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,12 +182,12 @@
   },
   "active": "1087749208fc5e73",
   "lastOpenFiles": [
+    "Main Canvas.canvas",
     "Story/Yves viaja a Vanaheim.md",
     "Story/Yves le cuenta a Surt el plan del Ragnarök.md",
     "Story/Völund y sus hermanos son secuestrados.md",
     "Story/Surt hace un altar a Sinmara en Muspelheim.md",
     "Story/Muere Vidar.md",
-    "Main Canvas.canvas",
     "AI/heralds-of-chaos.md",
     "Story/Muere Ingeld.md",
     "Story/Muere Hadding.md",
@@ -212,7 +209,6 @@
     "README.md",
     "List of Stories.md",
     "Heralds of Chaos/0. Index.md",
-    "Tales of Gold and Darkness/0. Index.md",
     "Tales of Gold and Darkness",
     "Heralds of Chaos - copia",
     "Tracking",
