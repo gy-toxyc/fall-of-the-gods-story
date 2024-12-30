@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9678f50aef60f2",
+        "id": "8aa4aaf38e537cfe",
         "type": "tabs",
         "children": [
           {
-            "id": "e7c6c290e1cce983",
+            "id": "ec074e1831159464",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2. Tierra de Luz y Ambición"
+              "title": "New tab"
             }
           }
         ]
@@ -166,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +176,17 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "e7c6c290e1cce983",
+  "active": "2537447a9c7f689d",
   "lastOpenFiles": [
+    "Main Canvas.canvas",
+    "Razas/Gigantes - Jötun, Muspel, Elfos y Enanos.md",
+    "Razas",
+    "Consideraciones.md",
+    "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
     "Tracking/12-12-2024.md",
     "Tracking/28-10-2024.md",
-    "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
     "Heralds of Chaos/1. El Fugitivo.md",
     "Story/Nace Heimdall.md",
-    "Main Canvas.canvas",
-    "Consideraciones.md",
     "Story/Yves viaja a Vanaheim.md",
     "Story/Yves le cuenta a Surt el plan del Ragnarök.md",
     "Story/Völund y sus hermanos son secuestrados.md",
@@ -208,8 +206,6 @@
     "Story/Adils e Yrsa se casan.md",
     "Story/Muere el padre de Gullveig.md",
     "Story/Nace Ingeld.md",
-    "Heralds of Chaos/0. Index Ideas.md",
-    "README.md",
     "Tales of Gold and Darkness",
     "Heralds of Chaos - copia",
     "Tracking",

@@ -109,3 +109,7 @@ Yves es herido también en repetidas ocasiones, cortes hechos por Vidar que lo d
 _“Bajo la próspera y pulcra luz del sol de Asgard, 4 niños jugaban con un pequeño cachorro de lobo. Se decía que dos de ellos eran de cabello oscuro, uno de cabello castaño y el pelo de otro recordaban a los destellos dorados al sol. Sus jugueteos parecían ser de gran interés, pues gran parte de la ciudad los observaba felices, especialmente sus dos padres. De repente la luz se quebró, la escena cambió, y un grito cortaba el aire, desvaneciendo la felicidad de los rostros de todos los presentes. El cachorrillo de lobo asustó a uno de los niños y una temible niebla oscura emanó de él. Ya no era un niño risueño lo que la luz de Asgard y los ojos de Odín veían, sino una temible figura negra, la oscuridad misma.”_
 
 Holger escuchó esta historia pensativo, conocía algún rumor relacionado con ese relato, pero nada tan expresivo como aquella historia que una anciana pregonaba. Durante su estancia en tierras AEsir, llegó el rumor de que un preso en Helheim había escapado de una de las prisiones más protegidas de Hela, la reina del mundo de los muertos. Tras ese rumor, varios avistamientos de una figura oscura vagando se habían sucedido en algunos de los mundos. “Helheim había expulsado a la oscuridad misma”.
+
+---
+
+En algunos puntos de la historia, especialmente en Asgard, Holger observará ornamentos o detalles en las paredes que detallarán historias pasadas, haciéndole divagar en opiniones y conocimientos pasdados.
