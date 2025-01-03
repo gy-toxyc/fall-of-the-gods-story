@@ -2,7 +2,7 @@
 cssclasses:
   - ebook
 ---
-La raza de los Jötun es la raza descendiente de los primeros gigantes, vástagos o familiares de Ymir, más longeva que existe.
+---
 
 Durante siglos, los descendientes de Ymir poblaron Midgard, acompañados en convivencia por los humanos, creación de los dioses Odín, Vili y Vé. Las tensiones entre ambas razas crecieron con el tiempo hasta estallar la guerra.
 

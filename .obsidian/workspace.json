@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8aa4aaf38e537cfe",
+        "id": "c40188d40dd70f6f",
         "type": "tabs",
         "children": [
           {
-            "id": "ec074e1831159464",
+            "id": "ecc1b82e87e3e278",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Consideraciones.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Consideraciones"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 271.5
   },
   "right": {
     "id": "cd19a8c27c07a838",
@@ -176,16 +180,22 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "2537447a9c7f689d",
+  "active": "ecc1b82e87e3e278",
   "lastOpenFiles": [
     "Main Canvas.canvas",
-    "Razas/Gigantes - Jötun, Muspel, Elfos y Enanos.md",
-    "Razas",
+    "Heralds of Chaos/0. Index.md",
     "Consideraciones.md",
+    "Heralds of Chaos/0. Index Ideas.md",
+    "Story/Nace Valfthrúdnir.md",
+    "Heralds of Chaos/1. El Fugitivo.md",
     "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
+    "Razas/Dioses - Æsir y Vanir.md",
+    "Family Tree Canvas.canvas",
+    "Razas/Gigantes - Jötun, Muspel, Elfos y Enanos.md",
+    "Razas/Untitled.md",
+    "Razas",
     "Tracking/12-12-2024.md",
     "Tracking/28-10-2024.md",
-    "Heralds of Chaos/1. El Fugitivo.md",
     "Story/Nace Heimdall.md",
     "Story/Yves viaja a Vanaheim.md",
     "Story/Yves le cuenta a Surt el plan del Ragnarök.md",
@@ -200,12 +210,6 @@
     "Story/Muere Alberich.md",
     "Story/Nace Heime.md",
     "Story/Nace Ortnit.md",
-    "Story/Alberich forja la espada Nagelring.md",
-    "Story/Alberich forja la espada de Ortnit.md",
-    "Family Tree Canvas.canvas",
-    "Story/Adils e Yrsa se casan.md",
-    "Story/Muere el padre de Gullveig.md",
-    "Story/Nace Ingeld.md",
     "Tales of Gold and Darkness",
     "Heralds of Chaos - copia",
     "Tracking",

@@ -49,26 +49,49 @@ Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pu
 
 ---
 
-De la conjunción entre el frío eterno y el calor primordial nació la vida, así como la muerte. Mucho antes nacería el propio cómputo del tiempo, y con él, destino mismo.
+*De la conjunción entre el frío eterno y el calor primordial nació la vida, así como la muerte. Mucho antes nacería el propio cómputo del tiempo, y con él, destino mismo.*
 
-Ymir fue el primero en habitar el vacío susurrante, un ser pequeño, aunque se le conoce por su forma última, el padre de la raza de los Vætir, los nacidos de la naturaleza misma, compuestos por los actuales jötun, elfos, enanos y muspel.
+*Ymir fue el primero en habitar el vacío susurrante, un ser pequeño, aunque se le conoce por su forma última, el padre de la raza de los Vætir, los nacidos de la naturaleza misma, compuestos por los actuales jötun, elfos, enanos y muspel.*
 
-Audumbla fue la segunda, la vaca cósmica nacida del mismo Ginnungagap. De ella se dice que manaban 4 ríos de leche, de los cuales Ymir aprovechaba para nutrirse, creciendo hasta adquirir su colosal tamaño.
+*Audumbla fue la segunda, la vaca cósmica nacida del mismo Ginnungagap. De ella se dice que manaban 4 ríos de leche, de los cuales Ymir aprovechaba para nutrirse, creciendo hasta adquirir su colosal tamaño.*
 
-Buri fue el tercero, fruto de la casualidad, quizá podríamos referirnos a él como hijo del destino, pero, ¿no lo somos todos?
-Nacido de la amalgama primordial formada por la unión del frío y del calor en el vacío, junto con uno de los ríos de leche de Audumbla y sudor de un creciente Ymir, nació el que sería padre de los dioses actuales.
+*Buri fue el tercero, fruto de la casualidad, quizá podríamos referirnos a él como hijo del destino, pero, ¿no lo somos todos?*
+*Nacido de la amalgama primordial formada por la unión del frío y del calor en el vacío, junto con uno de los ríos de leche de Audumbla y sudor de un creciente Ymir, nació el que sería padre de los dioses actuales.*
 
-El destino parece caprichoso para quienes no lo entienden, pues le dotamos de personalidad, cuando no la tiene; le dotamos de moral, cuando no la posee. El destino es, y no estoy seguro de que esta afirmación sea siquiera correcta.
+*El destino parece caprichoso para quienes no lo entienden, pues le dotamos de personalidad, cuando no la tiene; le dotamos de moral, cuando no la posee. El destino es, y no estoy seguro de que esta afirmación sea siquiera correcta.*
 
 ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
 
-Tras la Guerra Primordial, el cadáver del legendario Ymir fue usado por la tríada de dioses para crear el los mundos. Odín, Vili y Ve crearon así los mundos que hoy conocemos. De su carne se creó la tierra, de su cabello los árboles, de sus huesos las montañas y de su sangre el agua.
+*Tras la Guerra Primordial, el cadáver del legendario Ymir fue usado por la tríada de dioses para crear el los mundos. Odín, Vili y Ve crearon así los mundos que hoy conocemos. De su carne se creó la tierra, de su cabello los árboles, de sus huesos las montañas y de su sangre el agua.*
 
-Durante aproximadamente un centenar de años, no existía fuente de luz alguna que no fuese el fuego. Sól y Máni, hijos de Mundalfari y Glaur serían encomendados para surcar el vacío primordial y dar así a los 9 mundos un día y una noche.
+*Durante aproximadamente un centenar de años, no existía fuente de luz alguna que no fuese el fuego. Sól y Máni, hijos de Mundalfari y Glaur serían encomendados para surcar el vacío primordial y dar así a los 9 mundos un día y una noche.*
 
-Uno de los primeros recuerdos que aún perduran en mi memoria es ver al ancestral Bergelmir ser ejecutado y puesto sobre una rueda de molino.
+*Del cuerpo de Ymir se formó la tierra, las montañas de sus huesos, con el cráneo del colosal, los cielos, el mar salado de su sangre vino.*
 
-Del cuerpo de Ymir se formó la tierra, las montañas de sus huesos, con el cráneo del colosal, los cielos, el mar salado de su sangre vino.
+*Siempre admiré la voluntad de aquellos que luchan sin descanso contra el destino. Quizá desee, en mis adentros, que algún día alguien consiga su victoria.*
+	- Valfthrúdnir sobre el destino.
+
+*Lo observé, con mis ojos vi lo que no era visible. Los antiguos susurros cesaban para dar espacio a los nuevos cánticos, a una nueva melodía.*
+	- Valfthrúdnir prediciendo el final del universo conocido.
+
+*Los sentí, con mi corazón los sentí, los vástagos de la luz y la oscuridad, frutos de la discordia, heraldos del caos.*
+	- Valfthrúdnir sobre los hijos de Odín y Gullveig, bautizándoles como 'Heraldos del Caos'.
+
+*Aún recuerdo a Bergelmir, mentor de mis pensamientos, clavado sobre una rueda de molino tras una letal caída. Lo que fuera que hubiese dentro de él ya había partido, sus ojos no distaban ya de perlas inertes.*
+	- Valfthrúdnir sobre Bergelmir, cuyas enseñanzas personales forjaron su actual personalidad.
+
+*Los susurros son antes que todo lo que es. No tuvieron génesis, ni tendrán final. Asímismo, jamás seremos capaces de conocer toda su naturaleza y posibilidades. Quizá no somos dignos de tal bendición.*
+	- Valfthrúdnir divagando sobre el origen de los susurros.
+
+*Madre, he soñado. He soñado sobre una luz, una luz de verdad. Los corceles volverán a surcar, y los llantos cesarán.*
+	- Valfthrúdnir, en sus últimas palabras.
+
+*Madre, he soñado. He soñado sobre una dulce flor, rebosante de amor. Madre, tengo miedo de dejar de soñar.*
+	- Valfthrúdnir, en sus últimas palabras.
+
+*Madre, no solloces, pues he soñado que no tenía miedo a la muerte.*
+	- Valfthrúdnir, finalizando sus últimas palabras.
+
 
 ---
 
@@ -82,6 +105,9 @@ Del cuerpo de Ymir se formó la tierra, las montañas de sus huesos, con el crá
 * ¿Cómo permiten a Gullveig vivir en Vanaheim tras desterrar a Vilh allí?
 
 - ¿Cómo se hace Surt tan sumamente descomunal previo al Ragnarök?
+
+* ¿Qué hace Odín en Vanaheim cuando conoce a Gullveig?
+	  Odín está de viaje o visita en Vanaheim por meras cuestiones de investigación mágica y botánica, así como a veces frecuentaba Jötunheim por cuestiones más políticas.
 
 ---
 # Frases
