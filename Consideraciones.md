@@ -68,6 +68,9 @@ Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pu
 
 *Del cuerpo de Ymir se formó la tierra, las montañas de sus huesos, con el cráneo del colosal, los cielos, el mar salado de su sangre vino.*
 
+*El odio y el amor, la desdicha y la felicidad, el pasado y el futuro. Todo parece converger siempre en puntos concretos del tiempo que no siguen patrón alguno, como si la naturaleza del destino de vez en cuando nos comunicase algo.*
+	- Valfthrúdnir divagando.
+
 *Siempre admiré la voluntad de aquellos que luchan sin descanso contra el destino. Quizá desee, en mis adentros, que algún día alguien consiga su victoria.*
 	- Valfthrúdnir sobre el destino.
 
@@ -92,6 +95,11 @@ Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pu
 *Madre, no solloces, pues he soñado que no tenía miedo a la muerte.*
 	- Valfthrúdnir, finalizando sus últimas palabras.
 
+*"Aquel que empuñe, con corazón helado y oscuro, será entregado a la cólera, será preso del odio."
+Siempre me fasció la mente de Völund. ¿Cómo alguien con tan puros orígenes pudo caer tan fácilemte en una oscuridad tan sumamente profunda y agónica?*
+	- Valfthrúdnir, citando las inscripciones de Lavatine y su pensamiento sobre Völund.
+
+**
 
 ---
 

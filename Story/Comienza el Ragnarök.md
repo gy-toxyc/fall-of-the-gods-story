@@ -1,4 +1,4 @@
-> Año 1231
+> Año 1232
 
 Comienza el Ragnarök, la mayor guerra de todos los tiempos, la conclusión de la era de los dioses y las criaturas de la naturaleza, la conclusión del universo que Odín y sus hermanos construyeron.
 
