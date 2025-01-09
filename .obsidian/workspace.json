@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heralds of Chaos/0. Index Ideas.md",
+                "file": "Consideraciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Index Ideas"
+              "title": "Consideraciones"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "0bd0293178b269ac",
   "lastOpenFiles": [
-    "Heralds of Chaos/0. Index.md",
     "Heralds of Chaos/0. Index Ideas.md",
+    "Heralds of Chaos/0. Index.md",
     "Consideraciones.md",
     "Main Canvas.canvas",
     "Family Tree Canvas.canvas",

@@ -99,7 +99,7 @@ Por otra parte, el Pozo de Urd tambiéne tiene sus peculiaridades, pues todos pu
 Siempre me fasció la mente de Völund. ¿Cómo alguien con tan puros orígenes pudo caer tan fácilemte en una oscuridad tan sumamente profunda y agónica?*
 	- Valfthrúdnir, citando las inscripciones de Lavatine y su pensamiento sobre Völund.
 
-**
+*Los susurros fueron los vestigios de un caos pasado, génesis de todas las cosas. Un día, los susurros volverán a sonar a caos. Lo conocido será pasado, y un nuevo tiempo comenzará.*
 
 ---
 
