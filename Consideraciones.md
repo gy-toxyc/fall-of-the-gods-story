@@ -147,3 +147,7 @@ Holger escuchó esta historia pensativo, conocía algún rumor relacionado con e
 ---
 
 En algunos puntos de la historia, especialmente en Asgard, Holger observará ornamentos o detalles en las paredes que detallarán historias pasadas, haciéndole divagar en opiniones y conocimientos pasdados.
+
+---
+
+La magia que usa Freyja para tratar de comunicarse con Vilh es la misma que la que Vilh usa para inducir recuerdos en Sveinn al comienzo de la historia, solo que en vez de usar árboles como puentes, usa a las personas a su alrededor. Es por eso que se dice que "Frigg irradia un aura de pena.".
