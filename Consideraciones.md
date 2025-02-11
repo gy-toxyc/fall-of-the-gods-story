@@ -151,3 +151,32 @@ En algunos puntos de la historia, especialmente en Asgard, Holger observará orn
 ---
 
 La magia que usa Freyja para tratar de comunicarse con Vilh es la misma que la que Vilh usa para inducir recuerdos en Sveinn al comienzo de la historia, solo que en vez de usar árboles como puentes, usa a las personas a su alrededor. Es por eso que se dice que "Frigg irradia un aura de pena.".
+
+---
+
+Los Susurros pueden ser oidos por aquellos cuya experiencia y comprensión de la magia es ya muy extensa. Solo se conoce que Gullveig o Gróa los escuchasen, y de nuevo, cada una de ellas tenía una versión diferente de lo que oían.
+
+ *En ocasiones escucho el viento, como voces primordiales que vagan aún por el mundo. En cierto modo me resultan reconfortantes, son mi compañía en gran cantidad de ocasiones.*
+	- Gróa
+
+*Hace muchos años que los Susurros me hablan, ominosos, oscuros. Desde aquel suceso de Vadstena, el viento transporta negras palabras que parece que solo yo puedo oir. Con el paso de los años, se han vuelto compañeros de mis días, tortuosos, pero compañeros al fin y al cabo.*
+	- Gullveig.
+
+---
+
+En un comienzo, el objetivo final del Ragnarök no se vislumbra, no es hasta que se enteran de las motivaciones de Odín por combatir al destino, que todos ven que la única salvación para este universo es que el Ragnarök efectivamente se produzca, con las pérdidas que ello implica.
+
+---
+
+El Fjölkyng es una magia oscura creada por Gullveig con la intención de catalizar a través de ella su oscuridad, odio y tristeza internas. Lejos de conseguirlo, Gullveig descubre una nueva magia (pues las magias no se crean, son interpretaciones más o menos profundas de la realidad misma) que lejos de catalizar su dolor, lo recolecta y utiliza.
+
+Tras la destrucción de Vadstena, Gullveig comienza a escuchar de forma más seguida las voces y llantos de los muertos en aquel pueblo. Lo atribuye a la locura, pero en realidad con el tiempo se da cuenta de que es por el Fjölkyng.
+
+*Buscaba consuelo en aquello que me dio de joven un motivo para continuar andando. Lejos de conseguirlo, obtuve la mayor de las maldiciones.*
+	- Gullveig.
+
+Pero esas voces, con la edad, fueron disminuyendo a medida que Gullveig fue ignorándolas más y más y superando aquellos dolores. Impartir clases a Vilh, a Freyja y a otros niños le dio tanta paz, que curó esas heridas del pasado hasta su muerte.
+
+A Balder le sucedió algo similar una vez Yves escapó, despertando al Aliento Negro o Sombra. Tras la maldición de Gullveig, Balder heredaría todas las voces y oscuridad de aquellos tiempos cuando "su oscuro hijo" (de Odín) finalmente despertase. Es por ello, que hasta su muerte, Balder es torturado por voces de Vadstena, recuerdos de Gullveig y oscurísimos pensamientos, llegando finalmente a desear su muerte fervilmente.
+
+E Yves?

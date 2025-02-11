@@ -6,7 +6,7 @@
       {
         "id": "e8f866bac9a36ed0",
         "type": "tabs",
-        "dimension": 46.7551622418879,
+        "dimension": 47.17816303946883,
         "children": [
           {
             "id": "0ef839e4adaa5992",
@@ -27,7 +27,7 @@
       {
         "id": "4888189e96513ea5",
         "type": "tabs",
-        "dimension": 53.2448377581121,
+        "dimension": 52.821836960531165,
         "children": [
           {
             "id": "a914c8f3f0ef76b5",
@@ -37,9 +37,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 250.55831630554644,
-                  "y": 19280.56593513966,
-                  "zoom": -0.9364624023437499
+                  "x": -1493.0971523466094,
+                  "y": 31310.205972142543,
+                  "zoom": -1.0988993326822916
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -65,7 +65,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -207,13 +208,13 @@
   },
   "active": "0ef839e4adaa5992",
   "lastOpenFiles": [
+    "Magia del Ginnungagap.md",
     "Toda la historia.md",
     "Main Canvas.canvas",
+    "Consideraciones.md",
     "Story/Hoenir le cuenta a Vilh lo que Mímir ha descubierto.md",
     "Story/Mímir descubre la relación entre la magia y los Susurros.md",
     "Story/Adils e Yrsa se casan.md",
-    "Magia del Ginnungagap.md",
-    "Consideraciones.md",
     "Heralds of Chaos/0. Index Ideas.md",
     "Heralds of Chaos/0. Index.md",
     "Family Tree Canvas.canvas",
