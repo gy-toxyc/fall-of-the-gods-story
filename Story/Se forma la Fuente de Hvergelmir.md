@@ -13,3 +13,7 @@ Tras la creación del Yggdrasil, el propio árbol de la vida comienza a abrir un
 * **Sylgr**, que desemboca en el propio Niflheim.
 * **Ylgr**, que desemboca en el propio Niflheim.
 * **Leiptir**, que desemboca en Alfheim.
+
+---
+
+[[Creación de los 9 mundos]]

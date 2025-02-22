@@ -9,3 +9,7 @@ El Yggdrasil estaba diseñado para sostener 9 mundos, 6 de ellos creados a parti
 Por otra parte, Niflheim y Muspelheim fueron nombres creados también por la tríada de dioses.
 
 El último mundo fue el único no construido con el cadáver de Ymir, y tampoco fue considerado un mundo al principio. La creación del Yggdrasil y de los demás mundos modificó Muspelheim y Niflheim de manera violenta, generando en una parte de Niflheim una descomunal cueva, tan grande como el mundo en sí mismo, pero en su interior. Este mundo fue llamado Helheim por la tríada de dioses.
+
+---
+
+[[Los descendientes de Ymir huyen]], [[Nacen Odín, Vili y Vé]], [[Muere Ymir]], [[Formación de la Amalgama Primordial]]

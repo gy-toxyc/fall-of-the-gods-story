@@ -4,17 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "48a0346eb53583e9",
+        "id": "aa3bdfd71e52df0c",
         "type": "tabs",
         "children": [
           {
-            "id": "b80ca22eda15a877",
+            "id": "9315d8ee7326fcb2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2291786c86bf6b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296a223b322813b9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main Canvas.canvas",
+                "viewState": {
+                  "x": 81.92236421555123,
+                  "y": -624.1825616113138,
+                  "zoom": 0.36187540690104125
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Canvas"
             }
           }
         ]
@@ -91,7 +114,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -143,9 +168,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Heralds of Chaos/0. Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0. Index"
             }
           },
           {
@@ -154,8 +184,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -177,18 +207,24 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b80ca22eda15a877",
+  "active": "2537447a9c7f689d",
   "lastOpenFiles": [
+    "Story/Formación de la Amalgama Primordial.md",
     "Main Canvas.canvas",
+    "Story/Creación de los 9 mundos.md",
+    "README.md",
+    "Story/().md",
+    "Story/Audumbla.md",
+    "Family Tree Canvas.canvas",
     "Magia del Ginnungagap.md",
+    "Story/Nace Audumbla.md",
+    "Story/Mímir descubre la relación entre la magia y los Susurros.md",
+    "Heralds of Chaos/0. Index.md",
     "Consideraciones.md",
     "Toda la historia.md",
     "Story/Hoenir le cuenta a Vilh lo que Mímir ha descubierto.md",
-    "Story/Mímir descubre la relación entre la magia y los Susurros.md",
     "Story/Adils e Yrsa se casan.md",
     "Heralds of Chaos/0. Index Ideas.md",
-    "Heralds of Chaos/0. Index.md",
-    "Family Tree Canvas.canvas",
     "Story/Nace Valfthrúdnir.md",
     "Heralds of Chaos/1. El Fugitivo.md",
     "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
@@ -202,11 +238,6 @@
     "Story/Yves viaja a Vanaheim.md",
     "Story/Yves le cuenta a Surt el plan del Ragnarök.md",
     "Story/Völund y sus hermanos son secuestrados.md",
-    "Story/Surt hace un altar a Sinmara en Muspelheim.md",
-    "Story/Muere Vidar.md",
-    "AI/heralds-of-chaos.md",
-    "Story/Muere Ingeld.md",
-    "Story/Muere Hadding.md",
     "Tales of Gold and Darkness",
     "Heralds of Chaos - copia",
     "Tracking",

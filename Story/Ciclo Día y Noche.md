@@ -5,3 +5,7 @@ Odín encomienda a los jóvenes dioses Sól y Máni la tarea de surcar el Ginnun
 Sól llevará un carro, llamado Alfrödull, llevado por el corcel Skinfaxi.
 
 Máni, en cambio, llevará al corcel Hrímfaxi.
+
+---
+
+[[Sól y Glen tienen un hijo]], [[Nacen Sól y Máni]]

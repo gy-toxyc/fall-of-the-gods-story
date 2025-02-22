@@ -180,3 +180,35 @@ Pero esas voces, con la edad, fueron disminuyendo a medida que Gullveig fue igno
 A Balder le sucedió algo similar una vez Yves escapó, despertando al Aliento Negro o Sombra. Tras la maldición de Gullveig, Balder heredaría todas las voces y oscuridad de aquellos tiempos cuando "su oscuro hijo" (de Odín) finalmente despertase. Es por ello, que hasta su muerte, Balder es torturado por voces de Vadstena, recuerdos de Gullveig y oscurísimos pensamientos, llegando finalmente a desear su muerte fervilmente.
 
 E Yves?
+
+---
+
+# Muertes del Ragnarök
+
+Surt mata a Frey
+	Tratando de combatir al colosal gigante.
+Skadi mata a Delling
+	Skadi, en batalla, corta el cuello del amado de Nótt.
+Nótt mata a Skadi
+	Como venganza por matar a su amado, Nótt decapita completamente a Skadi.
+Vali mata a Glaur
+	Ante los ojos de su amigo Yves, Glaur es atravesada por la espada de Vali.
+Yves mata a Vali
+	Yves, con el Lavatine que recupera de Glaur, corta 3 veces a Vali antes de atravesarle otras 3 veces. Las dos primeras el pecho, la última la cabeza.
+Fenrir mata a Odín
+	Odín cabalga a Sleipnir, quien muere también por Fenrir, que a su vez es cabalgado por Yves.
+Vidar mata a Fenrir
+	Como venganza por el asesinato de su padre.
+Yves mata a Vidar
+	Tras no poder proteger a Fenrir, asesina a Vidar.
+Dos Jötun matan a Njörd
+	Njörd muere tras un intento de ataque a Hela, salvado por Sindri. 2 jötun lo aplastarían.
+Thor mata a Jörmungander
+	Lanzando el Mjöllnir, le atraviesa la cabeza.
+Jörmungander mata a Thor
+	Al caer ya muerto, su veneno llega a Thor. Thor da 9 pasos antes de caer muerto.
+Vilh mata a Heimdall
+	Mientras Heimdall trata de socorrer a Vidar, Vilh lo mata atravesándolo con ramas.
+Frigg es herida de muerte
+	Debido a los problemas de concentración (la magia de Freyja tratando de contactar con Vilh), varias flechas seguidas atraviesan el pecho de Frigg, permitiéndola seguir combatiendo, pero simbolizando una muerte segura.
+Surt muere por agotamiento extremo
