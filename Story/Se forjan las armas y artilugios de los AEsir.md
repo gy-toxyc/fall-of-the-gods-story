@@ -1,6 +1,6 @@
-> Año 874
+> Año 894
 
-Se forjan las armas y artilugios legendarios de los AEsir, forjados en 2 tandas, unos por los enanos Brokk y Sindri, y otros por los enanos Hijos de Ivaldi.
+Se forjan las armas y artilugios legendarios de los Æsir, forjados en 2 tandas, unos por los enanos Brokk y Sindri, y otros por los enanos Hijos de Ivaldi.
 
 Los Hijos de Ivaldi son los primeros en fabricar lo siguiente:
 - Gungnir, la lanza de Odín.
@@ -13,3 +13,7 @@ Los siguientes fueron los hermanos Brokk y Sindri, cuya obra fue saboteada por L
 - Mjölnir, el martillo de Thor.
 
 Pese a perder la apuesta, Loki y su elocuencia se las arreglan para evadirla.
+
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nacen Brokk y Sindri]], [[Nace Thor]], [[Nacen Freyja y Frey]], 

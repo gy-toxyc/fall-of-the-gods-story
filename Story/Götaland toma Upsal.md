@@ -4,6 +4,10 @@ El rey Thorri del Reino de Götaland aprovecharía la debilidad del rey On de Up
 
 Tras 25 años, Thorri moriría, y On volvería, reinando 25 años más el territorio de Upsala, hasta que volviese Ole, un sobrino de Thorri (hijo de Fön), que tomaría de nuevo el reino.
 
-Entonces, Starkad, un famoso guerrero de Upsal, asesinaría a Ole y devolvería el reino a On, un On tan mayor ya que no podría apenas reinar, por lo que abdica en favor de su hijo, Egil.
+Entonces, Skjöld, un famoso guerrero de Upsal, asesinaría a Ole y devolvería el reino a On, un On tan mayor ya que no podría apenas reinar, por lo que abdica en favor de su hijo, Egil.
 
 Durante esta situación, el Reino de Lymfjord se independizaría, volviendo a ser un reino aparte de Upsal.
+
+---
+
+[[Nace Thorri]], [[Nace On]], [[Nace Halfdan]], [[Nace Egil]]

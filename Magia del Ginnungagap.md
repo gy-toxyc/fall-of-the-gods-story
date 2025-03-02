@@ -35,6 +35,9 @@ Así, Mímir pudo concluir que los Susurros efectivamente, como predijo Valfthr�
 
 Los Susurros también componen las relaciones entre seres y el entorno del que se rodean, algo que descubriría Vilh investigando la magia de Gullveig.
 
+*Los Susurros no sienten, no deciden, no piensan. Los Susurros no son por sí mismos, son gracias a alguien, a una fuerza pensante. Deben su esencia a los sentimientos.*
+	- Vilh, sobre la naturaleza y la esencia de los susurros.
+
 ---
 
 # Seidr, la primera magia

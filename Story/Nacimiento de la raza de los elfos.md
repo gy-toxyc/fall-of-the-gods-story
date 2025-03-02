@@ -4,3 +4,7 @@ Tras múltiples generaciones, la desdendencia de aquellos gigantes que migraron 
 
 Estos elfos se dividieron en 2 subrazas, los elfos luminosos, habitantes de la superficie y los elfos oscuros, habitantes de cuevas que rara vez salían a la luz de Sól.
 
+---
+
+[[Migración de gigantes a Alfheim]]
+

@@ -7,3 +7,8 @@ Thjazi, el águila, comió de forma desmesurada, enfadando a Loki, que quiso apo
 Loki la atrae, poniendo como excusa que en un bosque de aquella ladera de la montaña se encontraban extrañas manzanas, y quería que las comparase con las que crecen en el árbol Laerad. Allí, Thjazi, convertido en águila, la raptó y la llevó hacia su morada en Thrymheim.
 
 Los dioses, tras un tiempo sin tomarse manzanas de Idunn, y notando su ausencia, casi matan a Loki, pues fue el último en ser visto junto a la diosa. Loki entonces es mandado a recuperar a la diosa Idunn, y así hace, convirtiéndose en águila, la rapta en un descuido de Thjazi, y huye con ella, devolviéndola a Asgard.
+
+---
+
+[[Nace Idunn]], [[Nacen Thjazi, Idi y Gang]], [[Nacen Loki, Helblindi y Býlisteir]], 
+[[Nace Thor]], [[Nace Hoenir]]

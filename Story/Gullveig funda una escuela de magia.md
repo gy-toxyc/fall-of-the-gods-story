@@ -5,3 +5,7 @@ Con intención de aportar por fin algo a su aldea, funda una escuela de magia pa
 Frey abandonaría pronto la escuela, ya que no se interesaba por la magia, como la mayoría del pueblo, que aún lo veía con ojos reacios.
 
 Freyja y Vilh continuarían, con ganas.
+
+---
+
+[[Gullveig se reencuentra con su madre]]

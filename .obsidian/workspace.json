@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa3bdfd71e52df0c",
+        "id": "b823ce58b5164863",
         "type": "tabs",
+        "dimension": 44.563802083333336,
         "children": [
           {
-            "id": "9315d8ee7326fcb2",
+            "id": "a8966a211f78c0bc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -20,20 +21,21 @@
         ]
       },
       {
-        "id": "2291786c86bf6b8d",
+        "id": "59d53d1f30175802",
         "type": "tabs",
+        "dimension": 55.43619791666667,
         "children": [
           {
-            "id": "296a223b322813b9",
+            "id": "89b1b0f2567c8f80",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 81.92236421555123,
-                  "y": -624.1825616113138,
-                  "zoom": 0.36187540690104125
+                  "x": 253.71038361147458,
+                  "y": 33589.65283132502,
+                  "zoom": -1.5697753906249994
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -207,16 +209,23 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "2537447a9c7f689d",
+  "active": "89b1b0f2567c8f80",
   "lastOpenFiles": [
-    "Story/Formación de la Amalgama Primordial.md",
     "Main Canvas.canvas",
+    "Story/Nacen Odín, Vili y Vé.md",
+    "Family Tree Canvas.canvas",
+    "Magia del Ginnungagap.md",
+    "Story/Sveinn crece, aprendiendo a robar.md",
+    "Story/Se funda el Reino de Grimsgard.md",
+    "Story/Nace Loki.md",
+    "Story/Muere Völund.md",
+    "Story/Nace Nór.md",
+    "Story/Nace Swegde.md",
+    "Story/Formación de la Amalgama Primordial.md",
     "Story/Creación de los 9 mundos.md",
     "README.md",
     "Story/().md",
     "Story/Audumbla.md",
-    "Family Tree Canvas.canvas",
-    "Magia del Ginnungagap.md",
     "Story/Nace Audumbla.md",
     "Story/Mímir descubre la relación entre la magia y los Susurros.md",
     "Heralds of Chaos/0. Index.md",
@@ -229,15 +238,7 @@
     "Heralds of Chaos/1. El Fugitivo.md",
     "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
     "Razas/Dioses - Æsir y Vanir.md",
-    "Razas/Gigantes - Jötun, Muspel, Elfos y Enanos.md",
-    "Razas/Untitled.md",
     "Razas",
-    "Tracking/12-12-2024.md",
-    "Tracking/28-10-2024.md",
-    "Story/Nace Heimdall.md",
-    "Story/Yves viaja a Vanaheim.md",
-    "Story/Yves le cuenta a Surt el plan del Ragnarök.md",
-    "Story/Völund y sus hermanos son secuestrados.md",
     "Tales of Gold and Darkness",
     "Heralds of Chaos - copia",
     "Tracking",

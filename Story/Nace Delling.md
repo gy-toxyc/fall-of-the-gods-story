@@ -1,3 +1,3 @@
 > Año 901
 
-Nace Delling, un dios AEsir.
+Nace Delling, un dios Æsir.

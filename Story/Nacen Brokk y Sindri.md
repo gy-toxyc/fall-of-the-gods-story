@@ -1,3 +1,3 @@
 > Año 856
 
-Nacen los legendarios artesanos vegar Brokk y Sindri.
+Nacen los legendarios artesanos Vegar Brokk y Sindri.

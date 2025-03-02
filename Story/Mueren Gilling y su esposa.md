@@ -5,3 +5,7 @@ Los elfos oscuros Fjalar y Galar, unos hermanos conocidos por sus asesinatos a l
 A la vuelta, anunciaron cerca de la casa de Gilling y su esposa la muerte de Gilling, lo que hizo que su esposa saliese preocupada a ver qué había ocurrido. Nada más salir de su casa, una trampa preparada arrojó sobre su cabeza una rueda de un molino, acabando con su vida.
 
 Suttung, hijo de la difunta pareja, juró vengarse, pero los elfos, que poseían uno de los calderos de hidromiel de la poesía, hicieron un trato y Suttung lo aceptó, siendo él a partir de ahora su nuevo dueño.
+
+---
+
+[[Nacen Fjalar y Galar]], [[Nace Gilling]]

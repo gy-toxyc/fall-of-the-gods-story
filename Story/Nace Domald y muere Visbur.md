@@ -2,6 +2,10 @@
 
 Nace Domald, hijo de Visbur y una nueva esposa que tomó tras abandonar a Aude. Será heredero real al trono de Upsal.
 
-Al mismo tiempo que nace Domald, Gisle y Ond demandan su herencia, por lo que asesinan quemando vivo a Visbur antes de que éste pudiera ver a su hijo.
+Al mismo tiempo que nace Domald, Gisle y Ond demandan su herencia, por lo que asesinan quemando vivo a Visbur y a su esposa antes de que éste pudiera ver a su hijo.
 
-Pese a todo, Gisle y Ond son ejecutados por el ejército, y Domald se procalama rey, tras una regencia de 13 años.
+Pese a todo, Gisle y Ond son ejecutados por el ejército, y Domald se procalama rey, tras una regencia de 13 años por parte del general del ejército.
+
+---
+
+[[Nace Visbur]], [[Nacen Gisle y Ond]]

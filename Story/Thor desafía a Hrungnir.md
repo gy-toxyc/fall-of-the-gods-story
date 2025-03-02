@@ -7,3 +7,7 @@ Hrungnir les lanza una roca afilada que Thor ataja con un golpe de Mjölnir, pro
 Hrungnir muere, y su cuerpo se cae sobre Thor. Allí queda encerrado hasta que llega su hijo Magni a ayudarle, ya que Thjalfi es solo un humano y no tiene fuerza para levantar las piernas del descomunal cadaver de Hrungnir.
 
 Cuando Thor consigue salir, ve cómo de la morada de Hrungnir sale un preso suyo. Thor conversa con él, y lo deja marchar, es Aurvandil.
+
+---
+
+[[Nace Thor]], [[Nace Hrungnir]], [[Nace Aurvandil]], [[Nace Magni]]

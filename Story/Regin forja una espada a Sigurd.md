@@ -5,3 +5,7 @@ Regin trata de forjar una espada a Sigurd, pero sale muy mal, pues Regin nunca h
 La espada Balmung fue una de las espadas forjadas por Völund en su cautiverio en Midgard, y la encontró tirada en una montaña el padre de Sigurd, Sigmund, quedándosela para sí.
 
 La espada, una vez la encuentra Sigurd, está rota, por lo que llaman a un enano llamado Alberich para que la arregle. Alberich es realmente el hermano y ayudante de Andvari.
+
+---
+
+[[Nacen Óter, Regin y Fafnir]], [[Regin habla con Sigurd]], [[Völund y sus hermanos son secuestrados]], [[Alberich migra a Midgard]]

@@ -17,3 +17,7 @@ Thor no respondió. A la vuelta a Asgard, Loki preparó sus cosas para marcharse
 Odín expresó a Loki sus verdaderas intenciones y temores sobre la profecía, y cómo confía en que puede luchar y ganar al destino con su ayuda. Loki lo desaprobó, y pidió que Odín se apartase de su camino en las puertas de Asgard. Odín lo permitió.
 
 Más adelante, Thor mismo preguntaría a Odín por qué lo dejó ir, a lo que Odín respondería: "Debe ser que se me olvidó el motivo por el que vino aquí y le cogí aprecio, por ello no culpo ni desapruebo su decisión."
+
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nace Thor]]

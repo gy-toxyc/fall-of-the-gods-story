@@ -6,3 +6,7 @@ Debido a sus investigaciones sobre una magia más oscura que el propio Galdr, su
 
 Algunos relatan este suceso como "Un conjunto de sombras se cirnieron sobre el pueblo de Vadstena, y nada consiguió respirar tras aquello".
 Tras esto, se encontraron marcas mágicas en el pueblo.
+
+---
+
+[[Nace Gullveig]], [[Gullveig vive en el pueblo de Vadstena]]
