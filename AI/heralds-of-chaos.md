@@ -2,36 +2,56 @@
 
 Adils e Yrsa se casan, siendo el fruto de este matrimonio Hrodulf el Tenebroso, su futuro hijo.
 
-> Año 887
+> Año 987
 
-AEgir entabla su segundo matrimonio, y el último, con la jötun Aurboda.
+Alberich forja la espada Nagelring por encargo de un guerrero llamado Heime.
 
-No ocurre mucho después de la muerte de Rán.
+> Año 940
 
-> Año 861
+Alberich forja la espada de Ortnit, uno de sus amigos humanos, y un guerrero importante en la época.
 
-Comienzan la relación dos de los jötun más temidos de los mares de Jötunheim, AEgir y Rán.
+Alberich recuerda a Ortnit la historia de Völund y Witige, y las similitudes con su amistad, deseando que su destino sea muy diferente.
 
 > Año 915
 
 Alberich, debido a la caída de la raza de los nibelungos, migra a Midgard con la finalidad de continuar su carrera como artesano allí y poder fabricar armas y artilugios para los guerreros humanos.
 
+---
+
+[[Nace Alberich]], [[Muere Hreidmar]]
+
 > Año 1193
 
 Algunos humanos, en vista de la creciente mortalidad en Midgard, huyen a otros mundos en busca de ayuda. Ese flujo de humanos se dividiría entre Vanaheim, Alfheim y Muspelheim. En Muspelheim, las condiciones serían tan extremas que pocos se adaptarían, y Alfheim y Vanaheim están igual de fríos que Midgard, por lo que aquellos que no reciban ayuda en comidas, o cobijo, morirían helados a la interperie.
+
+---
+
+[[Da comienzo el Fimbulvinter]]
 
 
 > Año 904
 
 Tras años forjando, convirtiéndose en un artesano de renombre entre los nibelungos y conocido por algunos vegar, Andvari forja su obra maestra y la última que llevará a cabo, el Anillo de Andvari, de extrema delicadeza y precisión Este anillo tenía la capacidad de generar oro y joyas cada cierto tiempo.
 
+---
+
+[[Nace Andvari]]
+
 > Año 915
 
 Debido a lo que su artesanía y maldición provocaron, que es la caida casi completa de la gloria de la raza nibelunga en Svartalfheim, Andvari decide exiliarse a Alfheim, a vivir una vida alejada de la forja.
 
+---
+
+[[Muere Hreidmar]], [[Nace Andvari]]
+
 > Año 2
 
 Audumbla emana 4 ríos de leche desde sus ubres.
+
+---
+
+[[Nace Audumbla]]
 
 > Año 1125
 
@@ -39,49 +59,85 @@ El plan de Balder, o mejor dicho de Odín, no fue fructífero, Sveinn consiguió
 
 Odín reprochará este acto a Balder.
 
+---
+
+[[Sveinn roba el hacha a Brokk y Sindri]]
+
 > Año 1123
 
 Balder visita a los padres adoptivos de Sveinn por orden de su padre. Allí, Balder amenaza a los padrastros de Sveinn, ofreciéndoles una buena recompensa si consiguen que Sveinn caiga en la trampa de un jugoso robo en Svartalfheim, o la muerte si se niegan.
 
+---
+
+[[Nacen Balder y Hoder]], [[Sveinn es adoptado por una familia de Jötun]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año 1124
 
-Balder y la dulce Nanna se casan, formando la pareja más joven de AEsir.
+Balder y la dulce Nanna se casan, formando la pareja más joven de Æsir.
+
+---
+
+[[Nacen Balder y Hoder]], [[Nace Nanna]]
 
 > Año 64
 
 No existían casamientos en el cosmos, el concepto como tal de relaciones interpersonales nació de la unión amorosa entre Bestla, hija de Bolthor y Bor, hijo de Buri.
 
+---
+
+[[Nace Bor]], [[Nacen Bestla, Mímir y su hermano]]
+
 > Año 838
 
-Bragi e Idunn se casan, formando una pareja fuerte de dioses AEsir.
+Bragi e Idunn se casan, formando una pareja fuerte de dioses Æsir.
 
-> Año ???
+---
 
-En su viaje por Midgard, Brimir encontró un volcán a lo lejos. Si bien este estaba dormido, la orografía abrupta del terreno le traía recuerdos de su antigua posada en Muspelheim. Decidió asentarse allí, y abrir de nuevo su cervecería, con el mismo nombre, Ókólnir.
-
-> Año ???
-
-Brimir migra a Midgard con la idea de formar una nueva vida.
-
-> Año 911
-
-Tras el castigo de Odín, la valkyria Brynhild vivirá en cautiverio en un castillo de Muspelheim que estaba abandonado.
+[[Nace Bragi]], [[Nace Idunn]]
 
 > Año 901
 
  Antes de heredar el reinado por parte de su padre, Budli, y a temprana edad, Brynhild muere de forma desconocida, yendo al Folkvangr donde se convierte en Valkyria. Será, históricamente, una de las mejores Valkyrias de toda la historia.
 
+> Año 911
+
+Tras el castigo de Odín, la valkyria Brynhild vivirá en cautiverio en un castillo de Muspelheim que estaba abandonado.
+
+---
+
+[[Nace Brynhild]], [[Odín pide a Brynhild intervenir en una guerra humana]]
+
 > Año 754
 
 Brímir reforma la incompleta posada de Ókólnir y funda ahí la cervecería más famosa de los 9 mundos, con el famoso Caldero del Carbón Ennegrecido en el centro.
 
-> Año 792
+---
 
-Tras romper su relación con el Reino de Lymfjord, este ataca y conquista la totalidad del Reino de Upsal, imponiendo una severa modificación cultural. Lo que una vez fue el mayor reino de todos los tiempos había llegado a su fin.
+[[Nace Brímir]]
+
+> Año ???
+
+En su viaje por Midgard, Brímir encontró un volcán a lo lejos. Si bien este estaba dormido, la orografía abrupta del terreno le traía recuerdos de su antigua posada en Muspelheim. Decidió asentarse allí, y abrir de nuevo su cervecería, con el mismo nombre, Ókólnir.
+
+---
+
+[[Nace Brímir]], [[Brímir migra a Midgard]]
+
+> Año ???
+
+Brímir migra a Midgard con la idea de formar una nueva vida.
+
+---
+
+[[Se lleva a cabo el Consejo del Gimlé]], [[Nace Brímir]]
 
 > Año 936
 
 Tras la Rebelión de Solor, Götaland quedaría gravemente afectado. Durante años, conseguirían mantener su estatus de mayor reino humano, pero, finalmente, una alianza entre Solor y Ringerike acabaría con el reino hegemónico de Götaland.
+
+> Año 792
+
+Tras romper su relación con el Reino de Lymfjord, este ataca y conquista la totalidad del Reino de Upsal, imponiendo una severa modificación cultural. Lo que una vez fue el mayor reino de todos los tiempos había llegado a su fin.
 
 > Año 132
 
@@ -91,11 +147,11 @@ Sól llevará un carro, llamado Alfrödull, llevado por el corcel Skinfaxi.
 
 Máni, en cambio, llevará al corcel Hrímfaxi.
 
-> Año ???
+---
 
-eee
+[[Sól y Glen tienen un hijo]], [[Nacen Sól y Máni]]
 
-> Año 1231
+> Año 1232
 
 Comienza el Ragnarök, la mayor guerra de todos los tiempos, la conclusión de la era de los dioses y las criaturas de la naturaleza, la conclusión del universo que Odín y sus hermanos construyeron.
 
@@ -103,17 +159,33 @@ Dos partes diferenciadas se enfrentarán, los dioses, tanto AEsir como Vanir, co
 
 El comienzo del Ragnarök lo dará Heimdall, cuando toque su cuerno Gjallarhorn desde la colina más alta del Vigrid en Midgard.
 
+---
+
+[[Nace Heimdall]], [[Surt se dirige a Vígrid]], [[Thrym marcha hacia el Ragnarök]], [[El ejército de Helheim parte hacia Vigrid]]
+
+> Año ???
+
+eee
+
 > Año 138
 
 Tras muchas generaciones de convivencia, los humanos y los gigantes llegan a tal punto de tensión y conflictos, que estalla una dura guerra.
 
+---
+
+[[La raza de los humanos crece]], [[La raza de los gigantes crece]]
+
 > Año 1150
 
-De alguna manera, la huida de Yves de Helheim acabó con sus sueños, pero a su vez, comenzó con las pesadillas de Balder.
+La huida de Yves de Helheim acabó con sus sueños, pero a su vez, indujo pesadillas en Balder.
 
 Algunos teorizan que se debe a que Gullveig maldijo a Odín antes de que este la matase, y la magia de Gullveig es conocida por perdurar para toda la eternidad, de esta manera, su hijo Balder pudo haber sido el objetivo de aquella maldición.
 
-Balder comenzó teniendo pesadillas levemente oscuras, sin importancia, pero poco a poco fue a más. Su esposa, Nanna, se preocupaba cada vez más por él, al igual que su madre, Frigg. Cada vez, el dios que daba luz y alegría a Asgard apenas salía de su palacio, y cuando salía, era como ver un cuerpo sin alma desplazarse por la tierra de los AEsir. La falta de sueño, la depresión, toda la oscuridad envolvía al dios más luminoso que habían visto los AEsir.
+Balder comenzó teniendo pesadillas levemente oscuras, sin importancia, pero poco a poco fue a más. Su esposa, Nanna, se preocupaba cada vez más por él, al igual que su madre, Frigg. Cada vez, el dios que daba luz y alegría a Asgard apenas salía de su palacio, y cuando salía, era como ver un cuerpo sin alma desplazarse por la tierra de los Æsir. La falta de sueño, la depresión, toda la oscuridad envolvía al dios más luminoso que habían visto los Æsir.
+
+---
+
+[[Nacen Balder y Hoder]], [[Muere Gullveig]], [[Yves escapa de Helheim]]
 
 > Año 540
 
@@ -127,6 +199,10 @@ Tras su exilio, y en busca de ocultarse de los elfos de luz y de los AEsir que l
 
 La primera de las cuevas recibió el nombre de Nidavellir.
 
+---
+
+[[Mótsognir y Durin huyen]]
+
 > Año 80
 
 Tras la Guerra Primordial, Odín, Vili y Vé forman el universo actual.
@@ -139,6 +215,10 @@ Por otra parte, Niflheim y Muspelheim fueron nombres creados también por la tr�
 
 El último mundo fue el único no construido con el cadáver de Ymir, y tampoco fue considerado un mundo al principio. La creación del Yggdrasil y de los demás mundos modificó Muspelheim y Niflheim de manera violenta, generando en una parte de Niflheim una descomunal cueva, tan grande como el mundo en sí mismo, pero en su interior. Este mundo fue llamado Helheim por la tríada de dioses.
 
+---
+
+[[Los descendientes de Ymir huyen]], [[Nacen Odín, Vili y Vé]], [[Muere Ymir]], [[Formación de la Amalgama Primordial]]
+
 > Año 1191
 
 Da comienzo el Fimbulvinter, 3 años seguidos de un invierno extremo que cubre los 9 mundos. Esto realmente se debe a que la muerte de Balder, de manera desconocida, ha agitado al águila Rasvelg, y su batir de alas es tan intenso ahora que hiela los 9 mundos.
@@ -150,6 +230,20 @@ Es el segundo presagio que confirma que la profecía del Ragnarök se acerca.
 Este no es el momento de desaparición del dragón Grafvitnir, el primer dragón que habitó los 9 mundos, pues se desconoce realmente qué le ocurrió y cuándo exactamente, pero es el momento del último registro que se tiene del dragón.
 
 *"Vive pacíficamente en la cordillera de Nidafjöll, alimentándose de las raíces del árbol de la vida."*
+
+---
+
+[[Nace Grafvitnir]], [[Nacen los Dragones de Helheim]]
+
+> Año ???
+
+Sumidos aún en una oscuridad eterna, Nótt y Dagr son los primeros en despertar. Viendo la oscuridad eterna, deciden que la mejor forma de que una nueva era comience es darle de nuevo el ciclo día y noche. Por ello, Dagr y Nótt surcarán desde entonces los cielos.
+
+Antes de ello, crearán dos caballos, Skinfaxi y Hrímfaxi, y les darán vida, siendo los primeros en hacer tal cosa desde Odín, Vili y Vé al crear a la humanidad.
+
+---
+
+[[Nace Nótt]], [[Nace Dagr]]
 
 > Año ???
 
@@ -165,7 +259,7 @@ Poco a poco, los supervivientes del Ragnarök despertarán de un extraño letarg
 - Magni
 - Modi
 
-## Contrarios
+## Vætir
 
 - Vilh
 - Sveinn
@@ -185,17 +279,19 @@ Poco a poco, los supervivientes del Ragnarök despertarán de un extraño letarg
 
 Pese a que en esta línea temporal no se muestren las muertes de todos los personajes mencionados que llegan a luchar en el Ragnarök, se da por hecho su muerte si no aparecen en esta lista, y si su muerte no es destacada en la línea temporal se debe a que no es de gran importancia.
 
-> Año ???
+---
 
-Sumidos aún en una oscuridad eterna, Nótt y Dagr son los primeros en despertar. Viendo la oscuridad eterna, deciden que la mejor forma de que una nueva era comience es darle de nuevo el ciclo día y noche. Por ello, Dagr y Nótt surcarán desde entonces los cielos.
-
-Antes de ello, crearán dos caballos, Skinfaxi y Hrímfaxi, y les darán vida, siendo los primeros en hacer tal cosa desde Odín, Vili y Vé al crear a la humanidad.
+[[Final del Ragnarök]]
 
 > Año 963
 
 El Episodio Oscuro de Asgard supuso un antes y un después en Asgard, pues Odín, que ya tenía en su cabeza ciertas historias que las nornas le habían contado sobre su futuro, su destino y el destino de todo el universo, entendió que aquellos 4 hijos que tuvo con Gullveig eran peligrosos, ya que habían heredado el poder unificado de los dos dioses.
 
 Por ello, desterró a sus 4 hijos cada uno a un lugar diferente.
+
+---
+
+[[Ocurre el Episodio Oscuro de Asgard]]
 
 > Año 1231
 
@@ -208,27 +304,43 @@ Sigyn también los acompañará, siendo la única diosa (a parte de los hijos de
 
 Solo se queda el águila Rasvelg, incapaz de salir de aquel mundo, se quedará en su custodia, y los dragones restantes.
 
+---
+
+[[Nacen los Vástagos del Caos]], [[Nacen Loki, Helblindi y Býlisteir]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Sigyn]], [[Nacen los Dragones de Helheim]]
+
 > Año 974
 
 Fenrir es secuestrado en el Bosque de Járnvid por los AEsir junto a sus hijos, Sköll y Hati. Lo intentarán con 3 cadenas diferentes, una a una, pues las 2 primeras las consigue romper el gigante lobo. Esas cadenas están fabricadas por los Hijos de Ivaldi.
 
 > Año 1126 - 1127
 
-Fenrir es secuestrado en el Bosque de Járnvid por los AEsir, llevándole a Asgard para ser encadenado. Lo intentarán con 3 cadenas diferentes, una a una, pues las 2 primeras las consigue romper el gigante lobo. Esas cadenas están fabricadas por los Hijos de Ivaldi.
+Fenrir es secuestrado en el Bosque de Járnvid por los Æsir, llevándole a Asgard para ser encadenado. Lo intentarán con 3 cadenas diferentes, una a una, pues las 2 primeras las consigue romper el gigante lobo. Esas cadenas están fabricadas por los Hijos de Ivaldi.
 
 Los motivos detrás de esto, es que Odín temía la profecía, y todos sus intentos por frenarla habían salido mal, entonces optó por esto.
+
+---
+
+[[Nacen los Vástagos del Caos]]
 
 > Año 1227
 
 Poco queda para que llegue la última de las guerras, el Ragnarök, y Fenrir consigue escaparse de Asgard, huyendo hacia Helheim donde se reencontrará con su hermana, Hela.
 
+---
+
+[[Fenrir es secuestrado por los Æsir]], [[Nacen los Vástagos del Caos]]
+
 > Año 1228
 
 Fenrir saca a Loki de su penitencia en Helheim con sus descomunales fauces, ya que además, las cadenas que atrapaban a su padre eran las mismas que las suyas.
 
+---
+
+[[Nacen los Vástagos del Caos]], [[Nacen Loki, Helblindi y Býlisteir]], [[Loki es encarcelado en Helheim]]
+
 > Año 1074
 
-Tras acordarse un tratado de paz entre los dioses AEsir y Vanir, propuesto por Njörd y Frey, la guerra llega a su fin.
+Tras acordarse un tratado de paz entre los dioses Æsir y Vanir, propuesto por Njörd y Frey, la guerra llega a su fin.
 
 Ese tratado incluía el envío de algunos dioses Vanir a Asgard, pero pocos de Asgard a Vanaheim, lo cual supuso cierta corrupción en dicho tratado, pues Njörd y Frey se llevaron la mejor parte.
 
@@ -241,6 +353,10 @@ Esto no relajaría las tensiones entre estas dos razas, pero con el tiempo, se i
 > Año 465
 
 Tras muchos años de guerra, la intervención de los AEsir agiliza la victoria de los humanos enormemente, obligando a los gigantes restantes a huir a otros mundos.
+
+---
+
+[[Los dioses Æsir intervienen en la guerra]]
 
 > Año ???
 
@@ -259,9 +375,17 @@ Lo que anteriormente sería Niflheim, Muspelheim y Helheim han convergido en un 
 
 A su vez, el árbol Laerad, que proveía de las famosas Manzanas de Idunn para alargar la vida de los dioses, ya no existe, por lo que los dioses son plenamente mortales. Llegará un día en el que, si no ha habido suficiente descendencia, los dioses dejen de existir.
 
+---
+
+[[Perece la raza de los Jötun]], [[Perece la raza de los Muspel]]
+
 > Año 738
 
 Debido a su costumbre de habitar cuevas en Alfheim, deciden seguir a su raza predecesora, los enanos, y vivir en Nidavellir el resto de su vida.
+
+---
+
+[[Nacimiento de la raza de los enanos]], [[Creación de las cuevas de Svartalfheim]]
 
 > Año ???
 
@@ -271,9 +395,17 @@ Tras muchos años desde el final del Ragnarök, muchos años de silencio en todo
 
 Tras muchos años desde el final del Ragnarök, muchos años de silencio en todo el universo, una flor brotará debido a la luz de Dagr, así como predicó Vilh, de entre las cenizas en un descompuesto Bosque de Hodmímir. Líf y Lifthrásir saldrán de aquel árbol donde se escondieron durante todo el Ragnarök.
 
+---
+
+[[Líf y Lifthrásir se esconden]]
+
 > Año 0
 
 En los albores del tiempo, se formó una amalgama fruto de la fusión del fuego puro del primigenio mundo de Muspelheim, con el hielo puro del primigenio mundo de Niflheim en el centro del abismo llamado Ginnungagap.
+
+---
+
+#WhisperingVoid
 
 > Año 983
 
@@ -281,13 +413,25 @@ Tras varios intentos de cortejo, Frey y Gerd se terminan casando bajo los árbol
 
 Ella nunca quiso casarse con él, por ser el asesino de su hermano, incluso tras enviarle 9 manzanas de Idunn. Finalmente, le entregó su espada.
 
+---
+
+[[Nacen Freyja y Frey]], [[Nacen Gerd y Beli]], [[Muere Beli]]
+
 > Año 980
 
 Tras muchos años aprendiendo magia juntos, su estrecha relación se estrechó más, llegando a surgir la magia del amor entre ellos, y casándose. Se irían pues a vivir juntos fuera de la aldea, pero cerca igualmente, aun bosque cercano inhabitado, donde construirían su propia casa.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nacen Freyja y Frey]]
+
 > Año ???
 
 Durante toda la batalla, Frigg presenta grandes problemas de concentración. En su interior, la magia del alma de Freyja lucha por contrarrestar a la magia de Odín que la identifica como Frigg. De vez en cuando, Vilh escucha voces en su cabeza que no son más que mensajes de Freyja a través de magia, alertándole de cosas, cosa que Frigg trata de evitar. Esa batalla mental hace a Frigg una guerrera herrática, y tras varias heridas graves, una de ellas resulta ser letal, una flecha lejana le atravesaría órganos vitales.
+
+---
+
+[[Nacen Freyja y Frey]], [[Nacen Vilh, Yves, Sveinn y Holger]]
 
 > Año 1150
 
@@ -295,15 +439,27 @@ Preocupados, los padres de Balder buscaron la respuesta a por qué esos sueños 
 
 Con esa respuesta buscaban también la solución, se notaba la desesperación de la situación.
 
+---
+
+[[Comienzan las pesadillas de Balder]], [[Yves escapa de Helheim]]
+
 > Año 974
 
 Glaur vuelve a Muspelheim al ver lo que Odín ha hecho con sus hijos, poniéndolos en un grave peligro.
 
-A esto antecede la ruptura con el dios Mundalfari, que se desentendió hace siglos de las decisiones AEsir, y que en este caso de igual manera se muestra impasivo ante este suceso, lo cual enfurece a Glaur.
+A esto antecede la ruptura con el dios Mundalfari, que se desentendió hace siglos de las decisiones Æsir, y que en este caso de igual manera se muestra impasivo ante este suceso, lo cual enfurece a Glaur.
+
+---
+
+[[Odín manda a Sköll y a Háti a controlar a Sól y a Máni]], [[Nace Glaur]]
 
 > Año 639
 
 Glod, en vista de las batallas constantes que sufre el reino de su padre, huye a Muspelheim, tratando de llevarse a su padre, pero él se aferra a su reino.
+
+---
+
+[[Nace Glod]]
 
 > Año 890
 
@@ -311,9 +467,17 @@ Thor va a ver a una maga cercana y de gran renombre, Gróa, la maga jötun, para
 
 Mientras Gróa está en proceso, los dos conversan y Thor le cuenta su batalla, hablándole de Aurvandil. Gróa, nada más oye aquel nombre y conoce que su marido sigue vivo, va en su busca, dejando a Thor con los fragmentos de piedra aún en su cráneo.
 
+---
+
+[[Thor desafía a Hrungnir]]
+
 > Año 698
 
 Tras conocerse desde la infancia en un pueblo pequeño de Jötunheim llamado Trëve, Gróa y Aurvandil oficializan su relación amorosa casándose. A menudo, este casamiento es enunciado como uno de los más puros de todos los tiempos, pues el amor que fluía entre ellos era puramente verdadero.
+
+---
+
+[[Nace Gróa]], [[Nace Aurvandil]]
 
 > Año 734
 
@@ -321,10 +485,18 @@ Ocurre la guerra civil de Odinsaker, donde se aboliría la monarquía, asesinand
 
 Esta guerra fue comenzada por Helgi, quien creía que Gudmund, al ser el fundador, junto con sus hermanos, cometían abusos de poder continuados por el mero hecho de ser rey y fundadores.
 
+---
+
+[[Se funda el Reino de Odinsaker]], [[Nacen Gudmund, Starkad y Hothbrod]], [[Nace Höfund]], [[Nace Helgi]]
+
 
 > Año 796
 
 Ocurre una gran, pero corta, guerra entre Götaland y Lymfjord. Finalmente, Götaland no solo vencerá a Lymfjord, que controlaba gran parte del territorio de Midgard, sino que se hará con el control total del mundo, siendo el primer y único reino en conseguirlo.
+
+---
+
+[[Cae el Reino de Upsal]]
 
 > Año 853
 
@@ -332,13 +504,27 @@ Tras el suceso de la Sombra del Bosque, Gullveig se interesa por la magia y la a
 
 Estas pesadillas la atormentarán de por vida.
 
+---
+
+[[Nace Gullveig]], [[Gullveig ve a la Sombra del Bosque]]
+
 > Año 862
+
+Aún vagando por Vanaheim, Gullveig termina conociendo a un hombre, el cual no le dice su nombre en el momento, sino al tiempo de conocerse. Congenian, y se palpa un ambiente amoroso entre ellos.
+
+---
+
+[[Nace Gullveig]], [[Nacen Odín, Vili y Vé]]
 
 > Año 854
 
 En una de las pesadillas, Gullveig descubre la verdad sobre la muerte de su padre, algo que su madre ha tratado de ocultarle hasta que considerase que estaba preparada para saberlo.
 
 Una joven Gullveig discute con su madre, Heid, y escapa de casa.
+
+---
+
+[[Nace Gullveig]], [[Gullveig comienza a tener pesadillas]]
 
 > Año 964
 
@@ -348,15 +534,27 @@ Frey abandonaría pronto la escuela, ya que no se interesaba por la magia, como 
 
 Freyja y Vilh continuarían, con ganas.
 
+---
+
+[[Gullveig se reencuentra con su madre]]
+
 > Año 963
 
 Tras la escapada de casa de Gullveig, y su partida a Asgard a vivir con Odín, Gullveig no había visto a su madre, Heid, desde que era joven. Ahora que vuelve a su aldea natal, se reencuentra con ella, a la cual pide perdón, diciéndola que nada jamás podrá reparar lo que le hizo a su madre, y que ningún perdón sería suficiente, pero que estaría con ella el resto de su vida.
+
+---
+
+[[]]
 
 > Año 856
 
 Gullveig, tras provocar el desastre de Vadstena, vaga por Vanaheim en busca de un buen sitio donde poder continuar sus investigaciones.
 
 No encuentra nada que se adapte a sus necesidades, y, sin querer, acaba en la entrada al Bosque de los Grilletes, donde mataron a su padre. Tras meditarlo un rato, decide entrar.
+
+---
+
+[[Nace Gullveig]]
 
 > Año 853
 
@@ -366,11 +564,19 @@ Gullveig despierta en su aldea, sana y salva, sin recordar nada de lo que ocurri
 
 En el futuro, las veces que Gullveig recuerda estos sucesos, especula con la identidad de aquella sombra del bosque, pero también con sus cánticos, que cree que fueron magia Galdr.
 
+---
+
+[[Nace Gullveig]]
+
 > Año 854
 
 Gullveig, tras escapar de casa, vivirá unos años en el pueblo de Vadstena.
 
 Allí investigará una magia más oscura que el mismo Galdr.
+
+---
+
+[[Nace Gullveig]], [[Gullveig escapa de casa]]
 
 > Año 748
 
@@ -378,9 +584,13 @@ El rey Thorri del Reino de Götaland aprovecharía la debilidad del rey On de Up
 
 Tras 25 años, Thorri moriría, y On volvería, reinando 25 años más el territorio de Upsala, hasta que volviese Ole, un sobrino de Thorri (hijo de Fön), que tomaría de nuevo el reino.
 
-Entonces, Starkad, un famoso guerrero de Upsal, asesinaría a Ole y devolvería el reino a On, un On tan mayor ya que no podría apenas reinar, por lo que abdica en favor de su hijo, Egil.
+Entonces, Skjöld, un famoso guerrero de Upsal, asesinaría a Ole y devolvería el reino a On, un On tan mayor ya que no podría apenas reinar, por lo que abdica en favor de su hijo, Egil.
 
 Durante esta situación, el Reino de Lymfjord se independizaría, volviendo a ser un reino aparte de Upsal.
+
+---
+
+[[Nace Thorri]], [[Nace On]], [[Nace Halfdan]], [[Nace Egil]]
 
 > Año ???
 
@@ -388,9 +598,17 @@ Hela construirá el segundo palacio de Helheim, el llamado Palacio de Sindri, en
 
 Éste palacio tendrá una estética muy distinta a Eljúdnir, será dorado, pues estará fabricado de Oro Rojo.
 
+---
+
+[[Nacen los Vástagos del Caos]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año 1190
 
 Hela, envía a Muspelheim el barco Naglfar por petición de Yves, con la idea de que en él vayan todos los soldados gigantes de fuego posibles, como apoyo. Además, es el único barco capaz de navegar por el río Vafrlogi.
+
+---
+
+[[Yves le cuenta a Surt la profecía del Ragnarök]]
 
 > Año ???
 
@@ -398,17 +616,29 @@ En vista de que el antiguo Helheim y actual Náströnd ha sido violentamente mod
 
 Voló con Nidhogg hasta allí, y encontró los cadáveres y restos del resto de dragones. Hela volvería a su palacio, dejando a un sollozante Nidhogg, que lloraría la muerte de sus hermanos durante años.
 
+---
+
+[[Perece casi toda la raza de los dragones]], [[Nacen los Vástagos del Caos]]
+
 > Año 962
 
 Loki llevará a Hela a Helheim una vez esta sea una adolescente. Allí, Loki le promete estar en contacto.
 
 Hela sorprendería a todos, pues pensaban que los dragones la devorarían, pero se hizo amiga de todos ellos.
 
+---
+
+[[Nacen los Vástagos del Caos]]
+
 > Año ???
 
 Hela marcha a Náströnd para reinar el nuevo mundo de los muertos, junto con el durmiente Yves.
 
 Al llegar a Náströnd, la única edificación que continúa intacta es el palacio de Hela.
+
+---
+
+[[Nacen los Vástagos del Caos]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Se lleva a cabo el Consejo del Gimlé]]
 
 > Año 935
 
@@ -417,17 +647,37 @@ Hild, hija del rey humano Högni, es raptada en aprovechando la incapacidad de s
 El rey, Högni, enfermo, una vez encontró a su hija, desenvainó su espada, "Legado de Dáinn", que una vez desenvainada debería dar muerte al menos una vez.
 Mató así al príncipe Hedinn.
 
+> Año ???
+
+Hoenir le cuenta a Vilh lo que Mímir ha descubierto.
+
+Vilh, naturalmente, es conocedor de la magia oscura de Gullveig, y sabe lo que hizo, pero desconocía la naturaleza de la misma, de hecho los apuntes y anotaciones de el Fjölkyng aún permanecían ocultos.
+
 > Año 971
 
 Inspirado en escrituras de Vafthrúdnir y otros renombrados sabios de épocas anteriores, Holger se aficiona enormemente en la sabiduría, el conocimiento y la lectura en general.
+
+---
+
+[[Holger se cría solo en Alfheim]]
 
 > Año 1149
 
 En su vuelta a Alfheim, Holger pasa por un río que no había visitado anteriormente en su infancia, y encuentra ahí a un enano, llamado Andvari. Holger había oido hablar de alguna historia relacionada con un anillo con su nombre, y Andvari se la cuenta, explicándole también el motivo de su exilio.
 
+Durante su cuento, Andvari menciona a su hermano y que está armando a los humanos, demostrando que desconoce su estado, ya que su hermano murió hace 161 años.
+
+---
+
+[[Holger regresa a su hogar de la infancia, Alfheim]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Andvari]], [[Muere Alberich]]
+
 > Año 1075
 
 Holger conoce a Freyja, y su amor mutuo por el conocimiento les hace congeniar bien.
+
+---
+
+[[Migraciones forzosas a vivir en Asgard]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Nacen Freyja y Frey]]
 
 > Año ???
 
@@ -441,13 +691,17 @@ Holger entonces recuerda aquella ejecución que presenció en sus primeros meses
 
 La duda sigue comiendo a Holger, que no concibe qué pudo pasar para que Odín llegase a aquello, además, Holger no pudo encontrar ni una sola referencia al Episodio Oscuro de Asgard.
 
-> Año 1126
+> Año 1125 - 1126
 
 Holger, sin saberlo, escucha a Balder hablar con Odín y Thor sobre el plan de traer a un tal Sveinn a Asgard y encarcelarlo junto al lobo (refiriéndose a Fenrir).
 
-El plan consistía en que el señuelo de un robo aparentemente factible le hiciese caer en la trampa y ser arrestado por los AEsir, pero salió mal, y pese a que Thor lo persiguió, perdió su pista en Vanaheim. Balder, quien había sido el que ejecutaba el plan inteligente, asesinó a los padres del chico ya que no se cumplió parte del trato, que era que Sveinn acabase encarcelado en Asgard. Thor, la parte ejecutante del trato, persiguió a Sveinn sin resultado alguno.
+El plan consistía en que el señuelo de un robo aparentemente factible le hiciese caer en la trampa y ser arrestado por los Æsir, pero salió mal, y pese a que Thor lo persiguió, perdió su pista en Vanaheim. Balder, quien había sido el que ejecutaba el plan inteligente, asesinó a los padres del chico ya que no se cumplió parte del trato, que era que Sveinn acabase encarcelado en Asgard. Thor, la parte ejecutante del trato, persiguió a Sveinn sin resultado alguno.
 
-Por ello, pide a Odín más tarde viajar a Vanaheim, con fines científicos dice, pero va no solo a eso, sino a investigar lo que pueda.
+Esto genera un malestar y una desconfianza en su entorno a Holger.
+
+---
+
+[[Balder asesina a los padres de Sveinn]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Thor]], [[Nacen Balder y Hoder]], [[Nacen Odín, Vili y Vé]]
 
 > Año ???
 
@@ -459,11 +713,9 @@ Una noche, Holger sale de sus aposentos y consigue entrar en la biblioteca más 
 
 Uno de los relatos, anónimos, cuenta la historia del episodio oscuro de Asgard, una historia de niños que jugaban en Asgard, junto a muchos dioses recientes, y que uno de ellos se convirtió en sombra, aterrorizando a todo el mundo e hiriendo a algunos. Odín lo reprendió, y mandó al niño como preso a Helheim por el peligro que podía ocasionar.
 
-> Año 1149
+---
 
-Holger llega a la biblioteca de Heorot, donde es bienvenido, pues es conocido y querido por los elfos de luz al haberse criado prácticamente allí.
-
-Allí, rebusca y lee múltiples libros sobre historias pasadas, relatos de hazañas y aventuras de Thor, escritos de völvas, historias de Vafthrúdnir. Reniega algo de los libros de magia, pues no es ávido con aquello, pero alguno lee sobre magas históricamente importantes como Gróa o Gullveig, de la cual recuerda su triste final en Asgard, y sus conversaciones con Odín sobre los motivos que lo llevaron a aquello.
+[[Holger llega a la biblioteca de Heorot]], [[Nacen Vilh, Yves, Sveinn y Holger]]
 
 > Año 1156
 
@@ -489,11 +741,29 @@ Vilh pregunta qué había en aquella tablilla, e Yves destapa que había una pal
 
 Vilh finalmente entiende que Yves tiene Fjölkyng en su alma, concretamente tiene Aliento Negro, o bien su alma se compone enteramente de ello. Y le explica más cosas sobre el Fjölkyng, su creadora, la existencia de 72 hechizos que componen aquella magia, y el Aliento Negro y sus relaciones con el alma.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]
+
+> Año 1149
+
+Holger llega a la biblioteca de Heorot, donde es bienvenido, pues es conocido y querido por los elfos de luz al haberse criado prácticamente allí.
+
+Allí, rebusca y lee múltiples libros sobre historias pasadas, relatos de hazañas y aventuras de Thor, escritos de völvas, historias de Vafthrúdnir. Reniega algo de los libros de magia, pues no es ávido con aquello, pero alguno lee sobre magas históricamente importantes como Gróa o Gullveig, de la cual recuerda su triste final en Asgard, y sus conversaciones con Odín sobre los motivos que lo llevaron a aquello.
+
+---
+
+[[Holger regresa a su hogar de la infancia, Alfheim]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año 989
 
-Un día, en busca de más conocimiento, Holger fue a Asgard decidido a hacerse aprendiz de Odín, en busca de la sabiduría que albergarían las bibliotecas de los AEsir.
+Un día, en busca de más conocimiento, Holger fue a Asgard decidido a hacerse aprendiz de Odín, en busca de la sabiduría que albergarían las bibliotecas de los Æsir.
 
 Le recibió Heimdall, quien conocía la verdadera identidad de Holger, y llamó a Odín para juzgar si debía dejarle pasar o no. Odín, dudoso, decidió dejarle pasar y aceptarle como su aprendiz, aconsejado por Vili, que le indicó que era buena idea tener a Holger cerca para el futuro.
+
+---
+
+[[Holger comienza su interés por el conocimiento]], [[Nace Heimdall]], [[Nacen Odín, Vili y Vé]]
 
 > Año 1152
 
@@ -503,11 +773,19 @@ Esto le recuerda enormemente a lo que había leido en Heorot sobre aquel Episodi
 
 Con este indicio, Holger decide volver a Asgard y tratar de investigar la veracidad de aquella historia. Por qué Odín ocultaría aquello, qué es aquella sombra.
 
+---
+
+[[Holger lee sobre el Episodio Oscuro de Asgard]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Yves escapa de Helheim]]
+
 > Año 1145
 
 Dadas ciertas investigaciones que estaba llevando a cabo Holger, se ve obligado a pedir permiso a Odín, para realizar unas investigaciones en Vanaheim, pues conoce que su fauna es abundante y muy variada, además de ser una fauna mágica por lo general o con propiedades interesantes para la alquimia.
 
 Odín, reacio a ello, termina accediendo, pues no ve alto peligro en dejarle viajar a Vanaheim por investigación.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nacen Odín, Vili y Vé]]
 
 > Año 996
 
@@ -515,25 +793,47 @@ Holger, desde su habitación del palacio de Odín, presencia en la plaza de Idav
 
 En un momento, Holger le pregunta a Odín, y este lo mira fijamente, como si su ojo fuese a aniquilarlo en el momento. Odín explica que aquella mujer había masacrado aldeas en Vanaheim con la magia más oscura jamás vista, y que era un auténtico peligro para los 9 mundos.
 
+---
+
+[[Holger migra a Asgard]], [[Muere Gullveig]], [[Nacen Odín, Vili y Vé]], [[Se forma el claro del Bosque de los Grilletes]], [[Ocurre el Desastre de Vadstena]]
+
 > Año 1147
 
 Holger regresa a Asgard y conversa con Odín sobre sus investigaciones, mencionándole que es posible que el siguiente lugar que desee visitar sea Alfheim. Odín le pregunta el motivo, pues Holger ya pasó toda su infancia allí, y Holger le confiesa de forma sincera que no busca nada botánico ni alquímico, sino rebuscar en las bibliotecas de Heorot.
 
 Odín, confuso, quiere saber qué busca exactamente Holger, y Holger le engaña diciéndole que quiere investigar sobre antiguas flores antiguas, que ya no existen. En su viaje a Vanaheim esperaba encontrarse algunas, pero no pudo encontrar todas. Allí, conversan más sobre Vanaheim, Odín le habla sobre el norte del mundo de los Vanir, y Holger se muestra curioso ante el conocimiento de Odín sobre Vanaheim. Odín lo persuade, diciéndole que conoce prácticamente todo, pero luego le confiesa que tuvo un pasado muy cercano a los dioses Vanir, mucho antes de la guerra y de que sus relaciones se deteriorasen.
 
+Holger también deja entrever que su motivo de volver a Alfheim es relativo a "curar algunas heridas", debido al reciente casamiento de Nótt.
+
 Holger menciona la originalidad Vanir de Frigg, pero Odín lo evita diciendo que no la conocía hasta que llegó a Asgard por el tratado.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nacen Odín, Vili y Vé]]
 
 > Año 1148
 
 Tras su conversación con Odín, y su corta estancia en Asgard, Holger vuelve a viajar esta vez a Alfheim, con la idea de rebuscar en las bibliotecas de Heorot.
 
+---
+
+[[Holger regresa a Asgard]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año 963
 
 El destierro de Holger fue más difícil para él, pues ninguna familia lo acogió, y se vio de joven teniendo que apañárselas por sí mismo.
 
+---
+
+[[Destierro de los vástagos de Odín]]
+
 > Año ???
 
 Holger decide quedarse en Vidblain con el resto de dioses.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Se lleva a cabo el Consejo del Gimlé]]
 
 > Año 1153 - 1154
 
@@ -545,9 +845,17 @@ Hela le cuenta que Yves no ha vuelto desde que escapó, con cierta pena. Habland
 
 Se dispone a partir hacia Vanaheim entonces.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nacen los Vástagos del Caos]]
+
 > Año 997
 
-Holger vivirá la Guerra de los Dioses desde Asgard, viviendo las estrategias de guerra y oyendo los secretos y conversaciones que los dioses AEsir más poderosos tienen.
+Holger vivirá la Guerra de los Dioses desde Asgard, viviendo las estrategias de guerra y oyendo los secretos y conversaciones que los dioses Æsir más poderosos tienen.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]
 
 > Año 1165
 
@@ -644,13 +952,25 @@ Un impulsivo Sveinn lo agarra, pero Vilh lo disuade. Conversan, Holger les cuent
 
 Vilh y Holger conversan pacíficamente, hasta que Holger comenta algo sobre la esposa de Odín, una dulce diosa que llegó asustada a Asgard hace muchos años, y que ahora parece otra persona, su nombre es Frigg. Vilh recuerda a Freyja, y pregunta hace cuánto llegó aquella diosa, cuadrando en tiempo con el final de la Guerra de los Dioses, por lo que Vilh asumió que era efectivamente Freyja. No concebía aquel cambio de nombre y de personalidad que Holger le contaba, provocando en Vilh una duda constante sobre los motivos de aquello.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Holger, Vilh y Sveinn se conocen]]
+
 > Año 840
 
 Por razones desconocidas, se sabe que Hrungnir secuestra a Aurvandil, custodiándole hasta que Thor llegue y lo asesine, liberando a Aurvandil.
 
+---
+
+[[Nace Hrungnir]], [[Nace Aurvandil]]
+
 > Año 997
 
 Una vez los dioses Vanir se enteraron, pese a sus posibles diferencias con Gullveig, declararon una guerra de forma instantánea contra Asgard, con odio y venganza.
+
+---
+
+[[Muere Gullveig]]
 
 > Año 956
 
@@ -662,13 +982,29 @@ Con el Ragnarök a la vuelta de la esquina, los Vanir envían a la cabeza de Mí
 
 "Volvemos a vernos, viejo amigo, y más viejo enemigo." dice Odín.
 
+---
+
+[[Nacen Bestla, Mímir y su hermano]], [[Nacen Odín, Vili y Vé]]
+
 > Año 91
 
 Apenas se sabe cómo, tras la migración de Vé a Vanaheim, la raza de dioses Vanir surgió, pues hay lagunas colosales temporalmente hablando en su posible descendencia, y en la ascendencia de los dioses Vanir más antiguos conocidos.
 
+---
 
+[[Vé migra a Vanaheim]]
 
+> Año 91 en adelante
 
+---
+
+[[Nace Thrym]], [[Los descendientes de Ymir migran]]
+
+> Año 82 en adelante
+
+---
+
+[[Nacen Ask y Embla]]
 
 > Año 1085
 
@@ -682,13 +1018,25 @@ Cerca del final del invierno, la muralla, pese a ser descomunal, no estaba compl
 
 Unos meses después, Loki aparecería de nuevo, con un caballo joven, hijo de él y de Svidalfi, llamado Sleipnir, el cual tenía 8 patas, y se lo regalaría a Odín.
 
+---
+
+[[Nacen Freyja y Frey]], [[Nacen Sól y Máni]], [[Nacen Loki, Helblindi y Býlisteir]], [[Nacen Odín, Vili y Vé]], [[Final de la Guerra de los Dioses]]
+
 > Año 635
 
 Por motivos desconocidos, Logi a temprana edad se muda a Muspelheim a hacer una nueva vida, allí pasará el resto de su vida.
 
+---
+
+[[Nacen Ægir, Logi y Kári]]
+
 > Año 948
 
 Tras una larga estancia en Jötunheim, Loki conoció a Angrboda, del Bosque de Járnvid, con quien terminó engendrando a sus 3 hijos.
+
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]]
 
 > Año 861
 
@@ -696,17 +1044,33 @@ Loki, habituado a la vida del hurto, además con más razón tras quedarse solo,
 
 Allí, Odín salvó la vida a Loki, y viceversa más tarde mientras huían de Hár, lo que les hizo buenos amigos, llegando a hacer un extraño pacto de sangre, e invitando Odín a Loki a vivir en Asgard.
 
-> Año 873
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nacen Odín, Vili y Vé]]
+
+> Año 894
 
 Loki, con el fin de enmendar su broma, encarga a Brokk y a Sindri la fabricación de armas o utensilios para los dioses como regalo. Loki les dice que los Hijos de Ivaldi ya están en proceso, y que apuesta su cabeza por que ellos lo harían mejor.
 
-> Año 873
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Loki engaña a los Hijos de Ivaldi]], [[Nacen Brokk y Sindri]]
+
+> Año 893
 
 Loki, con el fin de enmendar su broma, encarga a los Hijos de Ivaldi la fabricación de armas o utensilios para los dioses como regalo.
 
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Loki le corta el pelo a Sif]]
+
 > Año 905
 
-Loki, conocedor de que el anillo estaba maldito, pero desconocedor de qué maldición se cerniría sobre él, aprovecha y le entrega el anillo al rey Hreidmar de los nibelungos, pues anteriormente había asesinado por error a su hijo Óder.
+Loki, conocedor de que el anillo estaba maldito, pero desconocedor de qué maldición se cerniría sobre él, aprovecha y le entrega el anillo al rey Hreidmar de los nibelungos, pues anteriormente había asesinado por error a su hijo Óter.
+
+---
+
+[[Loki roba el Anillo de Andvari]], [[Muere Óter]]
 
 > Año 1184
 
@@ -716,9 +1080,17 @@ Sigyn, su ex-esposa, que aún lo ama, va con él y le ayuda a llevar la penitenc
 
 Hela desconoce lo ocurrido, y de igual manera, le es imposible desapresarle una vez es conocedora de su penitencia en Niflheim (se lo cuenta Sigyn, que baja a Helheim para hablar con ella por petición de Loki), pues la atadura con las vísceras de Narfi es compleja, y con un ápice de magia de Odín que Hela no puede contrarrestar.
 
-> Año 873
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nace Sigyn]], [[Nacen Dváli y Narfi]]
+
+> Año 893
 
 Loki realiza una de sus mayores bromas, mientras Sif duerme y Thor vuelve de una de sus aventuras por Jötunheim, Loki se cuela en su palacio en Thrudheim y le corta el cabello dorado a Sif. Esto causa un revuelo inhumano en Asgard, y una furia demencial en Thor, obligando a Loki a enmendarlo.
+
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nace Síf]], [[Nace Thor]]
 
 > Año 1156
 
@@ -728,9 +1100,17 @@ Loki regresa a Asgard.
 
 Realmente, Loki fingía un perdón a Odín, incluso ofreciéndose a ayudar al deprimido balder.
 
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nacen Odín, Vili y Vé]]
+
 > Año 905
 
 Loki, al oir sobre aquel anillo, viaja a Svartalfheim con el fin de obtenerlo. Allí, trata de engañar a Andvari y lo consigue robar, pero Andvari, antes de que Loki se marchase con su obra maestra, realiza un rápido hechizo que maldice el anillo, provocando un deseo mayor que cualquier otra cosa por el anillo, cualquiera querría poseerlo y llegaría a extremos inimaginables por portarlo, anulando cualquier otro sentimiento o razón.
+
+---
+
+[[Andvari forja su obra maestra, el Anillo de Andvari]], [[Nacen Loki, Helblindi y Býlisteir]]
 
 > Año 946
 
@@ -752,10 +1132,18 @@ Odín expresó a Loki sus verdaderas intenciones y temores sobre la profecía, y
 
 Más adelante, Thor mismo preguntaría a Odín por qué lo dejó ir, a lo que Odín respondería: "Debe ser que se me olvidó el motivo por el que vino aquí y le cogí aprecio, por ello no culpo ni desapruebo su decisión."
 
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nace Thor]]
+
 
 > Año 862
 
 Durante 84 años, Loki viviría en Asgard, dejando ver su personalidad pilla y traviesa, con intenciones de sacar a la luz la personalidad más profunda de aquellos dioses que él conocía como tan pulcros y perfectos, pues sabía que debajo de aquella luminosidad, había cosas oscuras.
+
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]]
 
 > Año 976
 
@@ -763,27 +1151,52 @@ Tras su marcha de Asgard, y haber dejado a sus hijos en sitios que les permitan 
 
 No está casado con Angrboda, pues él sigue amando realmente a Sigyn.
 
+---
+
+[[Loki se marcha de Asgard]]
+
 > Año 870
 
-Tras un tiempo en Asgard, Loki se casa con Sigyn, una diosa AEsir.
+Tras un tiempo en Asgard, Loki se casa con Sigyn, una diosa Æsir.
+
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nace Sigyn]]
 
 > Año 1087
 
 Durante un hurto, Sveinn conoce a Loki, quien le dice que le recuerda a él de joven. Sveinn siempre ha tenido esta escena en la cabeza, pues nunca la entendió del todo bien, Loki lo miraba con cierto entraño, como si le conociese de antes y algún pesar se hubiese cernido sobre él en el pasado. Como si sintiese pena por él.
 
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
+
+1. Yves aparece encima del Valhalla, en el jardín que alberga el árbol Laerad, el árbol de las Manzanas de Idunn. Al pie del árbol, tranquilo, ve una sombra negra con figura humana tallar algo en una tablilla de madera. Al acercarse, Yves pregunta, y en vez de contestar, la sombra se disipa, dejando la tablilla de madera en el césped. Al Yves mirar la tablilla de madera, ve un símbolo que le es desconocido. Ahí despierta.
+2. Yves esta vez observa, sin tomar partido en este sueño. Está en un lugar alegre y brillante, muchas personas charlan en un prado, y unos niños juegan con un pequeño cachorro de lobo mientras sus padres los observan con amor y ternura en los ojos. En un momento dado, el lobo, juguetón, asusta a uno de los niños, provocando en él una angustia en cadena que escala tanto, que se convierte en una sombra destructiva, llegando a herir a varios en la escena y rompiendo algunas cosas. El que parece su padre corre hacia él y parece reducir esa oscuridad que ha cosumido al niño, volviendo a traerlo a su estado normal, pero desmayado. El padre parece preocupado, mira a su mujer, la cual está más preocupada aún, se podría decir que incluso asustada, pues ha estado estática desde el momento de la transformación, y continúa así, en un estado de shock. 
+3. Yves observa un episodio que parece ser de hace mucho tiempo ya que observa que hay unos elfos ligeramente diferente a como se conocen actualmente, más toscos. Ahí, Yves observa omniscientemente el rapto de Völund, y la forja de distintas armas en Midgard. Entre ellas, la espada de Lavatine, la cual observa cómo se queda en Midgard pese a que él huyese. Más tarde, tras su huida de Helheim, y llegando a Muspelheim, vería que Sinmara posee esa espada y hablaría del sueño.
+4. Yves observa la historia que Vilh cuenta a Sveinn sobre el final de la Guerra de los Dioses, y cómo Freyja tuvo que marcharse a Asgard. Primero, ve imágenes del pacto entre dioses, en el que los dioses AEsir negociaron con los representantes Vanir, Frey y Njörd. Después vio la despedida de Vilh y Freyja.
+5. ???
+6. Yves observa el sacrificio de Odín, entregando su ojo al Pozo de Mímir para beber de él. Tras beber Odín, Yves observa el resto de momentos en los que Odín ha bebido hidromiel de la poesía, como si el viaje mental que Odín ha realizado le afectase a él también, pero con distintos caminos, finalizando el sueño con la cabeza de Mímir cortada, pero hablante, y Odín volviendo a Asgard.
+7. Yves observa el Desastre de Vadstena, y cómo una joven mujer fue la que lo ejecutó. La vio hacerlo, llena de ira, toda una puoblación muriendo y sus casas siendo destruídas. Y tras ello, vio a aquella mujer triste, asustada, huir de allí.
+8. Yves observa la escena de los cantos que Gróa, muerta, le cantó a su hijo Svípdag cuando éste le pidió ayuda para su aventura. El sueño se centra especialmente en los 9 cantos, que componen los fundamentos del Galder.
+9. El último sueño, Yves ve el destierro de Odín a aquel niño
+
 > Año 80
 
-Tras la muerte de Ymir, sus descendientes vivos huyen a Niflheim.
+Tras la muerte de Ymir, sus descendientes vivos huyen a Niflheim
+
+---
+
+[[Muere Ymir]], [[Nacen Bestla, Mímir y su hermano]], [[Nace Bergelmir]]
 
 > Año 81
 
-Los descendientes de Ymir ([Bolthor](), [Bestla](), [Bergelmir](), [Esposa de Bergelmir]() y [Mímir]()), debido a la peligrosidad del terreno de Niflheim en los primeros momentos de la creación de los mundos por la formación de Helheim, migran hacia el nuevo mundo de Midgard.
+Los descendientes de Ymir (Bolthor, Bestla, Bergelmir, Esposa de Bergelmir (hermana de Bolthor) y Mímir), debido a la peligrosidad del terreno de Niflheim en los primeros momentos de la creación de los mundos por la formación de Helheim, migran hacia el nuevo mundo de Midgard.
 
-> Año 460
+---
 
-La guerra se muestra igualada, los gigantes y su fuerza bruta han destruido ya algunos reinos como el reino de Närke en algunas comandas de Bestla, pero la mayoría numérica de humanos les consigue refrenar.
-
-En vista de esto, los dioses AEsir de la época toman la decisión de intervenir, ayudando a los humanos.
+[[Los descendientes de Ymir huyen]], [[Creación de los 9 mundos]]
 
 > Año ???
 
@@ -791,9 +1204,23 @@ Tras despertar, los dioses consiguen llegar a lo que fueron sus antiguas tierras
 
 Allí, deciden formar un consejo que reúna a todos los supervivientes del Ragnarök, sin bandos.
 
+---
+
+[[Despiertan los supervivientes del Ragnarök]]
+
+> Año 460
+
+La guerra se muestra igualada, los gigantes y su fuerza bruta han destruido ya algunos reinos como el reino de Närke en algunas comandas de Bestla, pero la mayoría numérica de humanos les consigue refrenar.
+
+En vista de esto, los dioses AEsir de la época toman la decisión de intervenir, ayudando a los humanos.
+
 > Año 465
 
 Tras la gran guerra entre gigantes y humanos, muchos reinos se han perdido, y muchos otros están fuertemente afectados.
+
+---
+
+[[Final de la Guerra entre Humanos y Gigantes]]
 
 > Año 1201
 
@@ -803,19 +1230,33 @@ Líf y Lifthrásir son escondidos en un tronco de árbol del Bosque de Hodmímir
 
 Son los únicos supervivientes humanos.
 
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Perece la raza de los primeros humanos y los animales]]
+
 > Año 1074
 
 Una de las diosas Vanir obligada a vivir en Asgard por culpa del tratado que firmaron su hermano y su padre, era Freyja, viéndose obligada a abandonar a su esposo y su mundo.
 
 Por otra parte, Mímir y Hoenir se vieron obligados a vivir en Vanaheim. Mientras que Frey y Njörd vivieron en Asgard, algo buscaban de primeras, pues fueron parte del tratado de paz.
 
+---
+
+[[Nacen Freyja y Frey]], [[Nacen Bestla, Mímir y su hermano]], [[Nace Hoenir]], [[Nace Njörd]], [[Final de la Guerra de los Dioses]]
+
 >Año 103
 
 En cierto punto de aquel periodo en el que los gigantes convivieron en Midgard junto a la raza de los humanos, ya cuando la tensión era alta y la guerra era palpable, muchos gigantes renegaron de aquello y decidieron migrar al entonces inhabitado mundo de Alfheim, donde formaron un reino diferente en un entorno natural muy diferente al de Midgard.
 
+---
+
+[[La raza de los gigantes crece]]
+
 > Año 118
 
 En cierto punto de aquel periodo en el que los gigantes convivieron en Midgard junto a la raza de los humanos, ya cuando la tensión era alta y la guerra era palpable, muchos gigantes renegaron de aquello y decidieron migrar al próspero Asgard junto con los dioses AEsir, donde engendraron a algunos de los dioses más importantes y esenciales de los comienzos de la raza AEsir.
+
+---
+
+[[La raza de los gigantes crece]]
 
 
 > Año 465
@@ -824,11 +1265,19 @@ Tras la guerra entre humanos y gigantes, muchos gigantes se vieron obligados a m
 
 Seguían a Bolthor en aquel exilio, como líder de los gigantes que tomaron ese camino.
 
+---
+
+[[Final de la Guerra entre Humanos y Gigantes]]
+
 > Año 465
 
 Tras la guerra entre humanos y gigantes, muchos gigantes se vieron obligados a migrar al inhóspito y violento mundo de Muspelheim, mundo que poblaron así como su orografía lo permitió.
 
 Seguían a Surt en aquel exilio, como líder de los gigantes que tomaron ese camino.
+
+---
+
+[[Final de la Guerra entre Humanos y Gigantes]]
 
 > Año 992
 
@@ -846,19 +1295,41 @@ Skjalv pide a Agne un funeral digno a su padre. En dicho funeral, Agne se emborr
 
 Le sucederían, por primera vez en la historia de la humanidad, 2 reyes al mismo tiempo, sus hijos Alric y Eric.
 
+---
+
+[[Nace Agne]], [[Nace Visbur]], [[Nacen Alric y Eric]]
+
+> Año 988
+
+Durante la guerra entre los reinos de Solor y Ringerike, Alberich sería asaltado por una guarnición de Solor y asesinado en su propia herrería.
+
 > Año 968
 
 Thor engaña a Alvíss en una prueba de sabiduría, forzándola a que dure hasta la luz del día y así petrificar al enano. De esta manera, Alvíss muere.
 
+---
+
+[[Nace Alvíss]], [[Nace Thor]]
+
 > Año 1163
 
 Muere Andvari por una enfermedad en Alfheim, llevando una vida tranquila y feliz.
+
+Nunca supo que su hermano murió hace 175 años ni en qué circunstancias.
+
+---
+
+[[Nace Andvari]]
 
 > Año 946
 
 Aurvandil morirá tras bastantes años desde la muerte de su amada Gróa. Unos asumen que fue por la pena que esto le trajo, otros por un accidente fatal.
 
 Se sabe que en ausencia de Gróa, educó a Svípdag en el arte del combate, y le inculcó el amor por su madre y todo lo bueno que había hecho en su vida.
+
+---
+
+[[Nace Aurvandil]]
 
 > Año 1183
 
@@ -868,27 +1339,51 @@ Al alcanzarle la flecha, Nanna, que también estaba en el palacio observa horror
 
 Es el primer presagio que confirma que la profecía del Ragnarök puede ser correcta.
 
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Loki regresa a Asgard]], [[Nacen Balder y Hoder]], [[Comienzan las pesadillas de Balder]], [[Nace Nanna]]
+
 > Año 981
 
 Asesinado por el dios Frey, por motivos desconocidos, el dios Vanir se ve en la obligación de asesinar al hermano de su amada con una cornamenta de ciervo, pues ya había entregado su espada a su sirviente, Skirnir, para enviársela a Gerd y así cortejarla.
 
+---
+
+[[Nacen Freyja y Frey]], [[Nacen Gerd y Beli]]
+
 > Año 464
 
-Al igual que su prima Bestla, Bergelmir muere en combate contra los AEsir. Su mujer huye, siendo una de las primeras en comandar la huida de los gigantes a Jötunheim junto con su hermano Bolthor.
+Al igual que su prima Bestla, Bergelmir muere en combate contra los Æsir. Su mujer huye, siendo una de las primeras en comandar la huida de los gigantes a Jötunheim junto con su hermano Bolthor.
+
+---
+
+[[Nace Bergelmir]], [[Nacen Bolthor y su hermana]]
 
 > Año 463
 
-Muere Bestla en combate contra los dioses AEsir.
+Muere Bestla en combate contra los dioses Æsir.
+
+---
+
+[[Nacen Bestla, Mímir y su hermano]]
 
 > Año 601
 
 Bolthor muere por causas naturales, y Mímir, quien debería sucederle por las leyes establecidas en el Reino de Utgard, se niega a gobernar y apoya el movimiento del Jötun Thrym de unificar el gobierno de Jötunheim, pese a la existencia de distintos reinos y ciudades.
 
-De esta manera, Thrym se declara rey de Jötunheim
+De esta manera, Thrym se declara rey de Jötunheim.
+
+---
+
+[[Nacen Bolthor y su hermana]], [[Nace Thrym]], [[Nacen Bestla, Mímir y su hermano]]
 
 > Año 77
 
 Luchando árduamente durante muchos años, finalmente las fuerzas de Bor no pudieron contener más a Ymir y a sus descendientes, terminando en su muerte.
+
+---
+
+[[Nace Bor]], [[Muere Buri]]
 
 > Año 932
 
@@ -898,43 +1393,65 @@ Muere Budli tras un reinado mucho más pacífico que el de su padre. Le suceder�
 
 Poco después de comenzar la guerra, y tras luchar durante 1 año contra un incansable Ymir, las fuerzas de Buri fueron apagándose hasta que finalmente Ymir lo devoró.
 
+---
+
+[[Nace Buri]], [[Ymir devora a Audumbla]]
+
 > Año 655
 
 Dag, pese a ser el rey más sabio, declaró la guerra a Götaland, suponiéndole su muerte. Durante los siguientes años, el Reino de Upsal culparía al Reino de Fin por no ayudarles en aquella guerra, pues consideran que con ellos habrían podido luchar de manera más igualada.
+
+---
+
+[[Nace Dag]]
 
 > Año ???
 
 Delling, el amado esposo de Nótt muere en batalla asesinado por Skadi de la cual más tarde Nótt se venga.
 
+---
+
+[[Nace Delling]], [[Nace Skadi]]
+
 > Año 577
 
 Muere Domald asesinado por su pueblo, debido a las hambrunas y enfermedades que estaban pasando. Su hijo, Domar, lo sucedería.
+
+---
+
+[[Nace Domald y muere Visbur]]
 
 > Año 634
 
 Tras un largo reinado pacífico, Domar moriría de viejo. Le sucedería su hijo, Dygve, como rey de Upsal.
 
+---
+
+[[Nace Domar]], [[Nace Dygve]]
+
 > Año 648
 
 Al igual que su padre, el reinado de Dygve fue pacífico, pero no duró tanto, pues cuando su padre murió, Dygve ya era demasiado mayor, y reinó hasta que la muerte se lo llevó. Le sucedería su hijo, Dag, en el reinado de Upsal.
+
+---
+
+[[Nace Dygve]], [[Nace Dag]]
 
 > Año 893
 
 De formas desconocidas, aunque se rumorea que Fjalar y Galar tuvieron algo que ver, Dáinn aparece muerto en su propia forja en Nidavellir.
 
-> Año 73
+---
 
-Al comienzo de la guerra, muere la hija de nombre desconocido de Bolthor a manos de Bor.
-
-> Año 852
-
-Una noche, el padre de Gullveig es secuestrado y llevado a un bosque cercano, donde lo inmovilizaron con grilletes y lo asesinaron. Tras este suceso, aquel bosque fue llamado "Bosque de los Grilletes".
-
-Quién perpetró ese asesinato fue Lytir, el primer dios Vanir del que se tiene registro y gobernador de las tierras de Svíthjod, el norte de Vanaheim. Lytir odiaba la magia y creía que traería la mayor de las desgracias. Se rumorea que no lo hizo solo, y muchos rumores apuntaban a un dios humano que lo ayudó, el dios Gram.
+[[Nace Dáinn]], [[Nacen Fjalar y Galar]]
 
 > Año ???
 
 Al ver la muerte de su padre, Odín, Vidar se dirige furioso a Fenrir, un Fenrir cansado, que no puede con la furia de Vidar, el cual le abre la mandíbula con su cuerpo.
+
+---
+
+[[Nacen los Vástagos del Caos]], [[Nace Vidar]]
 
 > Año ???
 
@@ -944,35 +1461,65 @@ Moriría al poco de poder despertar, en los brazos de su amado Vilh. Antes de mo
 
 Con esto, la única diosa Vanir viva sería Gefjun.
 
+---
+
+[[Nacen Freyja y Frey]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Gefjun]]
+
 > Año ???
 
 Tras muchos años desde el Consejo del Gimlé, Gefjun moriría por su elevada edad. Esto simbolizaría el final de la raza de dioses Vanir, pues como en su vida antes del Ragnarök, no contrajo matrimonio ni tuvo descendencia alguna.
+
+---
+
+[[Nace Gefjun]]
 
 > Año ???
 
 Muere Glaur, hija de Surt y Sinmara, ante los ojos de quien fue su amigo, Yves.
 
+---
+
+[[Nace Glaur]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Vali]]
+
 > Año 820
 
 Muere Grim, rey de Grimsgard, sin dejar sucesión. Suceden algunas guerras civiles en Grimsgard de menor importancia, pues no es un pueblo especialmente bélico.
 
+---
+
+[[Nace Grim]]
+
 > Año 900
 
-Tras Gróa dejar a Thor con el fragmento de piedra incrustado en la cabeza, los AEsir organizan un asalto a la maga, asesinándola. Esto ocurre con Svípdag siendo aún un infante.
+Tras Gróa dejar a Thor con el fragmento de piedra incrustado en la cabeza, los Æsir organizan un asalto a la maga, asesinándola. Esto ocurre con Svípdag siendo aún un infante.
+
+---
+
+[[Nace Gróa]]
 
 > Año 996
 
-Un día, sin esperárselo nadie, los dioses AEsir irrumpieron en la aldea de Gullveig, secuestrándola y llevándosela a Asgard.
+Un día, sin esperárselo nadie, los dioses Æsir irrumpieron en la aldea de Gullveig, secuestrándola y llevándosela a Asgard.
 
-Allí, los dioses AEsir la ataron e inmovilizaron en una pira, donde la prendieron fuego 3 veces, sin conseguir matarla. En vista de que el fuego no le hacía nada, Odín, que no estaba presente, bajó de su palacio con su lanza Gungnir y se acercó a la pira, donde miró fijamente a la diosa Vanir. Ésta le dijo:
+Allí, los dioses Æsir la ataron e inmovilizaron en una pira, donde la prendieron fuego 3 veces, sin conseguir matarla. En vista de que el fuego no le hacía nada, Odín, que no estaba presente, bajó de su palacio con su lanza Gungnir y se acercó a la pira, donde miró fijamente a la diosa Vanir. Ésta le dijo:
 
 "Huye todo lo que quieras del destino, Odín. Te estrellarás con él de todas formas."
 
 Odín hundió la lanza Gungnir en la frente de Gullveig, acabando con su vida.
 
+Antes de todo esto, Gullveig maldijo a Odín. Uno de sus futuros hijos, no iba a saber cuál hasta descubrirlo, sufriría las pesadillas del Fjölkyng una vez la Sombra escapase de su cautiverio.
+
+---
+
+[[Nace Gullveig]], [[Nacen Odín, Vili y Vé]], [[Se forjan las armas y artilugios de los Æsir]]
+
 > Año 910
 
 Moriría Gunnar a manos de Brynhild. Debido a que Gunnar no tuvo hijos, una guerra civil sucedió en Karlaug durante los próximos 34 años hasta que Solor tome Karlaug de nuevo.
+
+> Año 875
+
+Muere Hadding, rey fundador del reino de Solor, sucediéndole en el trono su hijo, Ingeld, que sentenciaría al reino a uno de los reinados más oscuros y autoritarios jamás vistos.
 
 > Año 891
 
@@ -984,11 +1531,23 @@ De igual manera que Vidar, Heimdall se enfurece ante la muerte de su padre, y se
 
 Vilh finalmente matará a Heimdall haciendo crecer de su estómago un enorme árbol que destrozará su cuerpo.
 
+---
+
+[[Nace Heimdall]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
+> Año 988
+
+Durante la Batalla del hielo del lago Vänern, Heime moriría asesinado por guerreros de Solor.
+
 > Año 841
 
 Muere Hildur de elevada edad. Le sucedería en el trono su único hijo fiel, Gudröd, pues los demás detestaban la corona. Hecho que se vería más adelante reflejado en la Rebelión de Solor.
 
-> Año 969
+---
+
+[[Nace Hildur]], [[Nacen los hijos de Raum y Hildur]]
+
+> Año 979
 
 Muere Hjarrandi debido a su elevada edad, sucediéndole en el trono su nieto Onela.
 
@@ -996,19 +1555,35 @@ Muere Hjarrandi debido a su elevada edad, sucediéndole en el trono su nieto One
 
 Muere Hoenir por una extraña enfermedad, lo que deja a Vanaheim sin un lider claro. Muchos Vanir proponen que la cabeza de Mímir sea su líder, pues su sabiduría es la mayor de todos los mundos. Odín lo permite.
 
+---
+
+[[Nace Hoenir]], [[Nacen Bestla, Mímir y su hermano]]
+
 > Año 915
 
 Completamente consumidos por la maldición del anillo, los hijos restantes del rey Hreidmar de los nibelungos, Fafnir y Regin, lo asesinan para quedarse con el anillo.
 
 Fafnir lo quería para él, así que se convirtió en dragón y evitó a Regin, escapando con el tesoro.
 
+---
+
+[[Loki entrega el Anillo de Andvari a Hreidmar]], [[Nacen Óter, Regin y Fafnir]], [[Nace Hreidmar]]
+
 > Año 936
 
 Muere Högni debido a una extraña enfermedad, sucediéndole en el trono de Solor su hijo, Adils.
 
+> Año 891
+
+Muere Ingeld, rey autoritario del Reino de Solor, sucediéndole en el trono el legendario rey Agnar, que trajo al reino épocas de mayor luz, pese a su prematura muerte, impidiéndole continuar su gran reinado.
+
 > Año ???
 
 Thor y Jörmungander, eternos rivales, lucharán durante casi todo el Ragnarök, casi de forma ajena al resto de la batalla. Thor, lanzando su martillo, y extremadamente cansado ya, atravesará la cabeza de la serpiente, matándola.
+
+---
+
+[[Nace Thor]], [[Nacen los Vástagos del Caos]], [[Se forjan las armas y artilugios de los Æsir]]
 
 > Año 721
 
@@ -1016,26 +1591,46 @@ Debido a su sabiduría, los codiciosos hermanos enanos Fjalar y Galar lo invitar
 
 Esta hidromiel se distribuiría, por mala gestión de los hermanos enanos, en 3 calderos, de los cuales solo uno de ellos lo poseerían ellos mismos hasta vendérselo a Suttung a cambio de sus vidas.
 
+---
+
+[[Nacen Fjalar y Galar]], [[Nace Kvasir]], [[Nace Suttung]]
+
 > Año 845
 
 A temprana edad de Loki y sus hermanos, Laufey muere, debido a la extrema pena que sentía, apenas comía ni hacía ningún tipo de actividad, lo que causó su rápida muerte.
 
 Loki vivirá solo, pues sus hermanos se van de casa a buscarse otra vida, lo que hace que ya no se sepa apenas más de ellos.
 
+---
+
+[[Nace Laufey]]
+
 
 > Año ???
 
 El antepenúltimo jötun vivo del Ragnarök se dará por muerto, no se sabe exactamente cuando, pero durante el letargo tras el Ragnarök.
 
-> Año 858
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]]
+
+> Año 856
 
 Gullveig, vagando por Vanaheim, acaba en la región norteña de Vanaheim, Svíthjod. Allí, se encuentra con Lytir, que recuerda por sus pesadillas, siendo el asesino del padre de Gullveig.
 
 Durante la noche, Lytir volvía a su casa, cuando Gullveig lo asaltó, llena de ira. Destrozó su cuerpo y dejó sus restos en la plaza del pueblo, con runas pintadas en los adoquines. Runas que jamás pudieron ser interpretadas, pues los lugareños las limpiaron con presteza, ya que cualquier clase de magia era aún muy mal vista en aquella tierra, y temían que esas runas trajesen peor augurio.
 
+---
+
+[[Nace Gullveig]], [[Nace Lytir]]
+
 > Año ???
 
 Despedazado por 2 jötun, muere Njörd, tras haber tratado de asesinar a la diosa de la muerte y ver su objetivo frenado por el enano Sindri.
+
+---
+
+[[Nacen los Vástagos del Caos]], [[Nace Njörd]], [[Nacen Brokk y Sindri]], [[Sindri salva la vida a Hela]]
 
 > Año 821
 
@@ -1045,9 +1640,19 @@ Muere Nór, hijo de Thorri, sucediéndole en el trono de Götaland y Kveland su 
 
 Fenrir, cabalgado por Yves transformado en Fjölkyng, se acerca al dios Odín. Yves se baja de Fenrir, y lucha contra Odín junto a Fenrir. Gracias a Yves, que distrae a Odín, Fenrir le clava sus fauces, hiriéndole letalmente.
 
+El combate entre Odín e Yves se da entre Gungnir y Lavatine, una batalla histórica entre dos de las armas más poderosas jamás fabricadas.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nacen Odín, Vili y Vé]], [[Nacen los Vástagos del Caos]], [[Völund y sus hermanos son secuestrados]], [[Se forjan las armas y artilugios de los Æsir]]
+
 > Año 988
 
 En la Batalla del hielo del lago Vänern, Onela morirá.
+
+> Año 981
+
+Muere Ortnit debido a una enfermedad y a la debilidad de su cuerpo por su elevada edad. Alberich pasaría con su mejor amigo sus últimos momentos.
 
 > Año ???
 
@@ -1069,37 +1674,65 @@ Muere Ring a causa de una enfermedad, lo sucedería en el trono de Ringerike su 
 
 Por causas desconocidas, Rán muere.
 
+---
+
+[[Nace Rán]]
+
 > Año 1231
 
 Sveinn comienza la batalla lanzando su hacha directamente hacia la cabeza de Sif, atravesándole el cráneo y provocando una ira desmedida a Thor.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Síf]], [[Nace Thor]]
+
 > Año ???
 
-Muere Sigyn, una de las últimas dioses AEsir, a su elevada edad, debido a la ausencia de Manzanas de Idunn.
+Muere Sigyn, una de las últimas dioses Æsir, a su elevada edad, debido a la ausencia de Manzanas de Idunn.
+
+---
+
+[[Nace Sigyn]]
 
 > Año 1153
 
-Cuando llega a los oidos de los AEsir la huida de Yves de su penitencia en Helheim, saltan las alarmas, y tras cierta investigación, descubren que su partida acabó en Muspelheim, por lo que mandan a una guarnición pequeña (pues Muspelheim es un mundo que no se presta a grandes ejércitos) liderada por Thor.
+Cuando llega a los oidos de los Æsir la huida de Yves de su penitencia en Helheim, saltan las alarmas, y tras cierta investigación, descubren que su partida acabó en Muspelheim, por lo que mandan a una guarnición pequeña (pues Muspelheim es un mundo que no se presta a grandes ejércitos) liderada por Thor.
 
-Allí, con objetivo de proteger a Yves, Surt, Sinmara y Glaur luchan contra los AEsir mientras Yves está oculto en el palacio escuchando la batalla.
+Allí, con objetivo de proteger a Yves, Surt, Sinmara y Glaur luchan contra los Æsir mientras Yves está oculto en el palacio escuchando la batalla.
 
-Escuchando la escena, Yves se comienza a alterar, nota que no puede controlar del todo sus impulsos y su ira. Cuando escucha un grito desesperado de Surt diciendo "Sinmara", Yves pierde totalmente el control y se transforma en aquella figura sombría, avalanzándose sobre el ejército AEsir, e hiriendo a Thor junto a un furioso Surt que lo acompañaba. Mientras tanto, Glaur socorría a una moribunda Sinmara.
+Escuchando la escena, Yves se comienza a alterar, nota que no puede controlar del todo sus impulsos y su ira. Cuando escucha un grito desesperado de Surt diciendo "Sinmara", Yves pierde totalmente el control y se transforma en aquella figura sombría, avalanzándose sobre el ejército Æsir, e hiriendo a Thor junto a un furioso Surt que lo acompañaba. Mientras tanto, Glaur socorría a una moribunda Sinmara.
 
 Finalmente, tras Thor tener que huir, Sinmara muere en los brazos de un roto Surt.
+
+---
+
+[[Nace Surt]], [[Nace Sinmara]], [[Nace Glaur]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Surt y Sinmara reciben a Yves]], [[Nace Thor]]
 
 > Año ???
 
 Nótt se venga del asesinato de su amado esposo, Delling, asesinando a su verdugo, la jötun Skadi.
 
+---
+
+[[Nace Skadi]], [[Nace Nótt]]
+
 > Año 736
 
 Muere Snaer, y le sucede Thorri como rey de Götaland.
+
+---
+
+[[Nace Snaer]], [[Nace Thorri]]
 
 > Año ???
 
 Probablemente el último ser activo de todo el Ragnarök, ya habiendo consumido todas sus fuerzas, toda su vida, toda su voluntad, un Surt casi tan grande como lo fue Ymir se desploma sobre la amalgama caótica que él mismo ha formado con el Yggdrasil.
 
-La espada flamígera de su mujer, Lavatine, quedaría clavada en una gran y joven montaña recién formada.
+La espada flamígera quedaría clavada en una gran y joven montaña recién formada.
+
+---
+
+[[Perece la raza de los Muspel]], [[Nace Surt]]
 
 > Año ???
 
@@ -1107,13 +1740,25 @@ Sveinn moriría por su elevada edad, de forma tranquila, en su cabaña al norte 
 
 Tuvo descendencia con humanos, desconociéndose exactamente los nombres de estos.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Sveinn y Vilh migran a Midgard]]
+
 > Año 503
 
-Muere Swegde, por lo que Vanladi hereda el trono de Upsal.
+Muere Swegde, por lo que Vanladi hereda el trono de Upsal, aunque su madre lo regenta pues Vanladi tiene aún 4 años de edad.
+
+---
+
+[[Nace Swegde]], [[Nace Vanladi]], [[Se funda el Reino de Upsal]]
 
 > Año 634
 
-Tras el rapto de Idunn, y el contrarapto de Loki de la diosa para devolverla a Asgard, Thjazi persigue a Loki en forma de águila, llegando hasta Asgard, donde los AEsir lo matan con flechas.
+Tras el rapto de Idunn, y el contrarapto de Loki de la diosa para devolverla a Asgard, Thjazi persigue a Loki en forma de águila, llegando hasta Asgard, donde los Æsir lo matan con flechas.
+
+---
+
+[[Nacen Thjazi, Idi y Gang]], [[Nacen Loki, Helblindi y Býlisteir]]
 
 > Año ???
 
@@ -1121,13 +1766,33 @@ Thor y Jörmungander, eternos rivales, lucharán durante casi todo el Ragnarök,
 
 Thor dará 8 pasos, y morirá al noveno.
 
+---
+
+[[Nace Thor]], [[Nacen los Vástagos del Caos]], [[Se forjan las armas y artilugios de los Æsir]]
+
 > Año 773
 
 Muere Thorri, sucediéndole en el reinado de Götaland y Kvenland su hijo, Nór.
 
+---
+
+[[Nace Nór]], [[Nace Thorri]]
+
 > Año 80
 
 Muere Thrudgelmir ahogado por la sangre de Ymir tras morir.
+
+---
+
+[[Nace Thrudgelmir]], [[Muere Ymir]]
+
+> Año ???
+
+Tras asesinar a Glaur, Vali moriría a manos de Yves, que le clavaría repetidas veces la espada Lavatine que Glaur portaba, heredada de su madre, Sinmara. Durante el resto del combate, Yves llevará esa espada, ya que Muspelheim e Yves están muy unidos.
+
+---
+
+[[Nace Vali]], [[Nacen Vilh, Yves, Sveinn y Holger]]
 
 > Año 521
 
@@ -1135,9 +1800,9 @@ Muere Vanladi en extrañas circunstancias durante una batalla. Algunos rumorean 
 
 Visbur heredaría el trono de Upsal entonces.
 
-> Año ???
+---
 
-Tras asesinar a Glaur, Vidar moriría a manos de Yves, que le clavaría repetidas veces la espada Lavatine que Glaur portaba, heredada de su madre, Sinmara. Durante el resto del combate, Yves llevará esa espada, ya que Muspelheim e Yves están muy unidos.
+[[Nace Vanladi]], [[Nace Visbur]], [[Se funda el Reino de Upsal]]
 
 > Año ???
 
@@ -1145,27 +1810,67 @@ Vilh moriría por su elevada edad, de forma tranquila, en su hogar en Midgard.
 
 Sería enterrado en el jardín de su casa junto al cadáver de Freyja, que murió tras el Ragnarök. Vilh la llevó con él y la enterró en la que sería su casa en su nueva vida en Midgard.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Muere Freyja]], [[Sveinn y Vilh migran a Midgard]]
+
 > Año ???
 
 No mucho después del Consejo del Gimlé, debido a su elevada edad y a la ausencia de Manzanas de Idunn, Vili sería el primer dios en morir de forma natural tras el Ragnarök.
+
+---
+
+[[Nacen Odín, Vili y Vé]], [[Despiertan los supervivientes del Ragnarök]]
 
 > Año 464
 
 Se desconoce cómo Vé pudo morir, si bien la esperanza de vida de los dioses es menor que la de los gigantes, todo apunta a que Vé se negó a comer las Manzanas de Idunn que mantenían con vida a los demás dioses y quiso morir de forma natural.
 
+---
+
+[[Nacen Odín, Vili y Vé]], [[Vé migra a Vanaheim]]
+
 > Año 624
 
-Völund, ya consumido por su oscuridad y su odio, comienza a cometer errores en combate, lo que le cuesta la vida en plena batalla.
+Völund, ya consumido por su oscuridad y su odio, comienza a cometer errores en combate, lo que le cuesta la vida en plena batalla. Witige, su amigo más cercano, lo ve morir, sintiendo una gran pena en su interior, pero sin una reacción muy grande, pues sabía que la oscuridad simbolizaría su muerte.
 
-Esta es la primera vez que la espada Lavatine deja de tener portador, y pasará a otro en el futuro.
+---
+
+[[Comienzo de la Guerra de los Dos Mundos]], [[Völund y sus hermanos son secuestrados]]
 
 > Año 80
 
 Tras una guerra de 7 años, Ymir sería derrotado por los últimos descendientes de Buri, Odín, Vili y Vé.
 
+---
+
+[[Nace Ymir]], [[Muere Buri]]
+
+> Año 73
+
+Al comienzo de la guerra, muere el hijo de nombre desconocido de Bolthor a manos de Bor.
+
+---
+
+[[Nacen Bestla, Mímir y su hermano]]
+
+> Año 852
+
+Una noche, el padre de Gullveig es secuestrado y llevado a un bosque cercano, donde lo inmovilizaron con grilletes y lo asesinaron. Tras este suceso, aquel bosque fue llamado "Bosque de los Grilletes".
+
+Quién perpetró ese asesinato fue Lytir, el primer dios Vanir del que se tiene registro y gobernador de las tierras de Svíthjod, el norte de Vanaheim. Lytir odiaba la magia y creía que traería la mayor de las desgracias. Se rumorea que no lo hizo solo, y muchos rumores apuntaban a un rey humano que lo ayudó, el rey Gram.
+
+---
+
+[[Nace Lytir]]
+
 > Año 903
 
 Muere Óter a manos de Loki por error, seguramente durante un hurto.
+
+---
+
+[[Nacen Óter, Regin y Fafnir]], [[Nacen Loki, Helblindi y Býlisteir]]
 
 > Año 675
 
@@ -1173,9 +1878,17 @@ Alric y Eric eran grandes jinetes, pero sus constantes competencias les llevó a
 
 Les sucederían en el trono Yngve y Alf, hijos de Alric.
 
+---
+
+[[Nacen Alric y Eric]], [[Nacen Yngve y Alf]]
+
 > Año 950
 
 Tras tantos años y siglos de asesinatos, los crueles Fjalar y Galar son encontrados muertos en Nidavellir, las causas son desconocidas.
+
+---
+
+[[Nacen Fjalar y Galar]]
 
 > Año 698
 
@@ -1184,6 +1897,10 @@ Los elfos oscuros Fjalar y Galar, unos hermanos conocidos por sus asesinatos a l
 A la vuelta, anunciaron cerca de la casa de Gilling y su esposa la muerte de Gilling, lo que hizo que su esposa saliese preocupada a ver qué había ocurrido. Nada más salir de su casa, una trampa preparada arrojó sobre su cabeza una rueda de un molino, acabando con su vida.
 
 Suttung, hijo de la difunta pareja, juró vengarse, pero los elfos, que poseían uno de los calderos de hidromiel de la poesía, hicieron un trato y Suttung lo aceptó, siendo él a partir de ahora su nuevo dueño.
+
+---
+
+[[Nacen Fjalar y Galar]], [[Nace Gilling]]
 
 > Año 934
 
@@ -1203,11 +1920,23 @@ Tras cientos de años, el cometido de los hijos de Fenrir, Sköll y Háti, llega
 
 Es el tercer y último presagio que confirma la profecía del Ragnarök.
 
+---
+
+[[Nacen Sköll y Háti]], [[Odín manda a Sköll y a Háti a controlar a Sól y a Máni]], [[Nacen Sól y Máni]]
+
 > Año 693
 
 La mujer de Alf, Bera, se sentía atraída por su hermano, lo que puso celoso a Alf, hasta el punto de empalar un día con la espada a su propio hermano delante de los ojos de Bera. Pese a ello, Yngve consiguió asesinar a Alf también en el momento. Los dos serían enterrados en Fyrisvold.
 
 Los sucedería Hugleik, el único hijo de Alf.
+
+---
+
+[[Nacen Yngve y Alf]]
+
+> Año ???
+
+Ver [[Magia del Ginnungagap]].
 
 > Año ???
 
@@ -1219,17 +1948,25 @@ Como consejero, ya que a Mímir le gustaban poco los AEsir, fue nefasto. Era pre
 
 En vista de que la guerra estaba perdida, los generales elfos oscuros Mótsognir y Durin huyen al mundo de Svartalfheim, en aquel momento inhabitado por cualquier forma de vida.
 
+---
+
+[[Final de la Guerra de los Dos Mundos]]
+
 > Año 901
 
 Nace Adils, hijo de Högni y heredero del Reino de Solor y legendario guerrero que salió victorioso de la mayor batalla de Midgard después de la guerra entre hombres y gigantes.
 
 > Año 863
 
-Nace Agnar, nieto de Hadding, y heredero del Reino de Solor. Se desconoce quién fue su padre, el verdadero hijo de Hadding, pues reinó de forma autoritaria y pocos registros quedan de aquella época. Agnar cambió eso, y pese a su política belicista, es menos autoritario.
+Nace Agnar, nieto de Hadding, y heredero del Reino de Solor. Su padre fue Ingeld, que reinó de forma autoritaria, siendo un notable guerrero. Agnar cambió eso en su reinado, y pese a su política belicista, es menos autoritario.
 
 > Año 633
 
 Nace Agne, hijo de Dag, heredero del Reino de Upsal.
+
+---
+
+[[Nace Dag]]
 
 > Año 882
 
@@ -1245,15 +1982,23 @@ Nace Andvari, un enano nibelungo que rechaza la minería, pues gusta más de la 
 
 > Año 965
 
-Nace Annar, un dios AEsir.
+Nace Annar, un dios Æsir.
 
 > Año 964
 
-Nace Aud, hijo de Nótt y Naglfari, dios AEsir.
+Nace Aud, hijo de Nótt y Naglfari, dios Æsir.
+
+---
+
+[[Nótt y Naglfari se casan]]
 
 > Año 2
 
 Nace Audumbla, la vaca cósmica.
+
+---
+
+[[Formación de la Amalgama Primordial]]
 
 > Año 653
 
@@ -1267,9 +2012,17 @@ Nace Aurvandil, un jötun.
 
 Nace Baugi, hermano de Suttung, el cual le traiciona aliándose con Odín y ayudándole a taladrar la montaña donde está esconduda la hidromiel de Suttung.
 
+---
+
+[[Nace Suttung]]
+
 > Año 37
 
 Thrudgelmir era capaz de reproducirse autónomamente, como su padre, y engendró a Bergelmir.
+
+---
+
+[[Nace Thrudgelmir]]
 
 
 
@@ -1277,11 +2030,19 @@ Thrudgelmir era capaz de reproducirse autónomamente, como su padre, y engendró
 
 Buri, de formas desconocidas, engendra por sí mismo a su único hijo, Bor.
 
+---
+
+[[Nace Buri]]
+
 > Año 801
 
 Fruto de la violación de Odín a Gunnlod cuando este quería robar hidromiel. No se sabe con certeza si fue violación, o una seducción de Gunnlod que realmente se sentía atraida por él.
 
 Es el dios de la poesía.
+
+---
+
+[[Nacen Odín, Vili y Vé]], [[Nace Gunnlod]]
 
 > Año 883
 
@@ -1299,37 +2060,65 @@ Nace Budli, hijo del rey Halfdan el Viejo y heredero del Reino unificado de Ring
 
 Nace Buri, de forma humanoide y con cabellos de oro, fruto de la mezcla de la leche de Audumbla con la amalgama primordial y un poco de sudor del creciente Ymir.
 
+---
+
+[[Formación de la Amalgama Primordial]], [[Audumbla crea 4 ríos de leche]]
+
 > Año 601
 
 Nace Dag, hijo de Dygve y heredero al trono de Upsal.
+
+---
+
+[[Nace Dygve]]
 
 > Año 1150
 
 Nace Dagr, el último hijo de Nótt, fruto de Nótt y de Delling.
 
+---
+
+[[Nótt y Delling se casan]]
+
 > Año 901
 
-Nace Delling, un dios AEsir.
+Nace Delling, un dios Æsir.
 
 > Año 537 - 550
 
 Nace Domald, hijo de Visbur y una nueva esposa que tomó tras abandonar a Aude. Será heredero real al trono de Upsal.
 
-Al mismo tiempo que nace Domald, Gisle y Ond demandan su herencia, por lo que asesinan quemando vivo a Visbur antes de que éste pudiera ver a su hijo.
+Al mismo tiempo que nace Domald, Gisle y Ond demandan su herencia, por lo que asesinan quemando vivo a Visbur y a su esposa antes de que éste pudiera ver a su hijo.
 
-Pese a todo, Gisle y Ond son ejecutados por el ejército, y Domald se procalama rey, tras una regencia de 13 años.
+Pese a todo, Gisle y Ond son ejecutados por el ejército, y Domald se procalama rey, tras una regencia de 13 años por parte del general del ejército.
+
+---
+
+[[Nace Visbur]], [[Nacen Gisle y Ond]]
 
 > Año 567
 
 Nace Domar, hijo de Domald, y heredero al trono de Upsal.
 
+---
+
+[[Nace Domald y muere Visbur]]
+
 > Año 500
 
 Nace Drífa, la hija de Snaer que se casará con Vanlandi, el rey de Upsal.
 
+---
+
+[[Nace Snaer]], [[Nace Vanladi]], [[Se funda el Reino de Upsal]]
+
 > Año 580
 
 Nace Dygve, hijo de Domar, futuro rey de Upsal.
+
+---
+
+[[Nace Domar]]
 
 > Año 805
 
@@ -1339,29 +2128,25 @@ Nace Dáinn, un renombrado artesano Vegar conocido por crear una de las espadas 
 
 Nace Egil, hijo de On, futuro heredero del Reino de Upsal.
 
+---
+
+[[Nace On]]
+
 > Año 662
 
 Nacen Eisa y Eimyrja, hijas de Logi y de Glod.
 
-> Año 119
+---
 
-Nace el Reino de Närke, uno de los primeros reinos humanos de la historia. Su fundador sería el rey Nidud.
-
-> Año 856
-
-Tras otra rebelión en Götaland, influida por Ring, consejero del Reino de Skjold, surge un nuevo reino, el Reino de Ringerike, al norte de Skjold.
-
-> Año 910
-
-Nace el Reino de Wasken, fundado por un descendiente de Jotunbjörn, hijo de Raum y Hildur, llamado Fjöld. Sería un reino extremadamente efímero, fruto de la independencia de un gran territorio de Ringerike.
-
-> Año 153
-
-Nace el Reino de Värmland, uno de los primeros reinos humanos de la historia, fundado a comienzos de la Guerra entre Humanos y Gigantes.
+[[Glod se muda a Muspelheim]], [[Logi se muda a Muspelheim]]
 
 > Año 117
 
-Nace Elli, la jötun más longeva de la historia, quitando a Mímir que es decapitado, aunque su cabeza siga aún viva.
+Nace Elli, la jötun más longeva de la historia, quitando a Mímir que sería en el futuro decapitado, aunque su cabeza siga aún viva.
+
+---
+
+[[La raza de los gigantes crece]]
 
 > Año 640
 
@@ -1371,15 +2156,27 @@ Nunca se supo nada más de él tras la violación a Laufey por la cual nacieron 
 
 > Año 1081
 
-Nace Fjölnir, hijo de Frey y Gerd, y declarado AEsir pues Frey y Gerd ahora vivían en Asgard tras la guerra.
+Nace Fjölnir, hijo de Frey y Gerd, y declarado Æsir pues Frey y Gerd ahora vivían en Asgard tras la guerra.
+
+---
+
+[[Frey y Gerd se casan]]
 
 > Año 1126
 
 Nace Forseti, único hijo de Balder y Nanna. Dios de la justicia.
 
+---
+
+[[Balder y Nanna se casan]]
+
 > Año 966
 
 Nace Fulla, la diosa Vanir de la abundancia. De ser amiga de Freyja en Vanaheim, pasará a ser sirviente de Frigg en Asgard.
+
+---
+
+[[Odín realiza magia sobre Freyja]]
 
 > Año 302
 
@@ -1403,19 +2200,35 @@ Nace Gilling, un jötun ancestral que se decía que tenía alguna tara.
 
 Surt y Sinmara tienen a su primera y única hija, la giganta Glaur.
 
+---
+
+[[Nace Surt]], [[Nace Sinmara]]
+
 > Año 623
 
 Nace Glod, hija del rey Grim de Grimsgard.
 
+---
+
+[[Nace Grim]], [[Se funda el Reino de Grimsgard]]
+
 > Año 964
 
 Nace Gná, la diosa Vanir de la plenitud. De ser amiga de Freyja en Vanaheim, pasará a ser sirviente de Frigg en Asgard.
+
+---
+
+[[Odín realiza magia sobre Freyja]]
 
 > Año 69 - 75
 
 Se desconoce cuándo nació el dragón Grafvitnir, pero se tiene certeza de que fue el primer dragón que existió en los 9 mundos.
 
 Su ascendencia es desconocida, pero se piensa que pudo ser un hijo perdido de Thrudgelmir, que huyó a Niflheim tras la muerte de su padre, pero que no huyó de Niflheim a Midgard, sino que se quedó allí, habitando la enorme cueva que se formó que sería llamada Helheim.
+
+---
+
+[[Nace Thrudgelmir]]
 
 > Año 854
 
@@ -1433,9 +2246,17 @@ Nace Gróa, una de las mayores magas de la historia y de Jötunheim. Se le atrib
 
 Nace el rey Gudröd, hijo de Sölvi el Viejo, primer rey y fundador del reino de Solor.
 
+---
+
+[[Nace Sölvi]]
+
 > Año 843
 
 Nace Gullveig, hija de Heid.
+
+---
+
+[[Nace Heid]]
 
 > Año 870
 
@@ -1444,6 +2265,10 @@ Nace Gunnar, rey de Karlaug y hermanastro de Sigurd, pues fue un hijo de Sigmund
 > Año 699
 
 Nace la jötun Gunnlod, hija de Suttung, y guardiana de la hidromiel de la poesía que su padre guardaba.
+
+---
+
+[[Nace Suttung]]
 
 > Año 835
 
@@ -1463,17 +2288,37 @@ Nace Heid, quien sería la madre de Gullveig.
 
 De maneras desconocidas, y secretas, pues ni Odín ni las hijas de AEgir y Rán jamás han hablado de ello, nace Heimdall, engendrado por Odín junto a las 9 hijas de AEgir y Rán.
 
+---
+
+[[Nacen Odín, Vili y Vé]], [[Nacen las 9 hijas de Ægir y Rán]]
+
+> Año 958
+
+Nace Heime, renombrado guerrero del reino unificado de Ringerike y Skjold, que lucharía en la Batalla del hielo del lago Vänern.
+
 > Año 680
 
 Nace el gigante Helgi, herrero de Odinsaker que en cierto momento se rebelaría, desencadenando la guerra civil en Odinsaker para finalmente ganarla y gobernar la tierra hasta el Ragnarök, donde se alistaría junto a todo su pueblo en las filas de Thrym.
+
+---
+
+[[Se funda el Reino de Odinsaker]]
 
 > Año 1086
 
 Nace Hermod, el segundo hijo de Odín y Frigg, dios mensajero.
 
+---
+
+[[Odín realiza magia sobre Freyja]]
+
 > Año 748
 
 Nace Hildur, hija del rey Gudröd el Viejo.
+
+---
+
+[[Nace Gudröd]]
 
 > Año 880
 
@@ -1482,6 +2327,10 @@ Nace Hjarrandi, hijo de Budli y heredero del Reino unificado de Ringerike y Skjo
 > Año 970
 
 Nace Hlín, la diosa Vanir de la protección. De ser amiga de Freyja en Vanaheim, pasará a ser sirviente de Frigg en Asgard.
+
+---
+
+[[Odín realiza magia sobre Freyja]]
 
 > Año 935
 
@@ -1501,11 +2350,15 @@ Era heredero de Solor, pero decidió establecerlo como gobernador de la ciudad d
 
 > Año 660
 
-Nace el jötun Hrungnir, objetivo de ataques y desafíos de Thor por demostrar su valía y entrenarse como uno de los mayores dioses AEsir.
+Nace el jötun Hrungnir, objetivo de ataques y desafíos de Thor por demostrar su valía y entrenarse como uno de los mayores dioses Æsir.
 
 > Año 682
 
 Hijo de Gudmund y una mujer jötun desconocida, nace Höfund, heredero del Reino de Odinsaker.
+
+---
+
+[[Nacen Gudmund, Starkad y Hothbrod]]
 
 > Año 882
 
@@ -1514,6 +2367,14 @@ Nace Högni, hijo de Agnar y heredero del trono del Reino de Solor.
 > Año 877
 
 Nace Idunn, una elfa luminosa hija de Ivaldi, concretamente la primera hija que nacería en Alfheim. A tempranísima edad, Idunn fue enviada a las puertas de Asgard, donde Odín la cuidó como un padre.
+
+---
+
+[[Nace Ivaldi]]
+
+> Año 821
+
+Nace Ingeld, hijo de Hadding y heredero del reino de Solor. Su reinado sería el más autoritario que el reino de Solor habría visto en toda su historia.
 
 > Año 625
 
@@ -1533,9 +2394,17 @@ Nace Járnsaxa, de ascendencia desconocida, que será la jötun que dé a Thor s
 
 Nace Jökul, hijo perdido de Kári que nace y vive en Midgard.
 
+---
+
+[[Nacen Ægir, Logi y Kári]]
+
 > Año 986
 
 Nace Jörd, la cual, pese a compartir nombre con la madre de Thor, no son la misma persona. Es hija de Nótt y Annar.
+
+---
+
+[[Nótt y Annar se casan]]
 
 > Año 660
 
@@ -1555,9 +2424,17 @@ Hijo de Thor y Járnsaxa, nace Magni, el heredero del trueno y de Thrudheim.
 
 La relación de Thor y Járnsaxa es efímera, se intuye por ello que no estaban casados ni enlazados de ninguna manera, sino que fue algo momentáneo.
 
+---
+
+[[Nace Thor]], [[Nace Járnsaxa]]
+
 > Año 839
 
 Nace Meili, hermano de Thor e hijo de Odín y Jörd de igual manera.
+
+---
+
+[[Nacen Odín, Vili y Vé]], [[Nace Jörd]]
 
 > Año 892
 
@@ -1567,9 +2444,17 @@ Nace Naglfari, un dios AEsir.
 
 Nace Nanna, hija de Nepr y por ende nieta de Odín. Es la diosa de la dulzura.
 
+---
+
+[[Nace Nepr]]
+
 > Año 881
 
-Nace Nepr, el cual se dice que es hijo de Odín, pero se desconoce su madre. Nepr apenas toma partida en las decisiones de los AEsir por decisión propia.
+Nace Nepr, el cual se dice que es hijo de Odín, pero se desconoce su madre. Nepr apenas toma partida en las decisiones de los Æsir por decisión propia.
+
+---
+
+[[Nacen Odín, Vili y Vé]]
 
 > Año 919
 
@@ -1578,6 +2463,10 @@ De padres desconocidos nace Nerthus, hermana de Njörd.
 > Año 89
 
 Nace Nidud, rey fundador del Reino de Närke y único en reinar aquel reino.
+
+---
+
+[[La raza de los humanos crece]]
 
 > Año 917
 
@@ -1589,21 +2478,41 @@ Nace Nótt, la única hija de Narfi, y la única nieta de Loki.
 
 Su personalidad y temperamento son peculiares, especiales. Le encanta la guerra y las batallas, le gusta ser autosuficiente y tiene una capacidad de liderazgo enorme.
 
+---
+
+[[Nacen Dváli y Narfi]]
+
 > Año 693
 
-Nace On, único hijo de Jorund, y futuro heredero del Reino de Upsal.
+Nace On, único hijo de Jörund, y futuro heredero del Reino de Upsal.
+
+---
+
+[[Nacen Jörund y Eric]]
 
 > Año 933
 
 Nace Onela, hijo de Hedinn y heredero al trono del Reino unificado de Ringerike y Skjold.
 
+> Año 903
+
+Nace Ortnit, un renombrado guerrero del reino unificado de Ringerike y Skjold. Sería gran amigo de Alberich, el enano hermano de Andvari.
+
 > Año 745
 
 Nace Ottar, hijo de Egil, y el que sería último rey del Reino de Upsal.
 
+---
+
+[[Nace Egil]]
+
 > Año 759
 
 Nace Raum, apodado "El Viejo" como muchos en su linaje. Es hijo del rey Nór.
+
+---
+
+[[Nace Nór]]
 
 > Año 901
 
@@ -1631,13 +2540,25 @@ Nace Sigyn, la diosa de la victoria.
 
 Nace Sinmara.
 
+---
+
+[[Creación de los 9 mundos]], [[Los descendientes de Ymir migran]]
+
 > Año 903
 
 Nace la jötun Skadi, hija de Thjazi.
 
+---
+
+[[Nacen Thjazi, Idi y Gang]]
+
 > Año 563
 
 Nace Skrýmir, a quien en el futuro llaman "El Loki de Utgard" por sus fechorías y su pequeño tamaño. No se dice explícitamente que sea hijo de la jötun Elli, pero él menciona en varias ocasiones que ella le crió de joven en Utgard.
+
+---
+
+[[Nace Elli]]
 
 > Año 960
 
@@ -1647,9 +2568,17 @@ Nace Skírnir, dios mensajero, mensajero y vasallo del dios Frey.
 
 Nace Snaer, hijo de Jökul. Es la raíz de la mayor dinastía y linaje de toda la historia de los humanos. Es medio jötun medio humano, lo que le permite vivir muchos más años que un humano promedio.
 
+---
+
+[[Nace Jökul]]
+
 > Año 84
 
 Nace Surt.
+
+---
+
+[[Creación de los 9 mundos]], [[Los descendientes de Ymir migran]]
 
 > Año 654
 
@@ -1657,9 +2586,17 @@ Nace el legendario jötun Suttung, el Vengador.
 
 Es hijo de Gilling y de una madre de nombre desconocido.
 
+---
+
+[[Nace Gilling]]
+
 > Año 892
 
 Nace Svípdag, un joven jötun, hijo de Gróa y de Aurvandil. Svípdag se entrenará desde muy joven como guerrero.
+
+---
+
+[[Nace Gróa]], [[Nace Aurvandil]]
 
 > Año 455
 
@@ -1677,25 +2614,49 @@ Nace Sölvi, fundador y rey del reino de Solor, uno de los primeros reinos de Mi
 
 Nace Thor, dios del trueno, hijo de Odín y de Jörd.
 
+---
+
+[[Nacen Odín, Vili y Vé]], [[Nace Jörd]]
+
 > Año 683
 
 Nace Thorri, hijo del rey Snaer. Sería el rey del reino de Götaland y Kveland, para más tarde estos reinos ser unificados por su hijo, Nór.
+
+---
+
+[[Nace Snaer]]
 
 > Año 24
 
 De igual forma que con sus dos hermanos, Thrudgelmir es otro hijo de Ymir, en este caso engendrado a partir de la fusión de las piernas del gigante primordial. Thrudgelmir es un gigante de 6 cabezas.
 
+---
+
+[[Ymir consigue su tamaño final]]
+
 > Año 91
 
 Nace Thrym, futuro heredero de los reinos de los gigantes en Midgard.
+
+---
+
+[[Los descendientes de Ymir migran]]
 
 > Año 1084
 
 Nace Tyr, hijo de Odín y Frigg, dios de la guerra.
 
+---
+
+[[Odín realiza magia sobre Freyja]]
+
 > Año 889
 
 De padre desconocido, nace Ull, hijo de Síf y dios del arco. Un gran guerrero, algo solitario, pero con grandes habilidades en bosques y con el arco.
+
+---
+
+[[Nace Síf]]
 
  > Año 141
  
@@ -1704,35 +2665,79 @@ De padre desconocido, nace Ull, hijo de Síf y dios del arco. Un gran guerrero, 
 
 > Año 923
 
-Nace Vali, dios de la luz eterna, y vengador futuro de la muerte de Balder, poniendo a Hoder sobre una hoguera, sin llegar a matarlo pero dejándole gravemente herido.
+Nace Vali, dios de la luz eterna, hijo de Odín y Rind, y vengador futuro de la muerte de Balder, poniendo a Hoder sobre una hoguera, sin llegar a matarlo pero dejándole gravemente herido.
 
-> Año 480
+---
 
-Nace Vanladi, hijo de Snaer y Vana, heredero al trono de Upsala.
+[[Nacen Odín, Vili y Vé]], [[Nace Rind]]
+
+> Año 499
+
+Nace Vanladi, hijo de Swegde e Ysolde, heredero al trono de Upsal.
+
+---
+
+[[Se funda el Reino de Upsal]]
 
 > Año 871
 
 Nace Vidar, hijo de Odín y Grid, dios del silencio y la venganza.
 
+---
+
+[[Nacen Odín, Vili y Vé]], [[Nace Grid]]
+
 > Año 518
 
 Nace Visbur, hijo de Vanladi y Drífa, futuro heredero al trono de Upsal.
+
+---
+
+[[Vanladi y Drífa se casan]]
 
 > Año 1
 
 Nace Ymir, con una forma pequeña, similar a la de un humano.
 
+---
+
+[[Formación de la Amalgama Primordial]]
+
 > Año 943
 
 Nace Yrsa, una humana que se convertiría en reina al casarse con Adils.
 
-> Año 335
+> Año 119
 
-Nacen los gigantes AEgir, Logi y Kári, hijos de Fórnjot y de una madre desconocida.
+Nace el Reino de Närke, uno de los primeros reinos humanos de la historia. Su fundador sería el rey Nidud.
+
+---
+
+[[Nace Nidud]]
+
+> Año 856
+
+Tras otra rebelión en Götaland, influida por Ring, consejero del Reino de Skjold, surge un nuevo reino, el Reino de Ringerike, al norte de Skjold.
+
+> Año 910
+
+Nace el Reino de Wasken, fundado por un descendiente de Jotunbjörn, hijo de Raum y Hildur, llamado Fjöld. Sería un reino extremadamente efímero, fruto de la independencia de un gran territorio de Ringerike.
+
+> Año 153
+
+Nace el Reino de Värmland, uno de los primeros reinos humanos de la historia, fundado a comienzos de la Guerra entre Humanos y Gigantes.
+
+---
+
+[[Comienza la Guerra entre Humanos y Gigantes]]
 
 > Año 652
 
 Nacen Alric y Eric, hijos de Agne. Se dice de ellos que eran grandes montadores de caballo.
+
+---
+
+[[Nace Agne]]
 
 > Año 82
 
@@ -1740,23 +2745,39 @@ Odín, Vili y Vé llevan a cabo su primera obra, la creación de la raza humana,
 
 Esto comienza con dos humanos, que ramificarán la raza con su descendencia, Ask y Embla.
 
+---
+
+[[Odín, Vili y Vé se instalan en Asgard]], [[Creación de los 9 mundos]]
+
 > Año 1091
 
 Nacen los dioses Balder y Hoder, no a la vez, pero en el mismo año. Los dos serían los últimos hijos de Odín con Frigg.
 
 Balder sería el dios de la luz y la paz, mientras que Hoder sería el dios de la ceguera.
 
+---
+
+[[Odín realiza magia sobre Freyja]]
+
 > Año 39
 
 Bolthor tenía la misma capacidad de reproducción que su padre, y engendró así a sus 3 hijos, Bestla, Mímir y un hijo de nombre desconocido.
+
+---
+
+[[Nacen Bolthor y su hermana]]
 
 > Año 23
 
 Ymir, que era capaz de reproducirse autónomamente, engendra a partir del sudor de sus axilas a dos hijos, uno de ellos llamado Bolthor y una hija de nombre desconocido.
 
+---
+
+[[Ymir consigue su tamaño final]]
+
 > Año 856
 
-Nacen los legendarios artesanos vegar Brokk y Sindri.
+Nacen los legendarios artesanos Vegar Brokk y Sindri.
 
 > Año 875
 
@@ -1766,23 +2787,43 @@ Nacen Dváli y Narfi, hijos de Loki y de Sigyn.
 
 Nacen los hermanos elfos oscuros Fjalar y Galar, conocidos por sus crímenes y asesinatos. Siempre se ha desconocido el qué les llevaba a ser como eran, porque en algunas ocasiones la codicia lo justificaba, pero en otras no.
 
+---
+
+[[Comienzo de la Guerra de los Dos Mundos]]
+
 > Año 957
 
 Hijos de Njörd y de Skadi, nacen Freyja y Frey.
 
 En el futuro, Loki promoverá rumores sobre la legitimidad de los padres de Frey y de Freyja, pues insinuará que Skadi no fue realmente la madre de estos dos dioses, sino que fue Nerthus, sugiriendo un incesto por parte de Njörd con su hermana, ya que es "costumbre de los Vanir".
 
+---
+
+[[Nace Njörd]], [[Nace Skadi]], [[Nace Nerthus]]
+
 > Año 891
 
-Hija de AEgir y Aurboda, nace Gerd, la jötun más hermosa jamás vista. Poco más tarde, nacería Beli, su hermano.
+Hija de Ægir y Aurboda, nace Gerd, la jötun más hermosa jamás vista. Poco más tarde, nacería Beli, su hermano.
+
+---
+
+[[Ægir y Aurboda se casan]]
 
 > Año 535
 
 Nacen Gisle y Ond, hijos de Visbur con su esposa, una hija de un aristócrata, llamada Aude.
 
+---
+
+[[Nace Visbur]]
+
 > Año 854
 
 Hijas de Geirrod.
+
+---
+
+[[Nace Geirrod]]
 
 > Año 651
 
@@ -1796,13 +2837,98 @@ Nacen Hild y Sigrún, princesas del reino de Högni, su padre.
 
 Nacen Jörund y Eric, hijos de Yngve.
 
-> Año 862
+---
 
-Nacen las hijas de AEgir y Rán, prácticamente todas seguidas, las llamadas "doncellas de las olas".
+[[Nacen Yngve y Alf]]
 
 > Año 801
 
 Hijos de una violación de un Jötun llamado Farbauti a la jötun Laufey. Todos se gestan a la vez.
+
+---
+
+[[Nace Laufey]], [[Nace Farbauti]]
+
+> Año 924
+
+Nacen Modi y Thrud, los primeros hijos propios de Thor y Sif.
+
+---
+
+[[Thor y Sif se casan]]
+
+> Año 726
+
+Nacen Nór, Gór y Goi, hijos del rey Thorri. Nór sería el primer y único rey de toda la historia que gobernaría Midgard entero.
+De Gór y Goi se desconoce su futuro.
+
+---
+
+[[Nace Thorri]]
+
+> Año 65
+
+Bor y Bestla tienen 3 hijos, Odín, Vili y Vé.
+
+---
+
+[[Bor y Bestla se unen]]
+
+> Año 971
+
+Nacen Sköll y Háti, los lobos hijos de Fenrir y de una loba del bosque de Járnvid llamada Hródvit.
+
+---
+
+[[Nacen los Vástagos del Caos]]
+
+> Año 119
+
+Mundalfari y Glaur tienen sus dos y únicos hijos, la diosa Sól y el dios Máni.
+
+---
+
+[[Nace Glaur]], [[Nacimiento de los primeros dioses Æsir]]
+
+> Año 675
+
+Nacen Thjazi, Idi y Gang, los hijos jötun de Ivaldi, además de los primeros que tuvo.
+
+---
+
+[[Nace Ivaldi]]
+
+> Año 953
+
+Nacen Vilh, Yves, Sveinn y Holger, hijos de Odín y de Gullveig.
+
+Vivirán en Asgard una pequeñísima parte de su infancia.
+
+---
+
+[[Nacen Odín, Vili y Vé]], [[Nace Gullveig]]
+
+> Año 360
+
+Nacen los hermanos Völund, Agilaz y Slagfid, hijos de Waetla, y de padre desconocido.
+
+Los tres se convertirán en buenos herreros de la raza de los elfos oscuros y vivirán en las montañas circundantes a la región del Lejre.
+
+> Año 670
+
+Nacen Yngve y Alf, hijos de Alric y futuros herederos del Reino de Upsal.
+
+---
+
+[[Nacen Alric y Eric]]
+
+> Año 862
+
+Nacen las hijas de Ægir y Rán, prácticamente todas seguidas, las llamadas "doncellas de las olas".
+
+---
+
+[[Nacen Ægir, Logi y Kári]], [[Nace Rán]]
 
 > Año ???
 
@@ -1822,72 +2948,75 @@ Estos dragones son comúnmente llamados:
 * Hring
 * Höggvard
 
+---
+
+[[Nace Grafvitnir]]
+
+> Año 949
+
+Nacen Jörmungander, Fenrir y Hela, los llamados "Vástagos del Caos". Hijos de Loki y Angrboda.
+
+---
+
+[[Loki conoce a Angrboda]]
+
 > Año 783 - 788
 
 Nacen los tantos hijos del matrimonio de Raum y Hildur.
 
 - Ring, quien fundaría su propio reino, Ringerike.
-- Gudröd.
+- Gudrod (diferente del primer rey de Solor).
 - Höd.
 - Hadding.
 - Finnalf.
 - Godbrand
 - Jotunbjörn
 
-> Año 949
+---
 
-Nacen Jörmungander, Fenrir y Hela, los llamados "Vástagos del Caos". Hijos de Loki y Angrboda.
+[[Raum y Hildur se casan]]
 
-> Año 924
+> Año 335
 
-Nacen Modi y Thrud, los primeros hijos de Thor y Sif.
+Nacen los gigantes Ægir, Logi y Kári, hijos de Fórnjot y de una madre desconocida.
 
-> Año 726
+---
 
-Nacen Nór, Gór y Goi, hijos del rey Thorri. Nór sería el primer y único rey de toda la historia que gobernaría Midgard entero.
-De Gór y Goi se desconoce su futuro.
-
-> Año 65
-
-Bor y Bestla tienen 3 hijos, Odín, Vili y Vé.
-
-> Año 971
-
-Nacen Sköll y Háti, los lobos hijos de Fenrir y de una loba del bosque de Járnvid llamada Hródvit.
-
-> Año 119
-
-Mundalfari y Glaur tienen sus dos y únicos hijos, la diosa Sól y el dios Máni.
-
-> Año 675
-
-Nacen Thjazi, Idi y Gang, los hijos jötun de Ivaldi, además de los primeros que tuvo.
-
-> Año 953
-
-Nacen Vilh Yves, Sveinn y Holger, hijos de Odín y de Gullveig
-
-Vivirán en Asgard una pequeñísima parte de su infancia.
-
-> Año 360
-
-Nacen los hermanos Völund, Agilaz y Slagfid, hijos de Waetla, y de padre desconocido.
-
-Los tres se convertirán en buenos herreros de la raza de los elfos oscuros y vivirán en las montañas circundantes a la región del Lejre.
-
-> Año 670
-
-Nacen Yngve y Alf, hijos de Alric y futuros herederos del Reino de Upsal.
+[[Nace Fórnjot]]
 
 > Año 858
 
-nacen los 3 hijos de Hreidmar. Ninguno es de la misma madre, y se desconocen las identidades de las 3 mujeres con las que Hreidmar engendró a sus hijos, algo similar a lo que ocurrió con su padre, Durin, desconociéndose la identidad de su madre.
+Nacen los 3 hijos de Hreidmar. Ninguno es de la misma madre, y se desconocen las identidades de las 3 mujeres con las que Hreidmar engendró a sus hijos, algo similar a lo que ocurrió con su padre, Durin, desconociéndose la identidad de su madre.
+
+---
+
+[[Nace Hreidmar]]
+
+> Año 560
+
+No hizo falta un gran acopio de generaciones para que los gigantes que migraron a Jötunheim viesen su herencia modificada por las condiciones tan duras de Jötunheim, volviéndose más toscos y adaptados al frío del mundo. Esta raza es llamada Gigantes de Hielo o Jötun.
+
+---
+
+[[Se fundan los primeros reinos Jötun]]
+
+> Año 620
+
+En el caso de los gigantes que migraron a Muspelheim, sí que hicieron falta más generaciones para que la genética y las adaptaciones se viesen reflejadas en los gigantes, llegando a nacer así la raza de los gigantes de fuego o Muspel, gigantes mucho más adaptados a la extrema orografía y terrenos violentos de Muspelheim, así como a su elevada temperatura.
+
+---
+
+[[Migración de gigantes a Muspelheim]]
 
 > Año 323
 
 Tras múltiples generaciones, la desdendencia de aquellos gigantes que migraron a Alfheim fue viendo su genética modificada, en gran parte, por la nueva naturaleza de aquel mundo y el cambio de cultura y tradiciones que esto conllevó. Nació entonces la raza de los elfos, unos seres mucho más pequeños que los gigantes.
 
 Estos elfos se dividieron en 2 subrazas, los elfos luminosos, habitantes de la superficie y los elfos oscuros, habitantes de cuevas que rara vez salían a la luz de Sól.
+
+---
+
+[[Migración de gigantes a Alfheim]]
 
 
 
@@ -1897,23 +3026,27 @@ Tras no muchas generaciones, la raza de los enanos se comenzó a diferenciar gen
 
 Los enanos dividen su raza en 2 subrazas, provenientes cada una, respectivamente de Mótsognir y de Durin. La raza de los Vegar, maestros artesanos, y la raza de los Nibelungos, increíbles mineros.
 
-> Año 620
+---
 
-En el caso de los gigantes que migraron a Muspelheim, sí que hicieron falta más generaciones para que la genética y las adaptaciones se viesen reflejadas en los gigantes, llegando a nacer así la raza de los gigantes de fuego, gigantes mucho más adaptados a la extrema orografía y terrenos violentos de Muspelheim, así como a su elevada temperatura.
-
-> Año 560
-
-No hizo falta un gran acopio de generaciones para que los gigantes que migraron a Jötunheim viesen su herencia modificada por las condiciones tan duras de Jötunheim, volviéndose más toscos y adaptados al frío del mundo.
+[[Creación de las cuevas de Svartalfheim]]
 
 > Año 84
 
-Odín reina Asgard con Vili como su consejero tras la partida de Vé hacia Vanaheim.
+**Odín** reina **Asgard** con **Vili** como su consejero tras la partida de **Vé** hacia **Vanaheim**.
 
-Los primeros dioses AEsir nacen de emparejamientos de Odín y Vili con algunas mujeres humanas, algunos de primeros dioses más relevantes son **Mundalfari**.
+Los primeros dioses **Æsir** nacen de emparejamientos de **Odín** y **Vili** con algunas mujeres humanas, algunos de primeros dioses más relevantes son **Mundalfari**.
+
+---
+
+[[Odín, Vili y Vé se instalan en Asgard]]
 
 > Año 997
 
 Vilh y Freyja no participarán en la guerra, pero sí en alguna batalla sucedida cerca de su casa del bosque o en su aldea natal.
+
+---
+
+[[Freyja y Vilh se casan]]
 
 > Año 997
 
@@ -1921,9 +3054,17 @@ Nótt será una guerrera importantísima en la Guerra de los Dioses, demostrando
 
 Muchas dudas pueden surgir respecto a por qué no es una Valkyria, y el motivo es que la personalidad de Nótt no es permisiva con ello, ella prefiere ser independiente.
 
+---
+
+[[Nace Nótt]]
+
 > Año 984
 
 Nótt y el dios Annar se casan, siendo este su segundo matrimonio. Por desgracia, este obtendrá el mismo futuro que el anterior, pero esta vez por motivos muy diferentes. Annar era una persona muy difícil, injusta, incluso.
+
+---
+
+[[Nace Nótt]], [[Nace Annar]]
 
 > Año 1147
 
@@ -1931,9 +3072,19 @@ Se lleva a cabo lo que será el último matrimonio de Nótt, el único que realm
 
 Como curiosidad, este es el único matrimonio de Nótt de la misma edad que ella, los demás eran extremadamente más jóvenes que ella.
 
+Este matrimonio ocurre justo cuando Holger regresa a Asgard, rompiéndole el corazón, pues en realidad estaba enamorado de Nótt, aunque no fuese correspondido.
+
+---
+
+[[Nace Nótt]], [[Nace Delling]]
+
 > Año 923
 
 Nótt y Naglfari se casan, formando un matrimonio corto, pues pese a que los dos lo pasaban muy bien juntos, Nótt no era capaz de amar a Naglfari como él deseaba y se merecía. El temperamento de Nótt era muy diferente.
+
+---
+
+[[Nace Nótt]], [[Nace Naglfari]]
 
 > Año 856
 
@@ -1944,6 +3095,10 @@ Debido a sus investigaciones sobre una magia más oscura que el propio Galdr, su
 Algunos relatan este suceso como "Un conjunto de sombras se cirnieron sobre el pueblo de Vadstena, y nada consiguió respirar tras aquello".
 Tras esto, se encontraron marcas mágicas en el pueblo.
 
+---
+
+[[Nace Gullveig]], [[Gullveig vive en el pueblo de Vadstena]]
+
 > Año 962
 
 El Episodio Oscuro de Asgard es un nombre popular a una historia que se rumoreó como real durante muchos años en los demás mundos. Finalmente se confirmaría la vericidad de esta historia tras mucho tiempo.
@@ -1951,6 +3106,10 @@ El Episodio Oscuro de Asgard es un nombre popular a una historia que se rumoreó
 Una mañana, en Asgard, concretamente en la Isla de Lyngvi, varios dioses AEsir estaban presentes, viendo como 4 hijos de Odín, muy jóvenes, jugueteaban con un joven lobo, de procedencia desconocida, se dice que era de una reciente camada de la región de Gladsheim de Asgard o del Bosque de Járnvid de Jötunheim, siendo esta última la correcta.
 
 Los niños eran los hijos de Odín con la diosa Vanir, Gullveig, y en cierto momento, uno de ellos fue asustado por el lobo, que solo trataba de jugar. Ese susto despertó un poder dentro de él, un poder incontrolable, y el niño se transformó en una sombra violenta, descontrolada, que hirió a varios dioses hasta que fue interceptada por el dios Thor y el caos sombrío se disipó, dejando ver por fin, de nuevo, al niño dormido que se ocultaba tras esa sombra.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nacen Odín, Vili y Vé]], [[Nace Gullveig]], [[Nacen Loki, Helblindi y Býlisteir]]
 
 > Año 988
 
@@ -1977,13 +3136,25 @@ Los demás hijos, Ring, Godbrand y Jotunbjörn quedarían como consejeros de alg
 
 Durante el reinado de Egil, conocedor de que On tenía un esclavo llamado Tunne que escondía secretos y tesoros del rey, lo bajó de rango a prácticamente nada, lo que ofendió a Tunne. Ocurrió entonces una rebelión de esclavos liderada por Tunne. Con ayuda del rey Frode, del Reino de Lymfjord consigue ganar la apretada guerra civil, pero Egil habría muerto en aquella rebelión, entonces Ottar, su hijo, le sucedería en el trono.
 
+---
+
+[[Nace Egil]], [[Nace On]], [[Nace Ottar]]
+
 > Año 1075
 
 Pese a que fue por un corto periodo de tiempo, la cabeza de Mímir fue portada por Hoenir durante un tiempo durante su estancia en Vanaheim, mientras Hoenir gobernaba a los Vanir. La incompetencia de Hoenir hizo que la mayoría de decisiones fuesen tomadas por Mímir en realidad, por lo que los Vanir le cogieron mucho cariño a él, y rechado al dios Hoenir.
 
+---
+
+[[Nace Hoenir]], [[Nacen Bestla, Mímir y su hermano]]
+
 > Año 974
 
 Sól y Máni han cumplido su propósito por varios milenios, pero recientemente han comenzado a fallar, por cansancio o distracciones, por lo que Odín aprovecha y manda a Sköll y a Háti al Ginnungagap a perseguir a los dioses. Previo a ello, naturalmente, los secuestró del Bosque de Járnvid donde vivían con sus padres, Hródvit y Fenrir, y su abuela Angrboda, los cuales no se enteraron del secuestro.
+
+---
+
+[[Ciclo Día y Noche]], [[Nacen Sól y Máni]], [[Nacen Sköll y Háti]], [[Nacen los Vástagos del Caos]]
 
 > Año 906
 
@@ -1991,11 +3162,19 @@ Odín pide a Brynhild intervenir en una guerra humana entre los reyes Gunnar y A
 
 Brynhild, en cambio, desoye su orden y favorece a Agnar en batalla. Por esto, Odín la castiga encerrándola en un castillo abandonado de Muspelheim hasta que alguien la rescate.
 
+---
+
+[[Nacen Odín, Vili y Vé]], [[Nace Brynhild]], [[Nace Agnar]]
+
 > Año 1076
 
 Tras haber investigado árduamente esa magia, y según rumores, habiéndolo investigado en su momento junto a Gullveig, Odín realizó con Freyja un experimento mágico, que transformó a Freyja en una persona completamente diferente, leal a él y enamorada de él, pero además, violenta y amante de las guerras y del poder. Su pelo se tornó rubio, y su piel levemente más oscura, cuando Odín le preguntó su nombre, ella no respondió "Freyja", sino "Frigg".
 
 Esto rompió la amistad que entablaba con Holger, pues su interés por el conocimiento y la magia habían sido tapados por su interés bélico.
+
+---
+
+[[Migraciones forzosas a vivir en Asgard]], [[Nacen Odín, Vili y Vé]], [[Nacen Freyja y Frey]], [[Nace Gullveig]], [[Nacen Vilh, Yves, Sveinn y Holger]]
 
 > Año 1096
 
@@ -2005,6 +3184,10 @@ Allí, Odín se hace pasar por pobre, y llevan a cabo una batalla de conocimient
 
 Valthrúdnir moriría, pues Odín le tendería la trampa de preguntarle algo que solo él puede saber, algo privado.
 
+---
+
+[[Nace Valfthrúdnir]], [[Nacen Odín, Vili y Vé]]
+
 > Año 791
 
 Odín, deseoso de poseer más conocimiento, y conocedor de la ubicación de los calderos de hidromiel de la poesía, decide ir al que protege Suttung. Allí, pasará un verano trabajando para Baugi para convencerlo y poder hacer un trato con él por un mero sorbo del hidromiel, engañándolo.
@@ -2013,19 +3196,31 @@ Baugi, hermano de Suttung, taladra un agujero en la montaña por el que Odín, t
 
 Las historias difieren aquí, unas cuentan que Odín violó a Gunnlod y luego bebió todo el hidromiel de la poesía, y otras cuentan que llegó a otro trato con Gunnlod, en el que pasaría al menos 3 días con ella, y luego el dejaría dar 3 sorbos del hidromiel, pero igualmente la engañaría y se bebería todo, huyendo tras ello.
 
+---
+
+[[Nace Suttung]], [[Nacen Odín, Vili y Vé]], [[Nace Baugi]], [[Nace Gunnlod]]
+
 > Año 849
 
-Tras más de un milenio, Odín y Mímir se reencuentran en Jötunheim, ya que el rey de los AEsir quiso visitar el Pozo de Mímir en busca de sabiduría y conocimiento. Allí, Odín perdió uno de sus ojos como sacrificio por poder beber del pozo.
+Tras más de un milenio, Odín y Mímir se reencuentran en Jötunheim, ya que el rey de los Æsir quiso visitar el Pozo de Mímir en busca de sabiduría y conocimiento. Allí, Odín perdió uno de sus ojos como sacrificio por poder beber del pozo.
 
 Tras eso, Odín cortó la cabeza de Mímir, y con leves conocimientos de magia, revivió solamente la cabeza, para portarla y que ésta le aconsejase en el futuro. No se considera esto la muerte de Mímir, pero sí que supone la incapacidad de Mímir de hacer cualquier cosa más que hablar.
 
 Mímir nunca tuvo reencor de aquello, lo entendió desde el principio y navegó junto al destino sin queja.
+
+---
+
+[[Nacen Odín, Vili y Vé]], [[Nacen Bestla, Mímir y su hermano]]
 
 > Año 860
 
 Odín, en su búsqueda por el conocimiento y la sabiduría máxima, visita a las nornas, pensando que ellas le podría proporcionar si no sabiduría, indícios de cómo y dónde encontrarla. Sobre todo, la premisa de la consulta es el futuro.
 
 Las nornas le cuentan a Odín la profecía del Ragnarök, de cómo la era de los dioses y las criaturas llegará a su fin, de cómo el universo que él mismo creó se amoldará a un nuevo destino, y de cómo Odín, padre de los Vanir, morirá por las fauces del lobo hijo de Loki, montado por uno de sus hijos.
+
+---
+
+[[Nacen Odín, Vili y Vé]], [[Nacen Loki, Helblindi y Býlisteir]]
 
 > Año 1153
 
@@ -2036,6 +3231,10 @@ En busca de respuestas por las continuas pesadillas de Balder, Odín vuelve a ac
 "Te estrellarás contra él." dijo Skuld.
 
 Nada más dijeron, Odín tuvo que irse, siendo esta la última vez que verá a las nornas.
+
+---
+
+[[Frigg y Odín buscan la respuesta y solución a las pesadillas de Balder]]
 
 > Año ???
 
@@ -2054,9 +3253,29 @@ Odín se acerca a Holger, y le susurra al oido, "Los caprichos del destino son i
 
 Tras la creación del Yggdrasil y los mundos, la tríada de dioses se instala en el mundo ubicado en la copa del árbol de la vida, y lo bautizan como Asgard, la casa de los dioses AEsir.
 
+---
+
+[[Nacen Odín, Vili y Vé]], [[Creación de los 9 mundos]]
+
 > Año ???
 
 De igual manera que con Rasvelg, los dragones perecerían en algún momento durante el Ragnarök. Todos aquellos restantes que no fueron a la lucha (solamente fue Nidhogg), morirían sepultados por la violencia extrema generada por el caos de la guerra. Estos dragones eran Goinn, Moinn, Grabak, Grafvöllud, Ofnir, Svafnir, Nad, Hring y Höggvard.
+
+---
+
+[[Nacen los Dragones de Helheim]]
+
+> Año ???
+
+El Ragnarök está ya cerca de su final. Todos los jötun, exceptuando únicamente a Rasvelg en Helheim, han muerto en combate.
+
+---
+
+[[Muere Jörmungander]]
+
+> Año ???
+
+El Ragnarök está ya cerca de su final. Todos los muspel, exceptuando a Surt, que continúa destruyendo la creación de Odín, han muerto en combate.
 
 > Año ???
 
@@ -2068,17 +3287,17 @@ Tras el durísimo Fimbulwinter, la raza de los humanos no pudo sobrevivir a las 
 
 Los animales también perecerán en su totalidad.
 
-> Año ???
+---
 
-El Ragnarök está ya cerca de su final. Todos los jötun, exceptuando únicamente a Rasvelg en Helheim, han muerto en combate.
-
-> Año ???
-
-El Ragnarök está ya cerca de su final. Todos los muspel, exceptuando a Surt, que continúa destruyendo la creación de Odín, han muerto en combate.
+[[Da comienzo el Fimbulvinter]], [[Algunos humanos huyen a otros mundos]]
 
 > Año 779
 
 Raum y Hildur contraen matrimonio.
+
+---
+
+[[Nace Raum]], [[Nace Hildur]]
 
 > Año 933
 
@@ -2088,15 +3307,27 @@ La espada Balmung fue una de las espadas forjadas por Völund en su cautiverio e
 
 La espada, una vez la encuentra Sigurd, está rota, por lo que llaman a un enano llamado Alberich para que la arregle. Alberich es realmente el hermano y ayudante de Andvari.
 
+---
+
+[[Nacen Óter, Regin y Fafnir]], [[Regin habla con Sigurd]], [[Völund y sus hermanos son secuestrados]], [[Alberich migra a Midgard]]
+
 > Año 930
 
 Regin, tras algo de investigación, conoce que el paradero de Fafnir es el Brezal de Gnita, en Midgard, atravesado por el río Rhin. Cuando llega a Midgard, pasa un tiempo buscando un guerrero lo suficientemente valiente y habilidoso como para enfrentarse al dragón y entregarle el tesoro, porque Regin seguía bajo los efectos de la maldición.
 
 Sigurd, el guerrero humano más laureado de todos los tiempos, se ofrece voluntario, y Regin lo adpota como hijo.
 
+---
+
+[[Muere Hreidmar]], [[Nace Sigurd]], [[Nacen Óter, Regin y Fafnir]]
+
 > Año 825
 
 Tras múltiples guerras civiles, el Reino de Grimsgard pasa a ser Grimsgard, una simple ciudad. Todas las ciudades bajo la monarquía de Grim se declaran independientes, y muchas de ellas terminan desapareciendo por fuertes migraciones a los reinos de Thrymehim y Utgard, exceptuando algunas como la ciudad costera de Trëve.
+
+---
+
+[[Se funda el Reino de Grimsgard]]
 
 > Año 865
 
@@ -2105,6 +3336,10 @@ El reinado de Halfdan se caracterizó por su belicismo, llegando a conquistar el
 > Año 601
 
 La esposa del difunto Bergelmir y hermana del recien fallecido Bolthor, quien se dice que vagaba con tristeza siempre, decide marcharse con algunas compañeras Jötun a vivir al Bosque Járnvid, alejadas del resto de sociedad. Este es el origen de toda la historia relacionada con aquel bosque.
+
+---
+
+[[Nacen Bolthor y su hermana]]
 
 
 > Año 1166
@@ -2115,9 +3350,9 @@ Holger explica lo descubierto y lo sucedido después. Yves no reacciona de ningu
 
 *"Gullveig fue la que me cuidó y enseñó todo lo que sé a día de hoy. Fue mi madre, sin yo saberlo, me cuidó con secretismo, pero desde lo más profundo de su corazón. Él la asesinó, a mi madre. Ese al que llamamos Padre de Todos no merece que yo le nombre como Padre. Ese que huye del destino, debe conocer el sabor del mismo."*, dice Vilh, antes de salir de su casa.
 
-> Año 874
+> Año 894
 
-Se forjan las armas y artilugios legendarios de los AEsir, forjados en 2 tandas, unos por los enanos Brokk y Sindri, y otros por los enanos Hijos de Ivaldi.
+Se forjan las armas y artilugios legendarios de los Æsir, forjados en 2 tandas, unos por los enanos Brokk y Sindri, y otros por los enanos Hijos de Ivaldi.
 
 Los Hijos de Ivaldi son los primeros en fabricar lo siguiente:
 - Gungnir, la lanza de Odín.
@@ -2131,11 +3366,25 @@ Los siguientes fueron los hermanos Brokk y Sindri, cuya obra fue saboteada por L
 
 Pese a perder la apuesta, Loki y su elocuencia se las arreglan para evadirla.
 
+---
+
+[[Nacen Loki, Helblindi y Býlisteir]], [[Nacen Brokk y Sindri]], [[Nace Thor]], [[Nacen Freyja y Frey]], 
+
 > Año 859
 
 Tras formarse la leyenda en torno al Bosque de los Grilletes, nadie se atrevió a entrar en él, por lo que su estado era idéntico al de la vez que mataron al padre de Gullveig.
 
 Al entrar, Gullveig llegó al sitio donde su padre estuvo inmovilizado, y observó que los grilletes aún estaban ahí. Sus pensamientos comenzaron a fluir más de lo debido, adulterados con ira, una ira incontrolable que volvió a provocarle un ataque a Gullveig, esta vez no destruyó ningún pueblo con su gente dentro, sino que destruyó una parte grande del bosque, creando un gran claro.
+
+Previo a eso, Gullveig habla con su padre al aire.
+
+*"Lo he matado, padre, te he vengado. Sin embargo ni siquiera eso para las pesadillas."*
+
+Gullveig no le pudo conocer apenas en vida, pero en sus pesadillas, recrea la vida de su padre, siempre con aquel final oscuro.
+
+---
+
+[[Nace Gullveig]]
 
 > Año 81
 
@@ -2153,39 +3402,75 @@ Tras la creación del Yggdrasil, el propio árbol de la vida comienza a abrir un
 * **Ylgr**, que desemboca en el propio Niflheim.
 * **Leiptir**, que desemboca en Alfheim.
 
-> Año 499
+---
 
-Snaer funda el Reino de Götaland al noroeste de Midgard.
-
-> Año 659
-
-Se funda el Reino de Heorot en la región del Lejre, un reino que unifica los distintos pueblos de la región así como a los elfos oscuros separados en los montes de la región de los elfos luminosos.
-
-> Año 325
-
-Se funda el primer reino de los elfos, el reino de Hunaland, separado del resto del mundo de Alfheim por el Bosque de Myrkvid.
-
-> Año 676
-
-Gudmund, junto a sus hermanos, fundan el Reino de Odinsaker en la vasta planicie de Glaesisvellir, en el noreste de Jötunheim.
-
-> Año 478
-
-Al noreste de Midgard, el guerrero Swedge funda el reino de Upsal.
+[[Creación de los 9 mundos]]
 
 > Año 619
 
 Se funda Grimsgard, uno de los primeros reinos de Jötunheim, fundado por el rey Grim.
 
+---
+
+[[Nace Grim]]
+
+> Año 499
+
+Snaer funda el Reino de Götaland al noroeste de Midgard.
+
+---
+
+[[Nace Snaer]]
+
+> Año 659
+
+Se funda el Reino de Heorot en la región del Lejre, un reino que unifica los distintos pueblos de la región así como a los elfos oscuros separados en los montes de la región de los elfos luminosos.
+
+---
+
+[[Final de la Guerra de los Dos Mundos]]
+
+> Año 325
+
+Se funda el primer reino de los elfos, el reino de Hunaland, separado del resto del mundo de Alfheim por el Bosque de Myrkvid.
+
+---
+
+[[Nacimiento de la raza de los elfos]]
+
+> Año 676
+
+Gudmund, junto a sus hermanos, fundan el Reino de Odinsaker en la vasta planicie de Glaesisvellir, en el noreste de Jötunheim.
+
+---
+
+[[Nacen Gudmund, Starkad y Hothbrod]]
+
+> Año 478
+
+Al noreste de Midgard, el guerrero Swegde funda el reino de Upsal.
+
+---
+
+[[Los humanos se recomponen de la guerra]], [[Nace Swegde]]
+
 > Año 630
 
 Se edifican algunos templos y palacios en Muspelheim, sin llegar a formar reinos nunca por la orografía violenta del terreno. Entre los más conocidos, están algunos palacios de la región de Frakkland o el Ókólnir, un edificio que parecía ser una posada, pero que nunca llegó a terminar de construirse.
+
+---
+
+[[Nacimiento de la raza de los Muspel]]
 
 > Año 468
 
 Se fundan los primeros reinos de gigantes en Jötunheim, prácticamente de forma paralela debido a la dispersión por todo el mundo de aquellos que huyeron de la guerra.
 
 Entre los reinos fundados, los más importantes son el **Reino de Utgard** (gobernado por Bolthor) y el **Reino de Thrymheim** (gobernado por Thrym).
+
+---
+
+[[Migración de gigantes a Jötunheim]]
 
 > Año ???
 
@@ -2196,6 +3481,10 @@ Allí, todos hablan, y llegan a una conclusión, un nuevo orden. Conocedores de 
 Por otra parte, las antiguas tierras de Helheim, Niflheim e incluso Muspelheim, el ahora llamado Náströnd, albergará las almas de los fallecidos cuya vida haya sido en su mayoría moralmente inaceptable.
 
 Los dioses, así como los habitantes de Náströnd, no tomarán jamás partida en la historia de la nueva humanidad, solo intervendrán en casos extremos.
+
+---
+
+[[Despiertan los supervivientes del Ragnarök]], [[Los dioses vuelven a sus antiguas tierras]]
 
 > Año 1159 - 1180
 
@@ -2208,6 +3497,10 @@ Durante estos años, conversarán, se conocerán, y especularán sobre el tema d
 *"Hugin y Munin."* - dijo Holger.
 
 Todos entraron en casa de Vilh, y conversaron alterados, sin tomar una decisión clara.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]
 
 > Año 858
 
@@ -2227,7 +3520,11 @@ Una vez, tras una batalla, Sigmund regresa a casa y observa a su esposa embaraza
 
 Sigurd, con su espada Balmung, asesina al dragón Fafnir con su esposa, Brynhild, observando la batalla escondida en un brezo.
 
-Tras matarlo, Sigurd, también comenzando a ser controlado por la codicia del anillo, bebe la sangre de Fafnir. Tras ello, Regin, que también estaba oculto, se dirige a Sigurd para obtener su tesoro "por derecho". Los dos batallan, hasta que Sigurd decapita a Regin.
+Tras matarlo, Sigurd también comienza a ser controlado por la codicia del anillo. Está cubierto de la sangre del dragón. Tras ello, Regin, que también estaba oculto, se dirige a Sigurd para obtener su tesoro "por derecho". Los dos batallan, hasta que Sigurd decapita a Regin.
+
+---
+
+[[Regin habla con Sigurd]], [[Nacen Óter, Regin y Fafnir]]
 
 > Año 921
 
@@ -2239,9 +3536,17 @@ Al rescatarla, Sigurd le promete casarse con ella, y así hacen.
 
 Pese a la fuerza de Hela, durante un descuido en batalla, Njörd la atacó. Sindri, pese a su tamaño, atajó el ataque de Njörd, frenándolo para después ser atacado por 2 jötun que lo despedazarían.
 
+---
+
+[[Nace Njörd]], [[Nacen Brokk y Sindri]], [[Nacen los Vástagos del Caos]]
+
 > Año 657
 
-Debido al asesinato de su padre, Thjazi, Skadi busca venganza de forma valiente pero algo ingenua yendo directamente a Asgard. Allí, los dioses la disuaden y le ofrecen varios tratos. Al final Skadi accede, y elige a un dios con el que casarse, en etse caso, Njörd, de los Vanir.
+Debido al asesinato de su padre, Thjazi, Skadi busca venganza de forma valiente pero algo ingenua yendo directamente a Asgard. Allí, los dioses la disuaden y le ofrecen varios tratos. Al final Skadi accede, y elige a un dios con el que casarse, en este caso, Njörd, de los Vanir.
+
+---
+
+[[Nace Skadi]], [[Nace Njörd]]
 
 > Año 989
 
@@ -2257,19 +3562,33 @@ Tras la muerte de Sinmara y la partida de Yves, Surt se queda solo en Muspelheim
 
 Su hija, Glaur, heredará su espada, Lavatine, forjada hace 800 años por el elfo oscuro Völund.
 
+---
+
+[[Nace Surt]], [[Muere Sinmara]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Glaur]], [[Völund y sus hermanos son secuestrados]]
+
 > Año 1231
 
-La víspera del comienzo del Ragnarök ha comenzado, Surt se dirige en su forma descomunal a Vigrid, junto con los demás gigantes de fuego que viajan en el barco Naglfari.
+La víspera del comienzo del Ragnarök ha comenzado, Surt monta en el Naglfar a todo su pueblo, para que vayan río abajo hasta el Bifröst y poder desde allí llegar a Midgard.
+
+Llegan a Midgard, y allí, antes de partir hacia Vígrid en un largo viaje, Glaur entrega a Surt la espada de Lavatine.
+
+*"Honra a madre, padre. Con fuego y cólera."*
+
+Entonces, Surt toma Lavatine, aún con dolor en su corazón, y comienza a crecer de tamaño. Lavatine, proporcional al tamaño creciente de Surt, prende su hoja en unas fieras llamas, y Surt siente que pierde el conocimiento, un conocimiento que jamás volverá a recobrar, pues la maldición de Lavatine ya le ha consumido, y la única salida es la muerte por desgaste.
+
+Todos los Muspel siguieron al descomunal Surt y a su espada flamígera mientras esta sembraba el caos allá por donde pasaba.
+
+---
+
+[[Yves le cuenta a Surt la profecía del Ragnarök]], [[Nace Surt]], [[Nace Glaur]]
 
 > Año 975
 
 Tras tantos siglos sin su hija por algo cercano a la traición, los padres de Glaur la reciben con cierto resquemor. Con poco tiempo, el amor y la fraternidad se imponen al pasado, y la acogen con cariño.
 
-> Año ???
+---
 
-Tras la huida de Yves, incluso antes de que dicha noticia llegase a oidos de las gentes de otros mundos, en la puerta del palacio de Surt y Sinmara en Muspelheim apareció un demacrado Yves, ya en su forma común.
-
-Surt y Sinmara le dieron cuidado hasta que se encontrase mejor y supiese a dónde ir.
+[[Nace Surt]], [[Nace Sinmara]], [[Glaur vuelve a Muspelheim]]
 
 > Año 1151
 
@@ -2277,33 +3596,61 @@ Tras la huida de Yves, incluso antes de que dicha noticia llegase a oidos de las
 
 Surt y Sinmara le dieron cuidado hasta que se encontrase mejor y supiese a dónde ir.
 
+---
+
+[[Yves escapa de Helheim]], [[Nace Surt]], [[Nace Sinmara]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año 997
 
 Aprovechando la guerra de los dioses, Sveinn aprovecha para robar más de lo que normalmente robaría.
+
+---
+
+[[Sveinn se convierte en ladrón maestro]]
 
 > Año 976
 
 La familia de Sveinn resultó dedicarse al hurto de manera casi profesional, siend oesta su única fuente de ingresos y bienes a la familia, por lo que instruyeron a Sveinn, su único hijo, que era adoptivo, en esa profesión del hurto.
 
+---
+
+[[Sveinn es adoptado por una familia de Jötun]]
+
 > Año 963
 
 Un joven Sveinn es dejado en la puerta de una casa en Jötunheim, con una familia que lo adopta.
+
+---
+
+[[Destierro de los vástagos de Odín]]
 
 > Año 1132
 
 Sveinn llega a su antigua casa en Jötunheim, solo para encontrarla patas arriba, y sin nadie dentro. Pareciera que varios bandidos se hubiesen cebado con ella durante décadas, como si nadie viviese allí desde entonces.
 
+---
+
+[[Balder asesina a los padres de Sveinn]], [[Vilh y Sveinn se dirigen a Jötunheim]]
+
 > Año 1124
 
-Los padrastros de Sveinn le ofrecen un robo sin precedentes. Han oido un soplo en Utgard sobre la forja de unas herramientas y armas para los AEsir en Svartalfheim, fabricado todo por los renombrados hermanos vegar Brokk y Sindri.
+Los padrastros de Sveinn le ofrecen un robo sin precedentes. Han oido un soplo en Utgard sobre la forja de unas herramientas y armas para los Æsir en Svartalfheim, fabricado todo por los renombrados hermanos vegar Brokk y Sindri.
 
 Sveinn accede, conociendo la dificultad del hurto y la posible seguridad que allí encontraría, por lo que planea este robo como nunca había planeado otro robo.
 
-Una vez todo el plan está claro, Sveinn llega a las cuevas de Nidavellir y, sin ser visto, consigue llegar a la forja de Brokk y Sindri, donde ve a los hermanos forjando un ostentoso hacha. Con paciencia, espera a que los hermanos terminen su forja, y al momento de terminarla, aprovecha y roba el hacha. En la huida, varios guardias AEsir le esperaban, pero Sveinn consigue escabullirse de ellos. Sveinn consigue salir de Svartalfheim, pero de forma extremadamente angustiosa, pues Thor mismo le persigue, forzando a Sveinn a cometer errores a la hora de viajar por el Bifröst entre mundos, haciendo de su huida una verdadera odisea.
+Una vez todo el plan está claro, Sveinn llega a las cuevas de Nidavellir y, sin ser visto, consigue llegar a la forja de Brokk y Sindri, donde ve a los hermanos forjando un ostentoso hacha. Con paciencia, espera a que los hermanos terminen su forja, y al momento de terminarla, aprovecha y roba el hacha. En la huida, varios guardias Æsir le esperaban, pero Sveinn consigue escabullirse de ellos. Sveinn consigue salir de Svartalfheim, pero de forma extremadamente angustiosa, pues Thor mismo le persigue, forzando a Sveinn a cometer errores a la hora de viajar por el Bifröst entre mundos, haciendo de su huida una verdadera odisea.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Balder visita a los padres adoptivos de Sveinn en su ausencia]]
 
 > Año 983
 
 Tras muchos años, un Sveinn ya casi adulto se convierte en un ladrón de renombre en Jötunheim, conocido y temido, pero sin saber su verdadera identidad, se comienza a hablar de un ávido ladrón.
+
+---
+
+[[Sveinn crece, aprendiendo a robar]]
 
 > Año ???
 
@@ -2313,19 +3660,31 @@ Muchos dioses aceptan tal propuesta, pero con la condición de que un uso impert
 
 Los dioses aceptan la condición, y viajan a Midgard, separando sus caminos, pues Sveinn se va a vivir al norte, a la zona más fría del mundo, y Vilh prefiere vivir en una aldea cerca de un bosque.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Muere Freyja]], [[Se lleva a cabo el Consejo del Gimlé]]
+
 > Año 1135
 
 Al ver que su casa no contenía ningún tipo de información relevante, Sveinn y Vilh se dirigen a Utgard, el reino más cercano, con la idea de encontrar respuestas o a gente conocida por Sveinn que sepa algo.
 
-El silencio se hace en las calles de Utgard viendo que Sveinn ha vuelto, todos lo dieron por muerto, y saben que su existencia y su presencia allí es motivo suficiente para que los AEsir amenacen a los jötun.
+El silencio se hace en las calles de Utgard viendo que Sveinn ha vuelto, todos lo dieron por muerto, y saben que su existencia y su presencia allí es motivo suficiente para que los Æsir amenacen a los jötun.
 
 Vilh y Sveinn llegan a una taberna de Utgard, allí se enteran de que sus padrastros fueron encontrados ahorcados en su propia casa, los dos, pero que aquella escena fue extraña, pues la casa ya estaba patas arriba previamente.
+
+---
+
+[[Sveinn llega a su antigua casa en Jötunheim]]
 
 > Año 953
 
 Por orden de su madrastra (de nombre desconocido, se conoce que es la figura materna de su familia adoptiva tras la muerte de Aurvandil y Gróa), Svípdag es encomendado el rescate de la giganta llamada Menglod del castillo hubicado en lo alto del pico más elevado de Jötunheim, el monte Lyfjaberg. Todo esto tiene un motivo, y es que la madrastra le dice a Svípdag que Menglod es la mujer con la que está destinado a casarse.
 
 Con gran duda, Svípdag acude a la tumba de su madre, habla solo un rato, hasta que decide hacer un conjuro de nigromancia que recuerda haber aprendido de su misma madre, levantando temporalmente a su madre, Gróa, de la tumba. Ella le contará 9 relatos extremadamente cortos, que servirán a Svípdag en su aventura. Se desconocen qué fueron aquellos 9 relatos, pero se atribuyen históricamente a los 9 fundamentos de la magia Galdr, atribuida a Gróa por su unificación y creación.
+
+---
+
+[[Nace Svípdag]], [[Nace Gróa]]
 
 
 
@@ -2335,9 +3694,17 @@ En el castillo de Lyfjaberg, Svípdag se encuentra con quien custodia la entrada
 
 Dentro, Menglod yace. Svípdag no la rescata como tal, sino que aquel castillo se convierte en su morada.
 
+---
+
+[[Nace Svípdag]]
+
 > Año 132
 
 Previa partida a su tarea de realizar el ciclo día y noche junto a su hermano, Sól y su amante (nunca se casaron), Glen, tienen un hijo de nombre desconocido que vivirá toda su vida con su padre en Asgard, siendo dioses menores junto a Mundalfari.
+
+---
+
+[[Nacen Sól y Máni]]
 
 > Año 933
 
@@ -2349,6 +3716,11 @@ Loki la atrae, poniendo como excusa que en un bosque de aquella ladera de la mon
 
 Los dioses, tras un tiempo sin tomarse manzanas de Idunn, y notando su ausencia, casi matan a Loki, pues fue el último en ser visto junto a la diosa. Loki entonces es mandado a recuperar a la diosa Idunn, y así hace, convirtiéndose en águila, la rapta en un descuido de Thjazi, y huye con ella, devolviéndola a Asgard.
 
+---
+
+[[Nace Idunn]], [[Nacen Thjazi, Idi y Gang]], [[Nacen Loki, Helblindi y Býlisteir]], 
+[[Nace Thor]], [[Nace Hoenir]]
+
 > Año 890
 
 Thor, junto a su sirviente Thjalfi (Röskva se desconoce dónde estaba en aquella misión, se asume que se quedó en Asgard haciendo alguna otra cosa), desafían al jötun Hrungnir.
@@ -2359,26 +3731,46 @@ Hrungnir muere, y su cuerpo se cae sobre Thor. Allí queda encerrado hasta que l
 
 Cuando Thor consigue salir, ve cómo de la morada de Hrungnir sale un preso suyo. Thor conversa con él, y lo deja marchar, es Aurvandil.
 
+---
+
+[[Nace Thor]], [[Nace Hrungnir]], [[Nace Aurvandil]], [[Nace Magni]]
+
 
 
 > Año 891
 
 Thor y Sif oficializan su amor casándose.
 
+---
+
+[[Nace Thor]], [[Nace Síf]]
+
 > Año 967
 
-Debido a las armas que Alvíss había estado fabricando para los AEsir durante tantos años, los dioses de Asgard le ofrecen al enano la posibilidad de casarse con la hija de Thor. Esto enfurece a Thor, pero, persuadido por su padre, urde un plan para que la boda no se lleve a cabo.
+Debido a las armas que Alvíss había estado fabricando para los Æsir durante tantos años, los dioses de Asgard le ofrecen al enano la posibilidad de casarse con la hija de Thor. Esto enfurece a Thor, pero, persuadido por su padre, urde un plan para que la boda no se lleve a cabo.
+
+---
+
+[[Nacen Modi y Thrud]], [[Nace Alvíss]], [[Nace Thor]]
 
 
 
 
-> Año ???
+> Año 1231
 
-Thrym, aunando todas las fuerzas jötun, comanda el ejército de gigantes de hielo hacia el Ragnarök. En él, todas ls huestes de Odinsaker, con su general Helgi al mando, también van.
+Thrym, aunando todas las fuerzas jötun, comanda el ejército de gigantes de hielo hacia el Ragnarök. En él, todas las huestes de Odinsaker, con su general Helgi al mando, también van.
+
+---
+
+[[Nace Thrym]], [[Nace Helgi]]
 
 > Año 660
 
-El rey Agne del Reino de Upsal toma el Reino de Fin, tomando también a la hija del antigüo rey de aquel difunto reino, Skjald, y llevándose también a su hermano, Loge, como siervo.
+El rey Agne del Reino de Upsal toma el Reino de Fin, tomando también a la hija del antigüo rey de aquel difunto reino, Skjalv, y llevándose también a su hermano, Loge, como siervo.
+
+---
+
+[[Nace Agne]]
 
 > Año 725
 
@@ -2386,9 +3778,25 @@ Bajo el reinado del rey Jörund, el Reino de Upsal se anexiona otro territorio, 
 
 Allí Jorund se encuentra a Gylog, hijo de Gudlog, antigüo rey de Berthan asesinado por él mismo en la conquista de aquellas tierras. Gylog daría muerte a Jorund, sucediéndole en el trono de Upsal su hijo, On.
 
+---
+
+[[Nacen Jörund y Eric]], [[Nace On]]
+
+> Año 1183
+
+Tras lo ocurrido, Váli, el dios de la venganza, se dirige furioso a Hoder, agarrándole y metiéndole la cabeza en una una hoguera, sin llegar a matarle, pero dejándole casi en su totalidad incapacitado. El caos se cierne sobre Asgard a los ojos de Odín, que ve cómo la profecía cobra vida delante de sus narices.
+
+---
+
+[[Nace Vali]], [[Nacen Balder y Hoder]], [[Nacen Odín, Vili y Vé]]
+
 > Año 517
 
 Vanladi y Drífa se casan, suponiendo este casamiento el primero y único en la historia entre Götaland y Upsal.
+
+---
+
+[[Nace Vanladi]], [[Nace Drífa]], [[Se funda el Reino de Upsal]], [[Se funda el Reino de Götaland]]
 
 > Año 1126
 
@@ -2396,7 +3804,11 @@ Vilh presencia un notable poder entrando en su bosque a través de las runas pin
 
 Por ello, Vilh crea una ilusión en torno a su casa, haciéndola parecer una choza derruida. Sveinn observa la choza, y se mete en ella buscando esconderse. La magia de Vilh protege a Sveinn en aquel lugar, haciéndolo invisible a la vista de cualquier otra persona, así como ocultando el aspecto real de la casa.
 
-Sveinn cae al suelo, débil, mientras observa a Thor y a otros AEsir entrando en la choza buscándole. Atónito, se da cuenta de que no le ven, y los dioses se van, dejándolo solo. Sveinn finalmente cae dormido por su extremo cansancio.
+Sveinn cae al suelo, débil, mientras observa a Thor y a otros Æsir entrando en la choza buscándole. Atónito, se da cuenta de que no le ven, y los dioses se van, dejándolo solo. Sveinn finalmente cae dormido por su extremo cansancio.
+
+---
+
+[[Sveinn roba el hacha a Brokk y Sindri]], [[Nacen Vilh, Yves, Sveinn y Holger]]
 
 > Año 1138
 
@@ -2406,6 +3818,10 @@ Vilh pinta runas a Sveinn en los brazos, mismas runas que talla en el hacha. Con
 
 "Cada vez que recuerdes el pasado o sientas dolor, el hacha lo equilibrará, reaccionará."
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año 1152
 
 Vilh y Sveinn escuchan historias en un pueblo cercano al Bosque de Vilh sobre la sombra que se ha escapado de las profundidades de Helheim, lo cual suscita en Vilh un interés peculiar, ya que le recuerda a algo.
@@ -2414,15 +3830,27 @@ Corriendo, vuelve a casa, y rebusca en las cosas que se llevó de su antigua cas
 
 Yves pensó posibilidades mientras le contaba todo a un perplejo Sveinn. Pensó que aquella sombra era una forma de vida creada por Gullveig, un Aliento Negro tan peligroso que fue encerrado en Helheim.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Yves escapa de Helheim]]
+
 > Año 1074
 
 Tras la partida de Freyja a Asgard, Vilh se queda solo en el bosque, donde vivirá 100 años en pura soledad.
 
 Al comienzo de esa soledad, enlazará con magia todos los árboles de su bosque a su alma, y llamará al bosque el Bosque de Vilh.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Migraciones forzosas a vivir en Asgard]]
+
 > Año 963
 
 Gullveig, que discutió enormemente con Odín, dejó Asgard y a Odín para siempre, decidiendo volver a Vanaheim, donde Odín había desterrado también a Vilh, y allí decidió cuidarle.
+
+---
+
+[[Destierro de los vástagos de Odín]]
 
 > Año 1154
 
@@ -2431,6 +3859,10 @@ Tras una larga búsqueda por distintos pueblos que fueron relativamente hostiles
 Resultó ser Yves, a quien ellos no conocían, pero que se encontraba cansado. Vilh y Sveinn le dieron cobijo, notándose el cambio de Sveinn ante las visitas inesperadas.
 
 Allí, Yves les contó sobre sus sueños y sobre "la sombra", llamando la atención de un curioso Vilh, y que uno de esos sueños le llevó a pensar que su siguiente parada debía ser aquí. Yves les confiesa que les conoce, que ha visto el robo del hacha de Sveinn y lo que le sucedió a sus padres, lo cual aclara a Sveinn las ideas finalmente de lo sucedido, generándole un estado de ira contenida (aunque al principio se niega a creérselo) que decide soltar yendo de pesca o cazando. Estando solos Vilh e Yves, Yves le cuenta a Vilh que también es conocedor de su separación de la diosa Freyja, además de la manipulación de Frey y Njörd de aquel acuerdo de paz por soborno de Odín. Vilh no se sorprende tanto, toda su vida ha creído aquello, odiando a Frey y a Njörd por encima de todo.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Yves viaja a Vanaheim]]
 
 > Año 1126
 
@@ -2442,23 +3874,35 @@ En esas semanas, los dos conviven, con un Sveinn reacio a comer lo que Vilh com�
 
 Tras esas semanas, y con más confianza en un Vilh que le había contado sus historias y penurias del pasado, Sveinn se abre, y cuenta a Vilh todo el hurto del hacha, y sus desconfianzas con aquel plan.
 
+---
+
+[[Vilh ayuda a Sveinn]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año 1130
 
 Un día, Vilh no vio a Sveinn en ninguno de los sitios donde solía estar, cazando, pescando, tallando algo. Se encontraba en un río cercano al bosque de Vilh, mirando el cauce.
 
 Vilh le pregunta, y Sveinn responde que está meditando si ir o no ir a Jötunheim de vuelta. No pretende volver a vivir allí, sino visitar a sus padrastros, en busca de respuestas que aún tras tanto tiempo siguen en su cabeza.
 
-Vilh accede a acompañarle, pues dice que su hacha no podrá ser suficiente si un puñado de dioses AEsir se presentan allí, ya que suelen frecuentar Jötunheim algunos de ellos como Thor u Odín.
+Vilh accede a acompañarle, pues dice que su hacha no podrá ser suficiente si un puñado de dioses Æsir se presentan allí, ya que suelen frecuentar Jötunheim algunos de ellos como Thor u Odín.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Vilh y Sveinn se conocen mejor]]
 
 > Año 1185
 
-Tras la muerte de Balder y el muy probable conocimiento de Odín sobre que sus hijos saben de su pasado, los vástagos del caos temen un inminente asalto. Los dioses AEsir y muchos dioses Vanir que simpatizan con ellos aún comienzan a moverse, como ellos temían. Conociendo la ubicación del Bosque de Vilh, los asaltan.
+Tras la muerte de Balder y el muy probable conocimiento de Odín sobre que sus hijos saben de su pasado, los vástagos del caos temen un inminente asalto. Los dioses Æsir y muchos dioses Vanir que simpatizan con ellos aún comienzan a moverse, como ellos temían. Conociendo la ubicación del Bosque de Vilh, los asaltan.
 
 Thor pelea con Sveinn, el más curtido en batalla, pero Sveinn sale herido de aquello. Thjalzi y sus hijos luchaban con él también, debilitándolo, pero no pudiendo con él
 
 Los demás dioses pelean levemente con Holger y Vilh, pues Yves aún no está del todo preparado, pero éstos 2 dioses se dedican más a preparar su huída.
 
 Gracias a la magia de Vilh, consiguen escabullirse y huir hacia Helheim.
+
+---
+
+[[Se llevan a cabo los preparativos del Ragnarök]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Thor]]
 
 > Año 1158
 
@@ -2470,6 +3914,10 @@ Vilh, Holger, Sveinn e Yves son hijos de Odín y Gullveig, de un amor que fue ve
 
 Odín está predestinado a morir bajo las fauces de un enorme lobo, cabalgado por uno de sus propios hijos.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año 723
 
 Debido a la debilidad del Reino de Upsal en aquel momento, el rey Hake del Reino de Vin decide conquistar Upsal, consiguiéndolo y asesinando a su actual rey, Hugleik.
@@ -2478,43 +3926,77 @@ De todas maneras, Jörund y Eric, hijos de Yngve, que se encontraban conquistand
 
 Jorund entonces se proclamará rey del Reino de Upsal, ahora con los antiguos reinos de Fin y Berthan anexionados.
 
-> Año 1183
+---
 
-Tras lo ocurrido, Váli, el dios de la venganza, se dirige furioso a Hoder, agarrándole y metiéndole la cabeza en una una hoguera, sin llegar a matarle, pero dejándole casi en su totalidad incapacitado. El caos se cierne sobre Asgard a los ojos de Odín, que ve cómo la profecía cobra vida delante de sus narices.
+[[Nacen Jörund y Eric]], [[Nacen Yngve y Alf]]
 
 > Año 83
 
 Vé, en desacuerdo con la gestión en Asgard por parte de sus hermanos, se marcha al mundo de Vanaheim para reinarlo, naciendo así la raza de los dioses Vanir.
 
+---
+
+[[Odín, Vili y Vé se instalan en Asgard]], [[Creación de los 9 mundos]]
+
 > Año 390
 
 Völund y sus hermanos son secuestrados por el rey humano del reino de Närke (Nidud) y obligados a fabricar arsenal de guerra y joyería.
 
-Tras unos meses, Völund asesina a todos los hijos del rey y viola a su hija (Bodvild), para luego escaparse llevándose una de las mejores armas que fabricó durante su estancia, la espada [Lavatine]().
+Tras unos meses, Völund asesina a todos los hijos del rey y viola a su hija (Bodvild), para luego escaparse llevándose una de las mejores armas que fabricó durante su estancia, la espada Lavatine. Sin embargo, esa espada sería perdida en la huida, quedándose clavada en una roca de Midgard.
+
+La forja de Lavatine fue especial, pues se realizó en el punto más álgido de su odio y cólera en aquella situación, algo que se transmitió al arma debido a la estrecha relación sentimental que establece la forja con los elfos oscuros y, posteriormente, con los enanos.
+
+---
+
+[[Nacen Völund, Agilaz y Slagfid]]
 
 > Año 18
 
 Ymir, amamantado por la leche de Audumbla durante años, consigue alcanzar su descomunal tamaño final.
 
+---
+
+[[Nace Ymir]], [[Audumbla crea 4 ríos de leche]]
+
 > Año 73
 
 Ymir devora a la vaca Audumbla considerando que ella fue el inicio de la raza de descendiente de Buri, de la cual no se fiaba.
+
+---
+
+[[Ymir consigue su tamaño final]], [[Audumbla crea 4 ríos de leche]]
 
 > Año 989
 
 Por motivos desconocidos, Adils se deshace de Yrsa y la destierra para siempre de sus reinos y de los de su hijo. Yrsa entonces migra a Jötunheim, donde malvivirá el resto de su vida.
 
+---
+
+[[Nace Yrsa]], [[Nace Adils]]
+
 > Año 1076
 
 En su estancia en las cárceles de Helheim, Yves comienza a tener pesadillas que realmente son versiones sentimentales de hechos del pasado y del futuro, desarrolladas por una forma sombría que solo ha visto en esas pesadillas. Yves se cuestiona constantemente quién o qué es aquella sombra.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Los 9 sueños de Yves]]
 
 > Año 1146
 
 Tras unos años encerrado, Yves y su carcelera Hela hablan a menudo. En un comienzo, Hela se mostraba reacia a establecer contacto con Yves, pero tras uno de sus sueños, Hela ve interesante aquello, y se interesa por hablar con él.
 
+---
+
+[[Nacen los Vástagos del Caos]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año ???
 
 Yves continúa y continuará en el letargo tras el Ragnarök cuando todos ya hayan despertado. Debido al uso desmesurado de Fjölkyng, junto con heridas graves, su cuerpo está al borde del colapso, y debe reposar en un letargo de unos cientos de años.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]
 
 > Año 1153
 
@@ -2522,7 +4004,11 @@ Tras la batalla en Muspelheim, Yves sale del palacio y ve la imagen de Surt sost
 
 Sin mediar palabra con él, Surt vuelve a palacio.
 
-Tras unos días, Yves decide marcharse, para no causar más problemas. Sigue sin saber por qué estuvo encarcelado, el por qué de sus sueños, y por qué en cuanto ha huido los mismos AEsir han venido a por él. Surt, triste, no responde ante la idea de marchar de Yves, lo ve bien, aunque sabe que él no tiene la culpa.
+Tras unos días, Yves decide marcharse, para no causar más problemas. Sigue sin saber por qué estuvo encarcelado, el por qué de sus sueños, y por qué en cuanto ha huido los mismos Æsir han venido a por él. Surt, triste, no responde ante la idea de marchar de Yves, lo ve bien, aunque sabe que él no tiene la culpa.
+
+---
+
+[[Surt hace un altar a Sinmara en Muspelheim]]
 
 > Año ???
 
@@ -2538,59 +4024,121 @@ Tras cientos de años, Yves despertaría de su longevo letargo.
 
 Hela continuaría viva, y le contaría a Yves todo lo ocurrido tras el Ragnarök.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nacen los Vástagos del Caos]]
+
 > Año 963
 
 El destierro de Yves es el más severo, pues supone un peligro ya conocido, y decidieron encerrarle en Helheim, custodiado por la diosa Hela, para evitar problemas debido a su poder.
 
-Allí, Yves será encerrado en una capa relativamente alta del Náströnd, por orden directa de Odín. Hela, en cambio, indicará a los dragones que moran cerca (en la cordillera Nidafjöll), que cuando vayan a roer las raíces del Yggdrasil, y a devorar cadáveres, a él lo dejen, pues ve severo el castigo para un simple niño, pese a no saber qué ha hecho exactamente, y su confianza en los AEsir es muy débil como para confiar más en ellos que en un niño.
+Allí, Yves será encerrado en una capa relativamente alta del Náströnd, por orden directa de Odín. Hela, en cambio, indicará a los dragones que moran cerca (en la cordillera Nidafjöll), que cuando vayan a roer las raíces del Yggdrasil, y a devorar cadáveres, a él lo dejen, pues ve severo el castigo para un simple niño, pese a no saber qué ha hecho exactamente, y su confianza en los Æsir es muy débil como para confiar más en ellos que en un niño.
+
+---
+
+[[Destierro de los vástagos de Odín]]
 
 > Año 1150
 
-Tras concluir el noveno sueño de Yves, dentro de él se vuelve a encender la cólera del Fjölkyng, y aparece de nuevo si forma sombría y poderosa, rompiendo las raíces que lo amarraron durante tantos años y acto seguido la celda donde estaba encerrado. En su huida, también causa defectos al Palacio de las Sombras de Hela, ante unos ojos incrédulos de la diosa de la muerte, que ve como una poderosa sombra escapa veloz y torpemente de Helheim.
+Tras concluir el noveno sueño de Yves, dentro de él se vuelve a encender la cólera del Fjölkyng, y aparece de nuevo si forma sombría y poderosa, rompiendo las raíces que lo amarraron durante tantos años y acto seguido la celda donde estaba encerrado. En su huida, también causa defectos al Palacio de las Sombras de Hela (llamado así por la oscuridad de su piedra y las nieblas), ante unos ojos incrédulos de la diosa de la muerte, que ve como una poderosa sombra escapa veloz y torpemente de Helheim.
+
+---
+
+[[Yves tiene su noveno sueño]], [[Nacen Vilh, Yves, Sveinn y Holger]]
 
 > Año 1185
 
 En vista de que el Fimbulwinter ha comenzado, los vástagos de Odín y Gullveig comienzan su campaña.
 
-Yves va a Muspelheim a convencer a Surt para que participe en el Ragnarök, le cuenta la historia de Lavatine, la espada de Sinmara, con la idea de que todo esto no es casualidad, de que Yves hubiese aparecido allí algún día no fuese casualidad, la muerte de Sinmara no fue casualidad. Todo esto viene de lo conocido al ir a visitar a las nornas. Eso, la muerte de Balder y el comienzo del Fimbulwinter, convencen a Surt. Los dioses están predestinados a perecer.
+Yves va a Muspelheim a convencer a Surt para que participe en el Ragnarök, le cuenta la historia de Lavatine, la espada de Sinmara, con la idea de que todo esto no es casualidad, de que Yves hubiese aparecido allí algún día no fuese casualidad, la muerte de Sinmara no fue casualidad.
 
-Yves también le comunica el plan de enviar el Naglfar a Muspelheim.
+*Lavatine es la espada del odio, en mi sueño presencié su forja, y cómo los sentimientos más oscuros de Völund fueron plasmados en ella. Su hoja dicta:*
+
+*"Aquel que empuñe, con corazón helado y oscuro, será entregado a la cólera, será preso del odio."*
+
+ Esto se suma a lo conocido al ir a visitar a las nornas. Eso, la muerte de Balder y el comienzo del Fimbulwinter, convencen a Surt. Los dioses están predestinados a perecer.
+
+Yves no solamente comunica esto a Surt, sino que también les indica que pronto traerán el Naglfar para llegar al Bifröst de su mundo de manera más ágil debido a la orogénesis del terreno de Muspelheim.
+
+Al marcharse, Yves y Glaur hablan de nuevo.
+
+Yvse tuvo visiones de Surt creciendo imparable y quemando el universo, pero también de Glaur muriendo en combate. Se despidieron, pero Yves no contó nada de aquello.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Surt]], [[Völund y sus hermanos son secuestrados]], [[Nace Glaur]]
 
 > Año 1185
 
 Tras su conversación con Surt, Yves regresa a Helheim para reencontrarse con sus hermanos.
 
+---
+
+[[Yves le cuenta a Surt la profecía del Ragnarök]], [[Nacen Vilh, Yves, Sveinn y Holger]]
+
 > Año 1125
 
 Yves tiene su cuarto sueño.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Los 9 sueños de Yves]]
 
 > Año 1149
 
 Yves tiene su noveno y último sueño.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Los 9 sueños de Yves]]
+
 > Año 1148
 
 Yves tiene su octavo sueño.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Los 9 sueños de Yves]]
 
 > Año 1126
 
 Yves tiene su quinto sueño.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Los 9 sueños de Yves]]
+
 > Año 1081
 
 Yves tiene su segundo sueño.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Los 9 sueños de Yves]]
 
 > Año 1135
 
 Yves tiene su sexto sueño.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Los 9 sueños de Yves]]
+
 > Año 1146
 
  Yves tiene su séptimo sueño tras 11 años sin tener uno.
 
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Los 9 sueños de Yves]]
+
 > Año 1112
 
-Yves tiene su tercer sueño
+Yves tiene su tercer sueño.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Los 9 sueños de Yves]]
 
 > Año 1185
 
@@ -2598,9 +4146,35 @@ Debido a los ataques en Vanaheim hacia los vástagos de Odín y Gullveig, todos 
 
 Yves decide no ir con sus hermanos, pues desea hablar antes con Surt, contarle la profecía, y convencerle de luchar a su lado. Por ello, parte a Muspelheim.
 
+---
+
+[[Se llevan a cabo los preparativos del Ragnarök]]
+
 > Año 1154
 
-Tras los sucesos en Muspelheim, ver el Lavatine en manos de Sinmara, Yves confía en que sus sueños durante su penitencia en Helheim no fueron mera casualidad, significaban algo.
+Tras los sucesos en Muspelheim, ver el Lavatine en manos de Sinmara, Yves confía en que sus sueños durante su penitencia en Helheim no fueron mera casualidad, así como llegar a Muspelheim sin querer tras huir. Todo significaba algo.
 
 Por ello, decide seguirlos, y como en uno de sus sueños, Yves tras huir de una batalla en Muspelheim aparecía en un bosque cuyos árboles poseían runas, árboles que observaban, árboles que cuchicheaban. Por intuición, Yves decidió buscar aquel lugar en Vanaheim.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]
+
+> Año 887
+
+Ægir entabla su segundo matrimonio, y el último, con la jötun Aurboda.
+
+No ocurre mucho después de la muerte de Rán.
+
+---
+
+[[Nacen Ægir, Logi y Kári]], [[Nace Aurboda]]
+
+> Año 861
+
+Comienzan la relación dos de los jötun más temidos de los mares de Jötunheim, Ægir y Rán.
+
+---
+
+[[Nacen Ægir, Logi y Kári]], [[Nace Rán]]
 

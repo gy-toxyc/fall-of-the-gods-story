@@ -6,7 +6,7 @@
       {
         "id": "b823ce58b5164863",
         "type": "tabs",
-        "dimension": 44.40104166666667,
+        "dimension": 44.40104166666666,
         "children": [
           {
             "id": "a8966a211f78c0bc",
@@ -37,7 +37,7 @@
       {
         "id": "59d53d1f30175802",
         "type": "tabs",
-        "dimension": 55.598958333333336,
+        "dimension": 55.59895833333334,
         "children": [
           {
             "id": "89b1b0f2567c8f80",
@@ -48,8 +48,8 @@
                 "file": "Main Canvas.canvas",
                 "viewState": {
                   "x": -1548.1577091264026,
-                  "y": 29590.667386594847,
-                  "zoom": -0.8762736002604168
+                  "y": 3254.8383826886175,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -200,8 +200,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
