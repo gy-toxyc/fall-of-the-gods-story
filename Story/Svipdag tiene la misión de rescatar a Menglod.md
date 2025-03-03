@@ -4,3 +4,7 @@ Por orden de su madrastra (de nombre desconocido, se conoce que es la figura mat
 
 Con gran duda, Svípdag acude a la tumba de su madre, habla solo un rato, hasta que decide hacer un conjuro de nigromancia que recuerda haber aprendido de su misma madre, levantando temporalmente a su madre, Gróa, de la tumba. Ella le contará 9 relatos extremadamente cortos, que servirán a Svípdag en su aventura. Se desconocen qué fueron aquellos 9 relatos, pero se atribuyen históricamente a los 9 fundamentos de la magia Galdr, atribuida a Gróa por su unificación y creación.
 
+---
+
+[[Nace Svípdag]], [[Nace Gróa]]
+
