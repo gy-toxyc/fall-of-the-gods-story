@@ -9,3 +9,7 @@ El primer día, con su caballo Svidalfi, reunió las piedras necesarias. Finalme
 Cerca del final del invierno, la muralla, pese a ser descomunal, no estaba completa, faltaba terminar unos detalles de la entrada. Por ello, los dioses enviaron a Loki a hacer algo, pues él tuvo la idea de aceptar el trato. Loki se transformó en un caballo hembra, y sedujo a Svidalfi, el cual lo persiguió por los bosques de Asgard, con el constructor maestro detrás de ellos. El trabajo no fue completado, y los dioses se negaron a pagar lo que acordaron.
 
 Unos meses después, Loki aparecería de nuevo, con un caballo joven, hijo de él y de Svidalfi, llamado Sleipnir, el cual tenía 8 patas, y se lo regalaría a Odín.
+
+---
+
+[[Nacen Freyja y Frey]], [[Nacen Sól y Máni]], [[Nacen Loki, Helblindi y Býlisteir]], [[Nacen Odín, Vili y Vé]], [[Final de la Guerra de los Dioses]]

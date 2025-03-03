@@ -6,7 +6,7 @@
       {
         "id": "b823ce58b5164863",
         "type": "tabs",
-        "dimension": 44.563802083333336,
+        "dimension": 43.359375,
         "children": [
           {
             "id": "a8966a211f78c0bc",
@@ -23,7 +23,7 @@
       {
         "id": "59d53d1f30175802",
         "type": "tabs",
-        "dimension": 55.43619791666667,
+        "dimension": 56.640625,
         "children": [
           {
             "id": "89b1b0f2567c8f80",
@@ -33,9 +33,9 @@
               "state": {
                 "file": "Main Canvas.canvas",
                 "viewState": {
-                  "x": 253.71038361147458,
-                  "y": 33589.65283132502,
-                  "zoom": -1.5697753906249994
+                  "x": -248.53049550430572,
+                  "y": 71716.21829966597,
+                  "zoom": -0.00038248697916679064
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -209,10 +209,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "89b1b0f2567c8f80",
+  "active": "a8966a211f78c0bc",
   "lastOpenFiles": [
+    "Story/Nacen Vilh, Yves, Sveinn y Holger.md",
     "Main Canvas.canvas",
     "Story/Nacen Odín, Vili y Vé.md",
+    "Story/Los 9 sueños de Yves.md",
     "Family Tree Canvas.canvas",
     "Magia del Ginnungagap.md",
     "Story/Sveinn crece, aprendiendo a robar.md",
@@ -237,7 +239,6 @@
     "Story/Nace Valfthrúdnir.md",
     "Heralds of Chaos/1. El Fugitivo.md",
     "Heralds of Chaos/2. Tierra de Luz y Ambición.md",
-    "Razas/Dioses - Æsir y Vanir.md",
     "Razas",
     "Tales of Gold and Darkness",
     "Heralds of Chaos - copia",

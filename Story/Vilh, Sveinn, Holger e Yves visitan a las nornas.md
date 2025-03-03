@@ -7,3 +7,7 @@ Cuando llegan al Pozo de Urd en Midgard, las nornas les cuentan su pasado, su pr
 Vilh, Holger, Sveinn e Yves son hijos de Odín y Gullveig, de un amor que fue verdadero, pero que supuso el engendro de los 4 verdaderos vástagos del caos, herederos de la sabiduría y fuerza de Odín, pero también de la magia y la oscuridad de Gullveig. Odín se dio cuenta de aquello, y quiso desterrarlos, para más adelante tratar de controlarlos o mermar sus vidas.
 
 Odín está predestinado a morir bajo las fauces de un enorme lobo, cabalgado por uno de sus propios hijos.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]

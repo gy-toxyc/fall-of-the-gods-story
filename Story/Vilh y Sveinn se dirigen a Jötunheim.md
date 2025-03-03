@@ -4,4 +4,8 @@ Un día, Vilh no vio a Sveinn en ninguno de los sitios donde solía estar, cazan
 
 Vilh le pregunta, y Sveinn responde que está meditando si ir o no ir a Jötunheim de vuelta. No pretende volver a vivir allí, sino visitar a sus padrastros, en busca de respuestas que aún tras tanto tiempo siguen en su cabeza.
 
-Vilh accede a acompañarle, pues dice que su hacha no podrá ser suficiente si un puñado de dioses AEsir se presentan allí, ya que suelen frecuentar Jötunheim algunos de ellos como Thor u Odín.
+Vilh accede a acompañarle, pues dice que su hacha no podrá ser suficiente si un puñado de dioses Æsir se presentan allí, ya que suelen frecuentar Jötunheim algunos de ellos como Thor u Odín.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Vilh y Sveinn se conocen mejor]]

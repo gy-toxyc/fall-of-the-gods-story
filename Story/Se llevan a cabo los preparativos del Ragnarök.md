@@ -9,3 +9,7 @@ Durante estos años, conversarán, se conocerán, y especularán sobre el tema d
 *"Hugin y Munin."* - dijo Holger.
 
 Todos entraron en casa de Vilh, y conversaron alterados, sin tomar una decisión clara.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]

@@ -8,6 +8,8 @@ Allí, los dioses Æsir la ataron e inmovilizaron en una pira, donde la prendier
 
 Odín hundió la lanza Gungnir en la frente de Gullveig, acabando con su vida.
 
+Antes de todo esto, Gullveig maldijo a Odín. Uno de sus futuros hijos, no iba a saber cuál hasta descubrirlo, sufriría las pesadillas del Fjölkyng una vez la Sombra escapase de su cautiverio.
+
 ---
 
-[[Nace Gullveig]], [[Nacen Odín, Vili y Vé]], [[Se forjan las armas y artilugios de los AEsir]]
+[[Nace Gullveig]], [[Nacen Odín, Vili y Vé]], [[Se forjan las armas y artilugios de los Æsir]]

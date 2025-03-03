@@ -5,3 +5,7 @@ Comienza el Ragnarök, la mayor guerra de todos los tiempos, la conclusión de l
 Dos partes diferenciadas se enfrentarán, los dioses, tanto AEsir como Vanir, con apoyos de los elfos de luz y elfos oscuros, contra las fuerzas de la naturaleza, también llamados Vaetir, compuesto por los enanos, los gigantes de fuego, gigantes de hielo y los seres de Helheim.
 
 El comienzo del Ragnarök lo dará Heimdall, cuando toque su cuerno Gjallarhorn desde la colina más alta del Vigrid en Midgard.
+
+---
+
+[[Nace Heimdall]], [[Surt se dirige a Vígrid]], [[Thrym marcha hacia el Ragnarök]], [[El ejército de Helheim parte hacia Vigrid]]

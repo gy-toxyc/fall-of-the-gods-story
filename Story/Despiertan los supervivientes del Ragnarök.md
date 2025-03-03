@@ -12,7 +12,7 @@ Poco a poco, los supervivientes del Ragnarök despertarán de un extraño letarg
 - Magni
 - Modi
 
-## Contrarios
+## Vætir
 
 - Vilh
 - Sveinn
@@ -31,3 +31,7 @@ Poco a poco, los supervivientes del Ragnarök despertarán de un extraño letarg
 ---
 
 Pese a que en esta línea temporal no se muestren las muertes de todos los personajes mencionados que llegan a luchar en el Ragnarök, se da por hecho su muerte si no aparecen en esta lista, y si su muerte no es destacada en la línea temporal se debe a que no es de gran importancia.
+
+---
+
+[[Final del Ragnarök]]

@@ -7,3 +7,7 @@ Allí, todos hablan, y llegan a una conclusión, un nuevo orden. Conocedores de 
 Por otra parte, las antiguas tierras de Helheim, Niflheim e incluso Muspelheim, el ahora llamado Náströnd, albergará las almas de los fallecidos cuya vida haya sido en su mayoría moralmente inaceptable.
 
 Los dioses, así como los habitantes de Náströnd, no tomarán jamás partida en la historia de la nueva humanidad, solo intervendrán en casos extremos.
+
+---
+
+[[Despiertan los supervivientes del Ragnarök]], [[Los dioses vuelven a sus antiguas tierras]]

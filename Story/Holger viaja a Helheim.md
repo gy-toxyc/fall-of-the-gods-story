@@ -7,3 +7,7 @@ Al llegar, Hela lo recibe con rechazo, pero él rápidamente le da señales para
 Hela le cuenta que Yves no ha vuelto desde que escapó, con cierta pena. Hablando de sus sueños, uno de ellos incita a Holger a pensar que posiblemente haya partido a Vanaheim, pues en uno de ellos aparecen dos conocidos suyos (Vilh y Sveinn), es el único sueño perteneciente a la actualidad, entonces posiblemente haya ido allí.
 
 Se dispone a partir hacia Vanaheim entonces.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nacen los Vástagos del Caos]]

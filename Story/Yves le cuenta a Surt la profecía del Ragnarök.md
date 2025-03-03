@@ -15,3 +15,7 @@ Yves no solamente comunica esto a Surt, sino que también les indica que pronto 
 Al marcharse, Yves y Glaur hablan de nuevo.
 
 Yvse tuvo visiones de Surt creciendo imparable y quemando el universo, pero también de Glaur muriendo en combate. Se despidieron, pero Yves no contó nada de aquello.
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]], [[Nace Surt]], [[Völund y sus hermanos son secuestrados]], [[Nace Glaur]]

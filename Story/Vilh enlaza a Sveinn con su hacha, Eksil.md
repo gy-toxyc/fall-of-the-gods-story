@@ -5,3 +5,7 @@ Tras la vuelta de los dos al Bosque de Vilh en Vanaheim, Vilh decide enlazar con
 Vilh pinta runas a Sveinn en los brazos, mismas runas que talla en el hacha. Con magia, esas runas de unión se quedan permanentemente en las dos partes, por mucho que fuesen una vez pintura en la piel de Sveinn, ya no se podría deshacer de ellas.
 
 "Cada vez que recuerdes el pasado o sientas dolor, el hacha lo equilibrará, reaccionará."
+
+---
+
+[[Nacen Vilh, Yves, Sveinn y Holger]]

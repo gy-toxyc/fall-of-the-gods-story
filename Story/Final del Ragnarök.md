@@ -14,3 +14,7 @@ La tierra que poblaron los descendientes de Líf y Lifthrásir será llamada igu
 Lo que anteriormente sería Niflheim, Muspelheim y Helheim han convergido en un mundo nuevo, que se le llama a partir de ahora Náströnd.
 
 A su vez, el árbol Laerad, que proveía de las famosas Manzanas de Idunn para alargar la vida de los dioses, ya no existe, por lo que los dioses son plenamente mortales. Llegará un día en el que, si no ha habido suficiente descendencia, los dioses dejen de existir.
+
+---
+
+[[Perece la raza de los Jötun]], [[Perece la raza de los Muspel]]

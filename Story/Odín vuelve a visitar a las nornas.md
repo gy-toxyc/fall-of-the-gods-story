@@ -7,3 +7,7 @@ En busca de respuestas por las continuas pesadillas de Balder, Odín vuelve a ac
 "Te estrellarás contra él." dijo Skuld.
 
 Nada más dijeron, Odín tuvo que irse, siendo esta la última vez que verá a las nornas.
+
+---
+
+[[Frigg y Odín buscan la respuesta y solución a las pesadillas de Balder]]

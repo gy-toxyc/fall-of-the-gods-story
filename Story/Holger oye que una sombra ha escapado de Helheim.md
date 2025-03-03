@@ -5,3 +5,7 @@ Ya en su marcha de Heorot, con la idea de volver a Asgard, Holger escucha por el
 Esto le recuerda enormemente a lo que había leido en Heorot sobre aquel Episodio Oscuro de Asgard, relato e historia que parece haberse perdido con los años, pero que se conserva aún en aquellas bibliotecas, quizá en las de Asgard también, pero ocultas.
 
 Con este indicio, Holger decide volver a Asgard y tratar de investigar la veracidad de aquella historia. Por qué Odín ocultaría aquello, qué es aquella sombra.
+
+---
+
+[[Holger lee sobre el Episodio Oscuro de Asgard]], [[Nacen Vilh, Yves, Sveinn y Holger]], [[Yves escapa de Helheim]]

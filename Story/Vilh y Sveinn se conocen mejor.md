@@ -7,3 +7,7 @@ Vilh le explica lo que hizo y lo que vio, preguntándole por qué le perseguía 
 En esas semanas, los dos conviven, con un Sveinn reacio a comer lo que Vilh comía (generalmente vegetales o frutos del bosque), yendo a cazar para sí algunas veces.
 
 Tras esas semanas, y con más confianza en un Vilh que le había contado sus historias y penurias del pasado, Sveinn se abre, y cuenta a Vilh todo el hurto del hacha, y sus desconfianzas con aquel plan.
+
+---
+
+[[Vilh ayuda a Sveinn]], [[Nacen Vilh, Yves, Sveinn y Holger]]
